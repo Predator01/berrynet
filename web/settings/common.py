@@ -1,0 +1,33 @@
+# -*- encoding:utf-8 -*-
+
+# PRODUCTION SETTINGS
+# OVERWRITE BY DEV|TEST
+
+
+from private import *
+
+
+DEBUG = False
+
+#SQLALCHEMY_DATABASE_URI = 'mysql://root@33.33.33.10:3306/overholt'
+
+# MAIL_DEFAULT_SENDER = 'crmsuscriptions@gmail.com'
+MAIL_SERVER = 'smtp.gmail.com'
+MAIL_PORT = 465
+MAIL_USE_SSL = True
+MAIL_USERNAME = 'crmsuscriptions'
+MAIL_PASSWORD = '.ale.748512'
+
+SECURITY_POST_LOGIN_VIEW = '/profile'
+SECURITY_PASSWORD_HASH = 'plaintext'
+SECURITY_PASSWORD_SALT = 'password_salt'
+SECURITY_REMEMBER_SALT = 'remember_salt'
+SECURITY_RESET_SALT = 'reset_salt'
+SECURITY_RESET_WITHIN = '5 days'
+SECURITY_CONFIRM_WITHIN = '5 days'
+SECURITY_SEND_REGISTER_EMAIL = False
+SECURITY_TRACKABLE = True
+
+CSRF_ENABLED = True
+
+DEBUG_TB_INTERCEPT_REDIRECTS = False
