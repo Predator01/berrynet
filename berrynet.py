@@ -8,7 +8,7 @@ import sqlalchemy
 
 TEXTS_FOLDER = 'texts/'
 DEFAULT_TEXT = 'default.txt'
-EXTRA_CHARS = '",./\'-_?¿*:()[]{}¡!%$=0987654321'
+EXTRA_CHARS = '",./\'-_?¿*:()[]{}¡!%$=0987654321“”‘’'
 
 
 index = 1
@@ -23,7 +23,7 @@ def set_data_text():
 
 def flush_query(words):
     global index
-    for word, value in words.iteritems():
+    for word, value in sorted(words.iteritems()):
         print index, word, value
         index += 1
     print '----------------------------------------------------------------'
