@@ -1,7 +1,7 @@
 # -*-coding:utf-8 -*-
 
 import sys
-import pycurl
+import urllib2
 import sqlalchemy
 
 TEXTS_FOLDER = 'texts/'
@@ -24,11 +24,9 @@ def flush_query(words):
 def get_text(url, query=True, author="Unknown", title="Unknown", period="Unknown"):
     file_name = DEFAULT_TEXT if query else '_'.join([author, title]) + '.txt'
     with open(TEXTS_FOLDER + file_name, 'wb') as text_file:
-        curl = pycurl.Curl()
-        curl.setopt(curl.URL, url)
-        curl.setopt(curl.WRITEDATA, text_file)
-        curl.perform()
-        curl.close()
+        response = urllib2.urlopen(url)
+        text = response.read()
+        text_file.write(text)
     return file_name
 
 
