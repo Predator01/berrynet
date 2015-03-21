@@ -1,10 +1,8 @@
 # -*-coding:utf-8 -*-
 
-
 import sys
 import pycurl
 import sqlalchemy
-
 
 TEXTS_FOLDER = 'texts/'
 DEFAULT_TEXT = 'default.txt'
@@ -59,4 +57,3 @@ def read_text(file_name):
             line = text_file.readline()
 
         flush_query(words)
-        
