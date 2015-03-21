@@ -4,65 +4,104 @@ from sqlalchemy import String
 from sqlalchemy import Integer
 from sqlalchemy import ForeignKey
 from sqlalchemy import func
+from sqlalchemy import FLOAT
 from sqlalchemy.orm import backref
 from sqlalchemy.orm import relationship
 from sqlalchemy.ext.declarative import declarative_base
  
 Base = declarative_base()
- 
+
+
+"""
+Intermediary
+"""
 class Words(Base):
-    __tablename__ = 'Words'
-    idWord = Column(Integer, primary_key=True)
+    __tablename__ = 'words'
+    id = Column(Integer, primary_key=True)
     text = Column(String)
 
+"""
+Primary tables
+"""
+
 class SentenceLength(Base):
-    __tablename__ = 'SentenceLength'
-    idSenLength = Column(Integer, primary_key=True)
+    __tablename__ = 'sentence_length'
+    id = Column(Integer, primary_key=True)
     length = Column(String)
 
-class Two_Word(Base):
-    __tablename__ = 'Two_Word'
-    idTwoWord = Column(Integer, primary_key=True)
-    TwoWord = Column(String)
+class TwoWord(Base):
+    __tablename__ = 'two_words'
+    id = Column(Integer, primary_key=True)
+    two_word = Column(String)
 
 class Periods(Base):
-    __tablename__ = 'Periods'
-    idPeriod = Column(Integer, primary_key=True)
+    __tablename__ = 'periods'
+    id = Column(Integer, primary_key=True)
     name = Column(String)
 
 class Book(Base):
-    __tablename__ = 'Book'
-    idBook = Column(Integer, primary_key=True)
+    __tablename__ = 'books'
+    id = Column(Integer, primary_key=True)
     name = Column(String)
     author = Column(String)
-    idPeriod = Column(Integer, 
-        ForeignKey('Periods.idPeriod') )
-    TotalWords = Column(Integer)
-    SentenceTotal = Column(Integer)
+    id_period = Column(Integer, 
+        ForeignKey('periods.id') )
+    total_words = Column(Integer)
+    sentence_total = Column(Integer)
 
 class WordCount(Base):
-    __tablename__ = 'WordCount'
+    __tablename__ = 'words_count'
     id = Column(Integer, primary_key=True)
-    idBook = Column(Integer, ForeignKey('Words.idWord') )
-    idWord = Column(Integer, ForeignKey('Book.idBook') )    
+    id_word = Column(Integer, ForeignKey('words.id') )
+    id_book = Column(Integer, ForeignKey('books.id') )    
     count = Column(Integer)
 
 class SentenceLengthBook(Base):
-    __tablename__ = 'SentenceLengthBook'
+    __tablename__ = 'sentence_length_book'
     id = Column(Integer, primary_key=True)
-    idSenLength = Column(Integer, 
-        ForeignKey('SentenceLength.idSenLength') )
-    idbook = Column(Integer, ForeignKey('Book.idBook') )
+    id_sen_length = Column(Integer, 
+        ForeignKey('sentence_length.id') )
+    id_book = Column(Integer, ForeignKey('books.id') )
     count = Column(Integer)
 
 class TwoWordBook(Base):
-    __tablename__ = 'TwoWordBook'
+    __tablename__ = 'two_word_book'
     id = Column(Integer, primary_key=True)
-    idTwoWord = Column(Integer, 
-        ForeignKey('Two_Word.idTwoWord') )
-    idbook = Column(Integer, ForeignKey('Book.idBook') )
+    id_two_word = Column(Integer, 
+        ForeignKey('two_words.id') )
+    id_book = Column(Integer, ForeignKey('books.id') )
     count = Column(Integer)
 
+"""
+Secondary tables
+"""
+class Category(Base):
+    __tablename__ = 'category'
+    id = Column(Integer, primary_key=True)
+    description = Column(String)
+
+class WordCategory(Base):
+    __tablename__ = 'word_category'
+    id_word = Column(Integer, 
+        ForeignKey('words.id'),
+        primary_key=True )
+    id_category = Column(Integer,  
+        ForeignKey('category.id'),
+        primary_key=True )
+    min_range = Column(FLOAT)
+    max_range = Column(FLOAT)
+
+class WordConditionalProbability(Base):
+    __tablename__ = 'word_conditional_probability'
+    id_word = Column(Integer, 
+        ForeignKey('words.id'),
+        primary_key=True )
+    id_category = Column(Integer,  
+        ForeignKey('category.id'),
+        primary_key=True )
+    period = Column(Integer,
+        ForeignKey('periods.id'))
+    probability = Column(FLOAT)
 
 
 
