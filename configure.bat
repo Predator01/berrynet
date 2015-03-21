@@ -1,1 +1,2 @@
-SET BERRYNET_ROOT=%~dp0..
+@echo off
+SET BERRYNET_ROOT=%~dp0..\berrynet
