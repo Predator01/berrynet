@@ -15,7 +15,7 @@ Base = declarative_base()
 """
 Intermediary
 """
-class Words(Base):
+class Word(Base):
     __tablename__ = 'words'
     id = Column(Integer, primary_key=True)
     text = Column(String)
@@ -34,7 +34,7 @@ class TwoWord(Base):
     id = Column(Integer, primary_key=True)
     two_word = Column(String)
 
-class Periods(Base):
+class Period(Base):
     __tablename__ = 'periods'
     id = Column(Integer, primary_key=True)
     name = Column(String)
@@ -102,6 +102,3 @@ class WordConditionalProbability(Base):
     period = Column(Integer,
         ForeignKey('periods.id'))
     probability = Column(FLOAT)
-
-
-
