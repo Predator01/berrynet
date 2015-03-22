@@ -1,4 +1,3 @@
-from create import engine
 from create import *
 from models import Word
 
