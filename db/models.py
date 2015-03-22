@@ -17,7 +17,8 @@ Intermediary
 """
 class Word(Base):
     __tablename__ = 'words'
-    id = Column(Integer, primary_key=True)
+    id = Column(Integer, 
+        primary_key=True)
     text = Column(String)
 
 """
@@ -55,12 +56,13 @@ class WordCount(Base):
     id_word = Column(Integer, ForeignKey('words.id') )
     id_book = Column(Integer, ForeignKey('books.id') )    
     count = Column(Integer)
+    rate = Column(FLOAT)
 
 class SentenceLengthBook(Base):
     __tablename__ = 'sentence_length_book'
     id = Column(Integer, primary_key=True)
     id_sen_length = Column(Integer, 
-        ForeignKey('sentence_length.id') )
+        ForeignKey('sentence_lengths.id') )
     id_book = Column(Integer, ForeignKey('books.id') )
     count = Column(Integer)
 
@@ -86,7 +88,7 @@ class WordCategory(Base):
         ForeignKey('words.id'),
         primary_key=True )
     id_category = Column(Integer,  
-        ForeignKey('category.id'),
+        ForeignKey('categories.id'),
         primary_key=True )
     min_range = Column(FLOAT)
     max_range = Column(FLOAT)
@@ -97,7 +99,7 @@ class WordConditionalProbability(Base):
         ForeignKey('words.id'),
         primary_key=True )
     id_category = Column(Integer,  
-        ForeignKey('category.id'),
+        ForeignKey('categories.id'),
         primary_key=True )
     period = Column(Integer,
         ForeignKey('periods.id'))
