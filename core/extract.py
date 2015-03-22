@@ -8,7 +8,7 @@ import settings
 
 TEXTS_FOLDER = os.path.join(settings.BASE_DIR, "texts")
 DEFAULT_TEXT = 'default.txt'
-EXTRA_CHARS = '",./\'-_?¿*:()[]{}¡!%$=0987654321“”‘’'
+EXTRA_CHARS = '",./\'-_?¿*;:()[]{}¡!%$=0987654321“”‘’'
 
 
 def train():
@@ -22,12 +22,14 @@ def set_data_text():
 def flush_query(words):
     pass
 
+def format_filename(author="Unknown", title="Unknown"):
+    return "%s-%s.txt" % (author, title)
 
 def get_text(url, query=True, author="Unknown", title="Unknown", period="Unknown"):
     """
     Gets the text from the url
     """
-    filename = DEFAULT_TEXT if query else '-'.join([author, title]) + '.txt'
+    filename = DEFAULT_TEXT if query else format_filename(author, title)
     filename = os.path.join(TEXTS_FOLDER, filename)
     with open(filename, 'wb') as text_file:
         response = urllib2.urlopen(url)
@@ -36,22 +38,16 @@ def get_text(url, query=True, author="Unknown", title="Unknown", period="Unknown
     return filename
 
 
-def read_text(file_name):
+def read_text(filename):
+    """
+    Receives the filename (no full path).
+    """
     words = {}
-    sentences = {}
-    with open(TEXTS_FOLDER + file_name, 'r') as text_file:
-        line = text_file.readline()
-        limit = 500
-        while line:
-            line = line.split()
-            for word in line:
+    filename = os.path.join(TEXTS_FOLDER, filename)
+    with open(filename, 'r') as text_file:
+        for line in text_file:
+            for word in line.split():
                 word = word.strip(EXTRA_CHARS)
                 word = word.lower()
-                words[word] = words[word] + 1 if words.has_key(word) else 1
-            if limit == 0:
-                flush_query(words)
-                words = {}
-                limit = 500
-            limit -= 1
-            line = text_file.readline()
-        flush_query(words)
+                words[word] = words.get(word, 0) + 1
+    return words
