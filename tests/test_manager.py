@@ -1,10 +1,11 @@
 import os
 import unittest
-import db.manager.bulk_insert
+from db.manager import bulk_insert
+from db.models import *
 
 class TestManager(unittest.TestCase):
 
-    def test_bulk_insert():
+    def test_bulk_insert(self):
         arr_d_val = [
         {'text':'1'},
         {'text':'2'},
