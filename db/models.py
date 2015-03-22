@@ -17,7 +17,8 @@ Intermediary
 """
 class Word(Base):
     __tablename__ = 'words'
-    id = Column(Integer, primary_key=True)
+    id = Column(Integer, 
+        primary_key=True)
     text = Column(String)
 
 """

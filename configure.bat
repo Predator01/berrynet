@@ -1,1 +1,1 @@
-SET BERRYNET_ROOT=%~dp0..
+SET BERRYNET_ROOT=%~dp0..\berrynet
