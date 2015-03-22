@@ -7,7 +7,7 @@ import sqlalchemy
 import settings
 
 TEXTS_FOLDER = os.path.join(settings.BASE_DIR, "texts")
-DEFAULT_TEXT = 'default.txt'
+DEFAULT_FILENAME = 'default.txt'
 EXTRA_CHARS = '",./\'-_?¿*;:()[]{}¡!%$=0987654321“”‘’'
 
 
@@ -29,7 +29,7 @@ def get_text(url, query=True, author="Unknown", title="Unknown", period="Unknown
     """
     Gets the text from the url
     """
-    filename = DEFAULT_TEXT if query else format_filename(author, title)
+    filename = DEFAULT_FILENAME if query else format_filename(author, title)
     filename = os.path.join(TEXTS_FOLDER, filename)
     with open(filename, 'wb') as text_file:
         response = urllib2.urlopen(url)

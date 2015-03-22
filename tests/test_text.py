@@ -12,22 +12,21 @@ class TestText(unittest.TestCase):
         self.period = "Unknown"
         self.filename = "O. Henry-The Gift of the Magi.txt"
         self.file_fullname = os.path.join(core.extract.TEXTS_FOLDER, self.filename)
-        self.created = False
+        self.file_default_name = os.path.join(core.extract.TEXTS_FOLDER, core.extract.DEFAULT_FILENAME)
 
     def tearDown(self):
-        if self.created:
+        if os.path.isfile(self.file_fullname):
             os.remove(self.file_fullname)
+        if os.path.isfile(self.file_default_name):
+            os.remove(self.file_default_name)
 
     def test_get_text_without_query(self):
         core.extract.get_text(self.url, query=False, author=self.author, title=self.title, period=self.period)
         self.assertTrue(os.path.isfile(self.file_fullname))
-        self.created = True
 
-    def test_get_text_without_query(self):
-        core.extract.get_text(self.url, query=False, author=self.author, title=self.title, period=self.period)
-        print self.file_fullname
-        self.assertTrue(os.path.isfile(self.file_fullname))
-        self.created = True
+    def test_get_text_with_query(self):
+        core.extract.get_text(self.url, query=True, author=self.author, title=self.title, period=self.period)
+        self.assertTrue(os.path.isfile(self.file_default_name))
 
     def test_read_text(self):
         core.extract.get_text(self.url, query=False, author=self.author, title=self.title, period=self.period)
