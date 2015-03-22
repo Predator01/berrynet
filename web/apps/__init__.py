@@ -16,7 +16,7 @@ class AppFactory:
     SETTINGS_ENV = 'FLASK_SETTINGS'
 
     def __init__(
-    	self,
+        self,
         package_name,
         package_path,
         settings_override=None,
@@ -52,11 +52,11 @@ class AppFactory:
         #     SQLAlchemyUserDatastore(db, User, Role),
         #     register_blueprint=register_security_blueprint)
 
-	@abstractmethod
-	def get_app(self):
-		pass
+    @abstractmethod
+    def get_app(self):
+        pass
 
-	@abstractmethod
+    @abstractmethod
     def set_app_errors(self):
         # @app.errorhandler(SocialLoginError)
         # def social_login_error(error):

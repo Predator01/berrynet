@@ -10,13 +10,12 @@
 import werkzeug.exceptions
 
 from functools import wraps
-from bson import json_util
 
 from flask import request
 from flask_assets import Environment, Bundle
 
-from crm.helpers import JSONEncoder
-from . import AppFactory
+from web.helpers import JSONEncoder
+from .. import AppFactory
 
 
 
@@ -44,6 +43,7 @@ class Website(AppFactory):
         return self.__app__
 
     def set_app_errors(self):
+        pass
         # self.__app__.errorhandler(OverholtError)(on_overholt_error)
         # self.__app__.errorhandler(OverholtFormError)(on_overholt_form_error)
         # self.__app__.errorhandler(404)(on_404)pass

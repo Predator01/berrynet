@@ -26,7 +26,7 @@ Primary tables
 """
 
 class SentenceLength(Base):
-    __tablename__ = 'sentence_length'
+    __tablename__ = 'sentence_lengths'
     id = Column(Integer, primary_key=True)
     length = Column(String)
 
@@ -51,7 +51,7 @@ class Book(Base):
     sentence_total = Column(Integer)
 
 class WordCount(Base):
-    __tablename__ = 'words_count'
+    __tablename__ = 'words_counts'
     id = Column(Integer, primary_key=True)
     id_word = Column(Integer, ForeignKey('words.id') )
     id_book = Column(Integer, ForeignKey('books.id') )    
@@ -77,7 +77,7 @@ class TwoWordBook(Base):
 Secondary tables
 """
 class Category(Base):
-    __tablename__ = 'category'
+    __tablename__ = 'categories'
     id = Column(Integer, primary_key=True)
     description = Column(String)
 
