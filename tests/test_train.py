@@ -6,13 +6,14 @@ import core.settings
 class TestTrain(unittest.TestCase):
 
     def test_train(self):
-        path = os.path.join(core.settings.BASE_DIR,'sources.json')
+        path = os.path.join(core.settings.BASE_DIR, 'sources.json')
         texts = [{u"Period": period,
                   u"Author": author,
                   u"Title": title,
                   u"URL": url}
-                for author, title, period, url
-                in train.parse_json(path)]
+                 for author, title, period, url
+                 in train.parse_json(path)
+                ]
         test_text = {
             u"Period": u"Romantic",
             u"Author": u"Percy Bysshe Shelley",
