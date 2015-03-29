@@ -45,15 +45,15 @@ def get_or_insert(dict_val, instance=None, list_search=None):
     return item
         
         
-def bulk_insert(arr_dict_val, instance):
-    if not instance:
-        return False
-    for params in arr_dict_val:
-        temp = instance(**params)
-        # if not exist(temp):
-            # session.add(temp)
-    session.commit()
-    return True
+# def bulk_insert(arr_dict_val, instance):
+#     if not instance:
+#         return False
+#     for params in arr_dict_val:
+#         temp = instance(**params)
+#         # if not exist(temp):
+#             # session.add(temp)
+#     session.commit()
+#     return True
 
 def bulk_insert_simple(dict_val, instance=None, list_search=None):
     if not instance:
