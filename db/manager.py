@@ -5,6 +5,9 @@ from models import *
 from db.create import create_session
 session = create_session()
 
+import logging
+logger = logging.getLogger(__name__)
+
 def insert(dict_val, instance=None, list_search=None):
     if not instance:
         return instance
@@ -56,8 +59,10 @@ def bulk_insert_simple(dict_val, instance=None, list_search=None):
 
 def insert_words(dic_words, book_obj=None):
     if not book_obj:
-        return False
+        return book_obj
     objs = []
+
+    logger.debug("## loading words for book %s" % book_obj.name)
     total = len(dic_words)
     for word, num in dic_words.items():
         try:
@@ -79,9 +84,9 @@ def insert_words(dic_words, book_obj=None):
             objs.append(word_obj)
             objs.append(word_count_obj)
         except:
-            print "Parsing error: %s" % word
+            logger.debug("Parsing error: %s" % word)
         if total % 500 ==0:
-            print total
+            logger.debug("Progressing ... %s" % total)
     session.add_all(objs)
     session.commit()
     return True

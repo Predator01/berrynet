@@ -10,6 +10,10 @@ from extract import *
 from db.manager import *
 from db import models
 
+
+import logging
+logger = logging.getLogger(__name__)
+
 def parse_json(filename):
     texts = {}
     with open(filename, "r") as f:
@@ -43,14 +47,13 @@ def train(filename):
     populate(filename)
 
 def populate(filename):
-
+    output = []
     for author, title, period, url in parse_json(filename):
         #insert period
         dic_period = {'name':period}
         list_search = ['name']
         period_obj = get_or_insert(dict_val=dic_period,
             instance=models.Period, list_search=list_search)
-        print "Period id : %s " % period_obj.id
         #insert book
         dic_book = {'name':title,
             'author':author,
@@ -60,14 +63,17 @@ def populate(filename):
         list_search = ['name','author','period']
         book_obj = get_or_insert(dict_val=dic_book,
             instance=models.Book,list_search=list_search)
-        print "Book id : %s " % book_obj.id
         #Words
         filename = format_filename(author, title)
         words = read_text(filename)
         if len(words) == 0:
             continue
+
+        logger.debug("Period id : %s %s" % (period_obj.id,period_obj.name))
+        logger.debug("Book id : %s %s %s" % (book_obj.id,book_obj.name,book_obj.author))
         insert_words(words,book_obj)
-        
+         
+
 
 if __name__ == "__main__":
     filename = os.path.join(BASE_DIR, "sources.json")
