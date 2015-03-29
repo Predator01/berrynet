@@ -11,7 +11,6 @@ from db.manager import *
 from db import models
 import operator
 
-
 import logging
 logger = logging.getLogger(__name__)
 
@@ -83,9 +82,3 @@ def populate(filename):
         logger.debug("Period id : %s %s" % (period_obj.id,period_obj.name))
         logger.debug("Book id : %s %s %s" % (book_obj.id,book_obj.name,book_obj.author))
         insert_words(words,book_obj)
-         
-
-if __name__ == "__main__":
-    filename = os.path.join(BASE_DIR, "sources.json")
-    train(filename)
-
