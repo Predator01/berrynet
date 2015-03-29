@@ -12,7 +12,7 @@ class TestTrain(unittest.TestCase):
                   u"Title": title,
                   u"URL": url}
                  for author, title, period, url
-                 in train.parse_json(path)
+                 in train.json(path)[0:3]
                 ]
         test_text = {
             u"Period": u"Romantic",
