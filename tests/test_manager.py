@@ -1,11 +1,13 @@
 import os
 import unittest
-from db.manager import bulk_insert
+from db.manager import *
 from db.models import *
+from db.create import create_database
 
 class TestManager(unittest.TestCase):
 
     def test_bulk_insert(self):
+        create_database()
         arr_d_val = [
         {'text':'1'},
         {'text':'2'},
@@ -14,9 +16,11 @@ class TestManager(unittest.TestCase):
         {'text':'5'},
         {'text':'6'},
         {'text':'7'},]
-        bulk_insert( 
-            arr_dict_val=arr_d_val,
-            instance=Word
-            )
+        for dic_val in arr_d_val:
+            bulk_insert_simple(
+                dict_val=dic_val,
+                instance=Word,
+                list_search=['text']
+                )
 
         

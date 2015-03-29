@@ -1,7 +1,8 @@
 # berrynet
 
-
 Bayes networks to discriminate Romantic and Elizabethan writers
+
+[![Build Status](https://travis-ci.org/shrieking-antshrikes/berrynet.svg?branch=master)](https://travis-ci.org/shrieking-antshrikes/berrynet)
 
 # Contributing
 

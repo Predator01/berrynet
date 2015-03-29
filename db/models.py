@@ -104,6 +104,8 @@ class WordCategory(Base):
         primary_key=True )
     min_range = Column(FLOAT)
     max_range = Column(FLOAT)
+    category = relationship(Category, backref=backref("category_assoc"))
+    word = relationship(Word, backref=backref("word_category_assoc"))
 
 class WordConditionalProbability(Base):
     __tablename__ = 'word_conditional_probability'

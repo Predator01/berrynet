@@ -14,7 +14,7 @@ class TestTrain(unittest.TestCase):
                   "Title": title,
                   "URL": url}
                  for author, title, period, url
-                 in train.json(path)[0:3]
+                 in train.Trainer().json(path)[0:3]
                 ]
         test_text = {
             "Period": "Romantic",

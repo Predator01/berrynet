@@ -5,6 +5,7 @@ import sys
 import urllib2
 import sqlalchemy
 import settings
+import itertools
 
 
 TEXTS_FOLDER = os.path.join(settings.BASE_DIR, "texts")
@@ -49,8 +50,8 @@ def prepare_line(line):
     words = map(lambda w: w.strip(EXTRA_CHARS), words)
     words = map(lambda w: w.lower(), words)
     for sep in INWORD_PUNCTUATION:
-        words = map(lambda w: w.split(sep))
-        words = list(itertools.chain.from_iterable(lst))
+        words = map(lambda w: w.split(sep),words)
+        words = list(itertools.chain.from_iterable(words))
     return words
 
 
