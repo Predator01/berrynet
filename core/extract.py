@@ -41,18 +41,26 @@ def get_text(url, query=True, author="Unknown",
         return filename
 
 
-import codecs
+def prepare_line(line):
+    """
+    Splits a line into several words/
+    """
+    for word in line.split():
+        word = word.strip(EXTRA_CHARS)
+        word.lower()
+        if word:
+            yield word
+
 
 def read_text(filename):
     """
-    Receives the filename (no full path).
+    Receives the filename (no full path), returns a dictionary where the key
+    is each word in the text and the value is the count of that word.
     """
     words = {}
     filename = os.path.join(TEXTS_FOLDER, filename)
     with open(filename, 'r') as text_file:
         for line in text_file:
-            for word in line.split():
-                word = word.strip(EXTRA_CHARS)
-                word = word.lower()
+            for word in prepare_line(line):
                 words[word] = words.get(word, 0) + 1
     return words
