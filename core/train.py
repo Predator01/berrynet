@@ -39,7 +39,7 @@ def inspect(filename):
 
 
 def train(filename):
-    # get_books(filename)
+    get_books(filename)
     populate(filename)
 
 def populate(filename):
