@@ -33,7 +33,7 @@ def get_books(filename):
     for author, title, period, url in parse_json(filename):
         try:
             if not format_filename(author, title) in files:
-                book = extract.get_text(url, False, author, title, period, files)
+                book = extract.get_text(url, False, author, title, period)
         except:
             #TODO : ERROR 403
             pass
@@ -47,8 +47,9 @@ def inspect(filename):
 
 
 def train(filename):
-    get_books(filename)
-    populate(filename)
+    #get_books(filename)
+    #populate(filename)
+    categories()
 
 
 
@@ -61,14 +62,14 @@ def populate(filename):
         period_obj = get_or_insert(dict_val=dic_period,
             instance=models.Period, list_search=list_search)
         #insert book
-        words = read_text(filename)
-        count = reduce(operator.add, words.values())
+        words = read_text(os.path.join(TEXTS_FOLDER, format_filename(author, title)))
+        tota_words = reduce(operator.add, words.values())
         logger.debug(words)
-        logger.debug("Total Words: %s", count)
+        logger.debug("Total Words: %s", tota_words)
         dic_book = {'name':title,
             'author':author,
             'period':period_obj,
-            'total_words':count,
+            'total_words':tota_words,
             'sentence_total':0}
         list_search = ['name','author','period']
         book_obj = get_or_insert(dict_val=dic_book,
@@ -81,4 +82,15 @@ def populate(filename):
 
         logger.debug("Period id : %s %s" % (period_obj.id,period_obj.name))
         logger.debug("Book id : %s %s %s" % (book_obj.id,book_obj.name,book_obj.author))
-        insert_words(words,book_obj)
+        insert_words(words,book_obj,tota_words)
+
+def categories():
+    words_all = get({},Word,[],True)
+    for word_obj in words_all:
+        calculate_categories(word_obj=word_obj)
+
+def calculate_categories(word_obj=None):
+    if not word_obj:
+        return False
+    max_rate, min_rate = get_max_min_rate(word_obj)
+    logger.debug("%f %f " % (max_rate, min_rate))

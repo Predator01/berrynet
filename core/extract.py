@@ -58,6 +58,7 @@ def read_text(filename):
     """
     words = {}
     filename = os.path.join(TEXTS_FOLDER, filename)
+    print filename
     with open(filename, 'r') as text_file:
         for line in text_file:
             for word in prepare_line(line):
