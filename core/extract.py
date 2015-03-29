@@ -10,7 +10,7 @@ import settings
 TEXTS_FOLDER = os.path.join(settings.BASE_DIR, "texts")
 DEFAULT_FILENAME = 'default.txt'
 EXTRA_CHARS = '",./\'-_?¿*;:()[]{}¡!%$=0987654321“”‘’'
-
+INWORD_PUNCTUATION = ["--"]
 
 def train():
     pass
@@ -45,11 +45,13 @@ def prepare_line(line):
     """
     Splits a line into several words/
     """
-    for word in line.split():
-        word = word.strip(EXTRA_CHARS)
-        word.lower()
-        if word:
-            yield word
+    words = line.split()
+    words = map(lambda w: w.strip(EXTRA_CHARS), words)
+    words = map(lambda w: w.lower(), words)
+    for sep in INWORD_PUNCTUATION:
+        words = map(lambda w: w.split(sep))
+        words = list(itertools.chain.from_iterable(lst))
+    return words
 
 
 def read_text(filename):
