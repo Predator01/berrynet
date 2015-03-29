@@ -52,9 +52,9 @@ class Trainer:
 
 
     def train(self, filename):
-        get_books(filename)
-        populate(filename)
-        categories()
+        self.get_books(filename)
+        self.populate(filename)
+        self.categories()
 
 
 

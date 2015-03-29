@@ -4,5 +4,143 @@
         "Author": "William Wordsworth",
         "Title": "The Prose Works of William Wordsworth",
         "URL": "http://www.gutenberg.org/cache/epub/16550/pg16550.txt"
+    },
+    {
+        "Period": "Romantic",
+        "Author": "Percy Bysshe Shelley",
+        "Title": "A Defence of Poetry and Other Essays",
+        "URL": "http://www.gutenberg.org/cache/epub/5428/pg5428.txt"
+    },
+    {
+        "Period": "Romantic",
+        "Author": "Percy Bysshe Shelley",
+        "Title": "Adonais",
+        "URL": "http://www.gutenberg.org/cache/epub/10119/pg10119.txt"
+    },
+    {
+        "Period": "Romantic",
+        "Author": "John Keats",
+        "Title": "Endymion",
+        "URL": "http://www.gutenberg.org/files/24280/24280-0.txt"
+    },
+    {
+        "Period": "Romantic",
+        "Author": "Walter Scott",
+        "Title": "The Lady of the Lake",
+        "URL": "http://www.gutenberg.org/cache/epub/3011/pg3011.txt"
+    },
+    {
+        "Period": "Romantic",
+        "Author": "Walter Scott",
+        "Title": "Ivanhoe",
+        "URL": "http://www.gutenberg.org/cache/epub/82/pg82.txt"
+    },
+    {
+        "Period": "Romantic",
+        "Author": "Walter Scott",
+        "Title": "Rob Roy",
+        "URL": "http://www.gutenberg.org/cache/epub/7025/pg7025.txt"
+    },
+    {
+        "Period": "Romantic",
+        "Author": "Walter Scott",
+        "Title": "The Bride of Lammermoor",
+        "URL": "http://www.gutenberg.org/cache/epub/471/pg471.txt"
+    },
+    {
+        "Period": "Romantic",
+        "Author": "Charles Lamb",
+        "Title": "The Adventures of Ulysses",
+        "URL": "http://www.gutenberg.org/cache/epub/7768/pg7768.txt"
+    },
+    {
+        "Period": "Romantic",
+        "Author": "Mary Shelley",
+        "Title": "Frankenstein",
+        "URL": "http://www.gutenberg.org/cache/epub/84/pg84.txt"
+    },
+    {
+        "Period": "Romantic",
+        "Author": "Mary Shelley",
+        "Title": "Mathilda",
+        "URL": "http://www.gutenberg.org/cache/epub/15238/pg15238.txt"
+    },
+    {
+        "Period": "Romantic",
+        "Author": "Mary Shelley",
+        "Title": "The Last Man",
+        "URL": "http://www.gutenberg.org/cache/epub/18247/pg18247.txt"
+    },
+    {
+        "Period": "Elizabethan",
+        "Author": "John Fletcher",
+        "Title": "The Mad Lover",
+        "URL": "http://www.gutenberg.org/cache/epub/35000/pg35000.txt"
+    },
+    {
+        "Period": "Elizabethan",
+        "Author": "Christoper Marlowe",
+        "Title": "The Tragical History of Dr. Faustus",
+        "URL": "http://www.gutenberg.org/cache/epub/779/pg779.txt"
+    },
+    {
+        "Period": "Elizabethan",
+        "Author": "Christoper Marlowe",
+        "Title": "The Jew of Malta",
+        "URL": "http://www.gutenberg.org/cache/epub/901/pg901.txt"
+    },
+    {
+        "Period": "Elizabethan",
+        "Author": "Christoper Marlowe",
+        "Title": "Tamburlaine the Great, Part I.",
+        "URL": "http://www.gutenberg.org/cache/epub/1094/pg1094.txt"
+    },
+    {
+        "Period": "Elizabethan",
+        "Author": "Thomas Kyd",
+        "Title": "Arden of Feversham",
+        "URL": "http://www.gutenberg.org/files/43440/43440-0.txt"
+    },
+    {
+        "Period": "Elizabethan",
+        "Author": "Thomas Nash",
+        "Title": "The Vnfortunate Traveller",
+        "URL": "http://www.gutenberg.org/cache/epub/21338/pg21338.txt"
+    },
+    {
+        "Period": "Elizabethan",
+        "Author": "Edmund Spenser",
+        "Title": "Stories from the Faerie Queen",
+        "URL": "http://www.gutenberg.org/cache/epub/41350/pg41350.txt"
+    },
+    {
+        "Period": "Elizabethan",
+        "Author": "Edmund Spenser",
+        "Title": "The Poetical Works of Edmund Spenser, Volume 5",
+        "URL": "http://www.gutenberg.org/cache/epub/10602/pg10602.txt"
+    },
+    {
+        "Period": "Elizabethan",
+        "Author": "Edmund Spenser",
+        "Title": "The Shepheard's Calender",
+        "URL": "http://www.gutenberg.org/files/42607/42607-0.txt"
+    },
+    {
+        "Period": "Elizabethan",
+        "Author": "Thomas Dekker",
+        "Title": "The Noble Spanish Soldier",
+        "URL": "http://www.gutenberg.org/cache/epub/16753/pg16753.txt"
+    },
+    {
+        "Period": "Elizabethan",
+        "Author": "Philip Sidney",
+        "Title": "A Defence of Poesie and Poems",
+        "URL": "http://www.gutenberg.org/cache/epub/1962/pg1962.txt"
+    },
+    {
+        "Period": "Elizabethan",
+        "Author": "Richard Hakluyt",
+        "Title": "Voyager's Tales",
+        "URL": "http://www.gutenberg.org/cache/epub/3752/pg3752.txt"
     }
 ]
