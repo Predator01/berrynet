@@ -50,8 +50,8 @@ def bulk_insert(arr_dict_val, instance):
         return False
     for params in arr_dict_val:
         temp = instance(**params)
-        if not exist(temp):
-            session.add(temp)
+        # if not exist(temp):
+            # session.add(temp)
     session.commit()
     return True
 
