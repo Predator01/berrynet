@@ -9,6 +9,7 @@ from os.path import isfile, join
 from extract import *
 from db.manager import *
 from db import models
+import operator
 
 
 import logging
@@ -26,12 +27,16 @@ def parse_json(filename):
         yield author, title, period, url
 
 def get_books(filename):
+    """
+    Gets the book if it is not in the texts folder otherwise dowload it
+    """
     files = [ f for f in listdir(TEXTS_FOLDER) if isfile(join(TEXTS_FOLDER,f)) ]
     for author, title, period, url in parse_json(filename):
-        #TODO : ERROR 403
         try:
-            book = extract.get_text(url, False, author, title, period, files)
+            if not format_filename(author, title) in files:
+                book = extract.get_text(url, False, author, title, period, files)
         except:
+            #TODO : ERROR 403
             pass
 
 #TODO
@@ -46,6 +51,8 @@ def train(filename):
     get_books(filename)
     populate(filename)
 
+
+
 def populate(filename):
     output = []
     for author, title, period, url in parse_json(filename):
@@ -55,17 +62,21 @@ def populate(filename):
         period_obj = get_or_insert(dict_val=dic_period,
             instance=models.Period, list_search=list_search)
         #insert book
+        words = read_text(filename)
+        count = reduce(operator.add, words.values())
+        logger.debug(words)
+        logger.debug("Total Words: %s", count)
         dic_book = {'name':title,
             'author':author,
             'period':period_obj,
-            'total_words':0,
+            'total_words':count,
             'sentence_total':0}
         list_search = ['name','author','period']
         book_obj = get_or_insert(dict_val=dic_book,
             instance=models.Book,list_search=list_search)
         #Words
         filename = format_filename(author, title)
-        words = read_text(filename)
+        
         if len(words) == 0:
             continue
 
@@ -73,7 +84,6 @@ def populate(filename):
         logger.debug("Book id : %s %s %s" % (book_obj.id,book_obj.name,book_obj.author))
         insert_words(words,book_obj)
          
-
 
 if __name__ == "__main__":
     filename = os.path.join(BASE_DIR, "sources.json")

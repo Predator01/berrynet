@@ -27,18 +27,17 @@ def format_filename(author="Unknown", title="Unknown"):
     return "%s-%s.txt" % (author, title)
 
 def get_text(url, query=True, author="Unknown", 
-    title="Unknown", period="Unknown", files=[]):
+    title="Unknown", period="Unknown"):
     """
     Gets the text from the url
     """
-    if not format_filename(author, title) in files:
-        filename = DEFAULT_FILENAME if query else format_filename(author, title)
-        filename = os.path.join(TEXTS_FOLDER, filename)
-        with open(filename, 'wb') as text_file:
-            response = urllib2.urlopen(url)
-            text = response.read()
-            text_file.write(text)
-        return filename
+    filename = DEFAULT_FILENAME if query else format_filename(author, title)
+    filename = os.path.join(TEXTS_FOLDER, filename)
+    with open(filename, 'wb') as text_file:
+        response = urllib2.urlopen(url)
+        text = response.read()
+        text_file.write(text)
+    return filename
 
 
 import codecs
