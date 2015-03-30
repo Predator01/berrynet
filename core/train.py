@@ -123,11 +123,9 @@ class Trainer:
         # total de libros
         """
         books_period = session.query(Book).filter_by(period=period).count()
-        books = session.query(Book).count()
         if log:
-            logger.debug("      books_period = %f / books %f == %f" % (books_period, books,books_period / books))
-        # print "books_period %s books %s div %s" % (books_period, books,  books_period / books)
-        return books_period / books
+            logger.debug("      books_period = %f " % (books_period))
+        return books_period
 
 
     def word_category_period_probability(self, word, category, period, log=False):
@@ -136,10 +134,6 @@ class Trainer:
         ---
         numero de libros de esa epoca
         """
-        num_books_period = session.query(Book).filter_by(period=period).count()
-        if num_books_period == 0:
-            return 0
-
         num_books__word_cat = 0
         books_period = session.query(Book).filter_by(period=period).all()
         for book in books_period:
@@ -154,9 +148,9 @@ class Trainer:
                 if book_word[0].rate >= word_category.min_range and book_word[0].rate <= word_category.max_range:
                     num_books__word_cat += 1
         if log:
-            logger.debug("      num_books__word_cat= %f / num_books_period= %f == %f" % (num_books__word_cat, num_books_period, num_books__word_cat / num_books_period))
+            logger.debug("      num_books__word_cat= %f" % (num_books__word_cat))
 
-        return num_books__word_cat / num_books_period
+        return num_books__word_cat
 
     def probability(self, word, category, period, log=False):
         """
@@ -189,7 +183,7 @@ class Trainer:
                         word=word,
                         category=category,
                         period=period)
-                    if prob > 1:
+                    if prob > 1 or word.text == 'all':
                         logger.debug("word %s category %s  period %s prob %s" % (word.text,category.description, period.name, prob))
                         self.probability(word=word,category=category,period=period, log=True)
                     word_cond_prob = WordConditionalProbability(
