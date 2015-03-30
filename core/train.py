@@ -15,6 +15,7 @@ import operator
 import logging
 logger = logging.getLogger(__name__)
 
+
 class Trainer:
 
     def json(self, filename):
@@ -55,9 +56,13 @@ class Trainer:
 
 
     def train(self, filename):
-        # self.get_books(filename)
-        # self.populate(filename)
-        # self.categories()
+        logger.debug("      STARTING get_books")
+        self.get_books(filename)
+        logger.debug("      STARTING populate")
+        self.populate(filename)
+        logger.debug("      STARTING categories")
+        self.categories()
+        logger.debug("      STARTING conditional_probability")
         self.conditional_probability()
 
 
@@ -111,7 +116,7 @@ class Trainer:
         construct_categories(min_rate,max_rate, word_obj)
 
 
-    def period_probability(self, period):
+    def period_probability(self, period, log=False):
         """
         # libros de esa epoca
         ---
@@ -119,67 +124,84 @@ class Trainer:
         """
         books_period = session.query(Book).filter_by(period=period).count()
         books = session.query(Book).count()
+        if log:
+            logger.debug("      books_period = %f / books %f == %f" % (books_period, books,books_period / books))
+        # print "books_period %s books %s div %s" % (books_period, books,  books_period / books)
         return books_period / books
 
 
-    def word_category_period_probability(self, word, category, period):
+    def word_category_period_probability(self, word, category, period, log=False):
         """
         cuenta cuantos (libros de esa epoca) tienen esa palabra en esa categoria
         ---
         numero de libros de esa epoca
         """
         num_books_period = session.query(Book).filter_by(period=period).count()
-        # num_books__word_cat = session.query(WordConditionalProbability).filter_by(
-        #     word=word,category=category,period=period).count()
+        if num_books_period == 0:
+            return 0
+
         num_books__word_cat = 0
         books_period = session.query(Book).filter_by(period=period).all()
         for book in books_period:
             #el libro contiene la palabra
-            book_word = session.query(WordCount).filter_by(book=book,word=word).all()
-            print "wb contiene la palabra ? %s " % book_word
-            word_category = session.query(WordCategory).filter_by(category=category,word=word).all()
-            print "wc contiene la palabra ? %s " % word_category
-            if book_word and word_category:
-                num_books__word_cat += 1
-        
-        return num_books__word_cat / books_period
+            book_word = session.query(WordCount).filter_by(
+                book=book,word=word).all()
+            word_category = session.query(WordCategory).filter_by(
+                category=category,word=word).one()
+            
+            #if len(book_word)==0, no relation then prob 0 
+            if len(book_word) > 0 and word_category:
+                if book_word[0].rate >= word_category.min_range and book_word[0].rate <= word_category.max_range:
+                    num_books__word_cat += 1
+        if log:
+            logger.debug("      num_books__word_cat= %f / num_books_period= %f == %f" % (num_books__word_cat, num_books_period, num_books__word_cat / num_books_period))
 
-    def probability(self, word, category, period):
+        return num_books__word_cat / num_books_period
+
+    def probability(self, word, category, period, log=False):
         """
         probabilidad esa palabra en esa categoria en esa epoca
         ---
         probabilidad de esa epoca = # libros de esa epoca / cantidad de libros
         """
-        return word_category_period_probability() / period_probability()
-            
+        word_category_period_probability = self.word_category_period_probability(word, category, period, log=log)
+        period_probability = self.period_probability(period, log=log)
+        if log:
+            logger.debug("  word cat period prob = %f / period prob = %f = %f" % (word_category_period_probability,period_probability,word_category_period_probability/period_probability))
+        return word_category_period_probability/period_probability
+
 
     def conditional_probability(self):
         """
 
         """
-        #para cada palabra
-            #obtener sus categorias
-                #para cada categoria
-                    #obtener sus periodos
-                        #para cada periodo 
-                            #insertar un WCP
         bulk = []
         words_all = session.query(Word).all()
         periods = session.query(Period).all()
         categories = session.query(Category).all()
-        total = len(words_all)
-
         for period in periods:
+            logger.debug(period.name)
             for category in categories:
+                logger.debug(category.description)
+                total = len(words_all)
                 for word in words_all:
                     #word rate?
-                    logger.debug(period.name)
-                    logger.debug(category.description)
-                for wcategory in word_categories:
-                    if book_word_rate >= wcategory.min_range and book_word_rate <= wcategory.max_range:
-                        logger.debug("Pertenece : %s" % wcategory.category.description)
-                        word_cond_prob = WordConditionalProbability(word=word_obj,category=wcategory.category,period=book_obj.period)
-                        bulk.append(word_cond_prob)
+                    prob = self.probability(
+                        word=word,
+                        category=category,
+                        period=period)
+                    if prob > 1:
+                        logger.debug("word %s category %s  period %s prob %s" % (word.text,category.description, period.name, prob))
+                        self.probability(word=word,category=category,period=period, log=True)
+                    word_cond_prob = WordConditionalProbability(
+                        word=word,
+                        category=category,
+                        period=period,
+                        probability=prob)
+                    bulk.append(word_cond_prob)
+                    total -= 1
+                    if total % 500 == 0:
+                        logger.debug("left ... %s words" % total)
         session.add_all(bulk)
         session.commit()
 
