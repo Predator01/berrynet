@@ -186,7 +186,7 @@ class Trainer:
                         word=word,
                         category=category,
                         period=period)
-                    if prob > 1 or word.text == 'all':
+                    if prob > 1:
                         logger.debug("word %s category %s  period %s prob %s" % (word.text,category.description, period.name, prob))
                         self.probability(word=word,category=category,period=period, log=True)
                     word_cond_prob = WordConditionalProbability(

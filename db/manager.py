@@ -108,8 +108,6 @@ def get_max_min_rate(word=None):
         return None,None
     float_word_max = session.query(func.max(WordCount.rate)).filter_by(word=word).all()[0][0]
     float_word_min = session.query(func.min(WordCount.rate)).filter_by(word=word).all()[0][0]
-    if float_word_max == float_word_min:
-        float_word_min = 0
     return float_word_max, float_word_min
 
 
@@ -119,7 +117,12 @@ def construct_categories(min_rate, max_rate, word_obj=None):
     #load categories
     list_dic_cat = [{'description':'low'},{'description':'med'},{'description':'high'},{'description':'high_high'}]
     list_search = ['description']
+
     offset = (max_rate - min_rate) / len(list_dic_cat)
+    #min_rate == max_rate
+    if offset == 0:
+        offset = max_rate / len(list_dic_cat)
+    
     min_cat_rate = min_rate
     objs = []
 #TODO Refatorizar
