@@ -9,6 +9,8 @@ from os import listdir
 from os.path import isfile, join
 from extract import *
 from db.manager import *
+from sqlalchemy import func 
+from sqlalchemy import and_
 from db import models
 import operator
 
@@ -168,6 +170,7 @@ class Trainer:
     def conditional_probability(self):
         """
         """
+        session.query(WordConditionalProbability).delete()
         bulk = []
         words_all = session.query(Word).all()
         periods = session.query(Period).all()
@@ -197,3 +200,34 @@ class Trainer:
                         logger.debug("left ... %s words" % total)
         session.add_all(bulk)
         session.commit()
+        self.complete_probability()
+
+    def complete_probability(self):
+        bulk = []
+        list_cat = ['med','high','high_high']
+        cats_ids = session.query(Category).filter(Category.description.in_(list_cat)).all()
+        low = session.query(Category).filter(Category.description=='low').one()
+
+        words_all = session.query(Word).all()
+        periods = session.query(Period).all()
+        for period in periods:
+            total = len(words_all)
+            for word in words_all:
+                sum_3cat = session.query(
+                    func.sum(WordConditionalProbability.probability)).filter(
+                        and_(WordConditionalProbability.id_category.in_(c.id for c in cats_ids),
+                            WordConditionalProbability.id_word == word.id,
+                            WordConditionalProbability.id_period == period.id)
+                    ).all()[0][0]
+                cat_low = session.query(WordConditionalProbability).filter(
+                        and_(WordConditionalProbability.id_category == low.id,
+                            WordConditionalProbability.id_word == word.id,
+                            WordConditionalProbability.id_period == period.id)
+                    ).all()
+                cat_low[0].probability = 1 - sum_3cat
+                # print "word_id %s period %d sum %s" %(word.id,period.id,sum_3cat)
+                total -= 1
+                if total % 500 == 0:
+                    logger.debug("left ... %s words" % total)
+        session.commit()
+
