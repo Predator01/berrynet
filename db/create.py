@@ -9,12 +9,10 @@ from contextlib import contextmanager
 db_name = 'database_mining.sqlite'
 db_prefix = 'sqlite:///'
 
-def delete_database():
-    if os.path.exists(path_folder):
-        os.remove(path_folder)
-
 def set_engine():
     path_folder = os.path.join(BASE_DIR,db_name)
+    if os.path.exists(path_folder):
+        os.remove(path_folder)
     path = db_prefix + path_folder
     engine = create_engine(path)    
     return engine
