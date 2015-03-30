@@ -18,17 +18,21 @@ def insert(dict_val, instance=None, list_search=None):
     session.add(temp)
     return get(dict_val,instance,list_search)
 
+#TODO Refactor
 def get(dict_val, instance=None, list_search=None, get_all=False):
     if not instance:
         return instance
-    if get_all:
+    if get_all and not list_search:
         return session.query(instance).all()
     dic_search = {}
     for k,v in dict_val.items():
         if k in list_search:
             dic_search[k] = v
     try:
-        item = session.query(instance).filter_by(**dic_search).all()[0]
+        if get_all:
+            item = session.query(instance).filter_by(**dic_search).all()
+        else:
+            item = session.query(instance).filter_by(**dic_search).all()[0]
     except IndexError:
         item = None
     return item
@@ -103,10 +107,8 @@ def insert_words(dic_words, book_obj=None, total_words=0):
 def get_max_min_rate(word=None):
     if not word:
         return None,None
-    float_word_max = session.query(func.max(WordCount.rate)).filter_by(word=word).all()
-    float_word_min = session.query(func.min(WordCount.rate)).filter_by(word=word).all()
-    float_word_max = float_word_max[0][0]
-    float_word_min = float_word_min[0][0]
+    float_word_max = session.query(func.max(WordCount.rate)).filter_by(word=word).all()[0][0]
+    float_word_min = session.query(func.min(WordCount.rate)).filter_by(word=word).all()[0][0]
     if float_word_max == float_word_min:
         float_word_min = 0
     return float_word_max, float_word_min
@@ -121,7 +123,22 @@ def construct_categories(min_rate, max_rate, word_obj=None):
     offset = (max_rate - min_rate) / len(list_dic_cat)
     min_cat_rate = 0
     objs = []
-    for dic_category in list_dic_cat:
+#TODO Refatorizar
+    #min
+    low = list_dic_cat[0]
+    category_obj = bulk_insert_simple(
+        dict_val=low,
+        instance=Category,
+        list_search=list_search)
+    word_category_obj = bulk_insert_simple(
+        dict_val={'category':category_obj, 'word':word_obj,
+        'min_range': 0, 'max_range': min_rate},
+        instance=WordCategory,
+        list_search=['category','word'])
+    objs.append(word_category_obj)
+    objs.append(category_obj)   
+    #intermedias
+    for dic_category in list_dic_cat[1:-1]:
         category_obj = bulk_insert_simple(
             dict_val=dic_category,
             instance=Category,
@@ -134,4 +151,19 @@ def construct_categories(min_rate, max_rate, word_obj=None):
         min_cat_rate += offset
         objs.append(word_category_obj)
         objs.append(category_obj)
+    #max
+    high_high = list_dic_cat[-1]
+    category_obj = bulk_insert_simple(
+        dict_val=high_high,
+        instance=Category,
+        list_search=list_search)
+    word_category_obj = bulk_insert_simple(
+        dict_val={'category':category_obj, 'word':word_obj,
+        'min_range': min_cat_rate, 'max_range': 1.0},
+        instance=WordCategory,
+        list_search=['category','word'])
+    objs.append(word_category_obj)
+    objs.append(category_obj)   
+    
     session.add_all(objs)
+
