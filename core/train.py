@@ -1,33 +1,44 @@
 # -*- coding: utf-8 -*-
 
 from __future__ import division
-import extract
+
 import json
+import logging
+import operator
 import os
-from settings import BASE_DIR
-from os import listdir
-from os.path import isfile, join
-from extract import *
-from db.manager import *
+from os import listdir, mkdir
+from os.path import isdir, isfile, join
+
+import extract
+
 from sqlalchemy import func 
 from sqlalchemy import and_
-from db import models
-import operator
 
-import logging
+from db.manager import *
+from db import models
+
+from .settings import BASE_DIR, TEXT_DIR
+
+from extract import Extractor
+
+
 logger = logging.getLogger(__name__)
 
 
-class Trainer:
+class Trainer(object):
 
-    def __init__(self, filename):
-        self.filename = filename
+    def __init__(self, json_path, text_dir=None):
+        self.json_path = json_path
+        self.text_dir = text_dir if text_dir else TEXT_DIR
+        if not isdir(self.text_dir):
+            mkdir(self.text_dir)
+        self.extractor = Extractor(text_dir)
 
     def json(self):
         if not hasattr(self, "_json"):
             _json = []
             texts = {}
-            with open(self.filename, "r") as f:
+            with open(self.json_path, "r") as f:
                 texts = json.load(f)
             for text in texts:
                 author = text["Author"]
@@ -37,20 +48,36 @@ class Trainer:
                 _json.append((author, title, period, url))
         return _json
 
+    @staticmethod
+    def format_filename(author="Unknown", title="Unknown"):
+        return "%s-%s.txt" % (author, title)
+
+    def download_book(self, url, query=True, author="Unknown", title="Unknown", period="Unknown", files=None):
+        """
+        Downloads text from a URL. Returns the resulting filename if it was
+        succesfully downloaded, otherwise returns None.
+        """
+        filename = self.format_filename(author, title)
+        if files and not filename in files:
+            filename = DEFAULT_FILENAME if query else filename
+            filename = os.path.join(self.text_dir, filename)
+            response = urllib2.urlopen(url)
+            text = response.read()
+            if is_html(text):
+                return None
+            with open(filename, 'wb') as text_file:
+                text_file.write(text)
+            return filename
+
     def get_books(self):
         """
-        Gets the book if it is not in the texts folder otherwise dowload it
+        Downloads the book if it's not in the texts directory.
         """
-        files = [ f for f in listdir(TEXTS_FOLDER) if isfile(join(TEXTS_FOLDER,f)) ]
+        files = [f for f in listdir(self.text_dir)]
         for author, title, period, url in self.json():
-            filename = format_filename(author, title)
-            try:
-                if not filename in files:
-                    book = extract.get_text(url, False, author, title, period)
-            except:
-                #TODO : ERROR 403
-                os.remove(os.path.join(TEXTS_FOLDER, format_filename(author, title)))
-                pass
+            filename = self.format_filename()
+            if not filename in files:
+                book = self.download_book(url, False, author, title, period)
 
     def train(self):
         logger.debug("      STARTING get_books")
@@ -65,7 +92,8 @@ class Trainer:
     def populate(self):
         output = []
         for author, title, period, url in self.json():
-            words = read_text(os.path.join(TEXTS_FOLDER, format_filename(author, title)))
+            # TODO clean the next line
+            words = self.extractor.read_text(self.format_filename(author, title))
             if len(words) == 0:
                 continue
             total_words = reduce(operator.add, words.values())
@@ -86,7 +114,7 @@ class Trainer:
             book_obj = get_or_insert(dict_val=dic_book,
                 instance=models.Book,list_search=list_search)
             #Words
-            filename = format_filename(author, title)
+            filename = self.format_filename(author, title)
             
             if len(words) == 0:
                 continue
