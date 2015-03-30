@@ -145,7 +145,7 @@ class Trainer:
             
             #if len(book_word)==0, no relation then prob 0 
             if len(book_word) > 0 and word_category:
-                if book_word[0].rate >= word_category.min_range and book_word[0].rate <= word_category.max_range:
+                if book_word[0].rate >= word_category.min_range and book_word[0].rate < word_category.max_range:
                     num_books__word_cat += 1
         if log:
             logger.debug("      num_books__word_cat= %f" % (num_books__word_cat))

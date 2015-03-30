@@ -120,7 +120,7 @@ def construct_categories(min_rate, max_rate, word_obj=None):
     list_dic_cat = [{'description':'low'},{'description':'med'},{'description':'high'},{'description':'high_high'}]
     list_search = ['description']
     offset = (max_rate - min_rate) / len(list_dic_cat)
-    min_cat_rate = 0
+    min_cat_rate = min_rate
     objs = []
 #TODO Refatorizar
     #min
