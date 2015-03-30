@@ -173,7 +173,6 @@ class Trainer:
 
     def conditional_probability(self):
         """
-
         """
         bulk = []
         words_all = session.query(Word).all()
@@ -204,7 +203,3 @@ class Trainer:
                         logger.debug("left ... %s words" % total)
         session.add_all(bulk)
         session.commit()
-
-
-        
-

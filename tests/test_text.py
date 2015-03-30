@@ -1,34 +1,100 @@
+# -*- coding: utf-8 -*-
+
+import extract
+import json
 import os
-import unittest
-import core.extract
-import core.settings
+from settings import BASE_DIR
+from os import listdir
+from os.path import isfile, join
+from extract import *
+from db.manager import *
+from db import models
+import operator
 
-class TestText(unittest.TestCase):
+import logging
+logger = logging.getLogger(__name__)
 
-    def setUp(self):
-        self.url = "http://www.gutenberg.org/cache/epub/7256/pg7256.txt"
-        self.author = "O. Henry"
-        self.title = "The Gift of the Magi"
-        self.period = "Unknown"
-        self.filename = "O. Henry-The Gift of the Magi.txt"
-        self.file_fullname = os.path.join(core.extract.TEXTS_FOLDER, self.filename)
-        self.file_default_name = os.path.join(core.extract.TEXTS_FOLDER, core.extract.DEFAULT_FILENAME)
+class Trainer:  
 
-    def tearDown(self):
-        if os.path.isfile(self.file_fullname):
-            os.remove(self.file_fullname)
-        if os.path.isfile(self.file_default_name):
-            os.remove(self.file_default_name)
+    def json(filename):
+        if not hasattr(self, "_json"):
+            _json = []
+            texts = {}
+            with open(filename, "r") as f:
+                texts = json.load(f)
+            for text in texts:
+                author = text["Author"]
+                title = text["Title"]
+                period = text["Period"]
+                url = text["URL"]
+                _json.append((author, title, period, url))
 
-    def test_get_text_without_query(self):
-        core.extract.get_text(self.url, query=False, author=self.author, title=self.title, period=self.period)
-        self.assertTrue(os.path.isfile(self.file_fullname))
+    def get_books(filename):
+        """
+        Gets the book if it is not in the texts folder otherwise dowload it
+        """
+        files = [ f for f in listdir(TEXTS_FOLDER) if isfile(join(TEXTS_FOLDER,f)) ]
+        for author, title, period, url in self.json(filename):
+            try:
+                if not format_filename(author, title) in files:
+                    book = extract.get_text(url, False, author, title, period)
+            except:
+                #TODO : ERROR 403
+                pass
 
-    def test_get_text_with_query(self):
-        core.extract.get_text(self.url, query=True, author=self.author, title=self.title, period=self.period)
-        self.assertTrue(os.path.isfile(self.file_default_name))
+    #TODO
+    def inspect(filename):
+        """
+        Check if the file is just text or an html page (if html then delete)
+        """
+        pass
 
-    def test_read_text(self):
-        core.extract.get_text(self.url, query=False, author=self.author, title=self.title, period=self.period)
-        for k, v  in core.extract.read_text(self.file_fullname).items():
-            print k, v
+
+    def train(filename):
+        #get_books(filename)
+        #populate(filename)
+        categories()
+
+
+
+    def populate(filename):
+        output = []
+        for author, title, period, url in self.json(filename):
+            #insert period
+            dic_period = {'name':period}
+            list_search = ['name']
+            period_obj = get_or_insert(dict_val=dic_period,
+                instance=models.Period, list_search=list_search)
+            #insert book
+            words = read_text(os.path.join(TEXTS_FOLDER, format_filename(author, title)))
+            tota_words = reduce(operator.add, words.values())
+            logger.debug(words)
+            logger.debug("Total Words: %s", tota_words)
+            dic_book = {'name':title,
+                'author':author,
+                'period':period_obj,
+                'total_words':tota_words,
+                'sentence_total':0}
+            list_search = ['name','author','period']
+            book_obj = get_or_insert(dict_val=dic_book,
+                instance=models.Book,list_search=list_search)
+            #Words
+            filename = format_filename(author, title)
+            
+            if len(words) == 0:
+                continue
+
+            logger.debug("Period id : %s %s" % (period_obj.id,period_obj.name))
+            logger.debug("Book id : %s %s %s" % (book_obj.id,book_obj.name,book_obj.author))
+            insert_words(words,book_obj,tota_words)
+
+    def categories():
+        words_all = get({},Word,[],True)
+        for word_obj in words_all:
+            calculate_categories(word_obj=word_obj)
+
+    def calculate_categories(word_obj=None):
+        if not word_obj:
+            return False
+        max_rate, min_rate = get_max_min_rate(word_obj)
+        logger.debug("%f %f " % (max_rate, min_rate))
