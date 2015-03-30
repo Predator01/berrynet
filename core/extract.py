@@ -13,19 +13,10 @@ DEFAULT_FILENAME = 'default.txt'
 EXTRA_CHARS = '",./\'-_?¿*;:()[]{}¡!%$=0987654321“”‘’'
 INWORD_PUNCTUATION = ["--"]
 
-def train():
-    pass
-
-
-def set_data_text():
-    pass
-
-
-def flush_query(words):
-    pass
 
 def format_filename(author="Unknown", title="Unknown"):
     return "%s-%s.txt" % (author, title)
+
 
 def get_text(url, query=True, author="Unknown", 
     title="Unknown", period="Unknown", files=[]):
@@ -44,7 +35,7 @@ def get_text(url, query=True, author="Unknown",
 
 def prepare_line(line):
     """
-    Splits a line into several words/
+    Splits a line into several words.
     """
     words = line.split()
     words = map(lambda w: w.strip(EXTRA_CHARS), words)
