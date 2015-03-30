@@ -14,25 +14,28 @@ import extract
 from sqlalchemy import func 
 from sqlalchemy import and_
 
-from db.manager import *
 from db import models
 
 from .settings import BASE_DIR, TEXT_DIR
 
 from extract import Extractor
+from db.manager import Manager
 
+from db.models import Word
 
 logger = logging.getLogger(__name__)
 
 
 class Trainer(object):
 
-    def __init__(self, json_path, text_dir=None):
+    def __init__(self, json_path, text_dir, db_url):
         self.json_path = json_path
-        self.text_dir = text_dir if text_dir else TEXT_DIR
+        self.text_dir = text_dir
+        self.db_url = db_url
         if not isdir(self.text_dir):
             mkdir(self.text_dir)
         self.extractor = Extractor(text_dir)
+        self.manager = Manager(db_url)
 
     def json(self):
         if not hasattr(self, "_json"):
@@ -52,7 +55,7 @@ class Trainer(object):
     def format_filename(author="Unknown", title="Unknown"):
         return "%s-%s.txt" % (author, title)
 
-    def download_book(self, url, query=True, author="Unknown", title="Unknown", period="Unknown", files=None):
+    def download_book(self, url, query=False, author="Unknown", title="Unknown", period="Unknown", files=None):
         """
         Downloads text from a URL. Returns the resulting filename if it was
         succesfully downloaded, otherwise returns None.
@@ -75,8 +78,9 @@ class Trainer(object):
         """
         files = [f for f in listdir(self.text_dir)]
         for author, title, period, url in self.json():
-            filename = self.format_filename()
+            filename = self.format_filename(author, title)
             if not filename in files:
+                print filename
                 book = self.download_book(url, False, author, title, period)
 
     def train(self):
@@ -100,7 +104,7 @@ class Trainer(object):
             #insert period
             dic_period = {'name':period}
             list_search = ['name']
-            period_obj = get_or_insert(dict_val=dic_period,
+            period_obj = self.manager.get_or_insert(dict_val=dic_period,
                 instance=models.Period, list_search=list_search)
             #insert book
             # logger.debug(words)
@@ -111,7 +115,7 @@ class Trainer(object):
                 'total_words':total_words,
                 'sentence_total':0}
             list_search = ['name','author','period']
-            book_obj = get_or_insert(dict_val=dic_book,
+            book_obj = self.manager.get_or_insert(dict_val=dic_book,
                 instance=models.Book,list_search=list_search)
             #Words
             filename = self.format_filename(author, title)
@@ -121,10 +125,10 @@ class Trainer(object):
 
             logger.debug("Period id : %s %s" % (period_obj.id,period_obj.name))
             logger.debug("Book id : %s %s %s" % (book_obj.id,book_obj.name,book_obj.author))
-            insert_words(words,book_obj,total_words)
+            self.manager.insert_words(words,book_obj,total_words)
 
     def categories(self):
-        words_all = get({},Word,[],True)
+        words_all = self.manager.get({},Word,[],True)
         total = len(words_all)
         for word_obj in words_all:
             self.calculate_categories(word_obj=word_obj)

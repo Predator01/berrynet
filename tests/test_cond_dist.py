@@ -5,7 +5,8 @@ from core.settings import BASE_DIR
 from core.extract import Extractor
 from core.train import Trainer
 
-from db.create import create_database
+from db.create import create_database, delete_database
+from db.models import WordConditionalProbability
 
 from .settings import TEST_DIR
 from .settings import TEST_TEXT_DIR
@@ -42,9 +43,11 @@ TEXTS_DISTRIBUTIONS = {
 class TestConditionalProbability(unittest.TestCase):
 
     def setUp(self):
-        self.cache = True
+        self.cleanup = False
         json_path = os.path.join(TEST_DIR, "test.json")
-        self.trainer = Trainer(text_dir=TEST_TEXT_DIR, json_path=json_path)
+        self.db_url = os.path.join(TEST_DIR, "test.db")
+        create_database(self.db_url)
+        self.trainer = Trainer(text_dir=TEST_TEXT_DIR, json_path=json_path, db_url=self.db_url)
         for filename, distribution in self.distributions():
             path = os.path.join(TEST_TEXT_DIR, filename)
             f = open(path, "w")
@@ -55,9 +58,11 @@ class TestConditionalProbability(unittest.TestCase):
             f.close()
 
     def tearDown(self):
-        if not self.cache:
+        if self.cleanup:
             for filename, distribution in self.distributions():
-                os.remove(filename)
+                path = os.path.join(TEST_TEXT_DIR, filename)
+                os.remove(path)
+            delete_database(self.db_url)
 
     def distributions(self):
         for period, texts in TEXTS_DISTRIBUTIONS.items():
@@ -67,4 +72,4 @@ class TestConditionalProbability(unittest.TestCase):
                 yield filename, distribution
 
     def test_probabilities(self):
-        create_database("test.db")
+        self.trainer.train()

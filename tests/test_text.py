@@ -5,16 +5,25 @@ from core import train
 import os
 from core.settings import BASE_DIR
 
+from .settings import TEST_TEXT_DIR
+
 class TestTrain(unittest.TestCase):
 
-    def test_train(self):
+    def setUp(self):
         path = os.path.join(BASE_DIR, 'sources.json')
+        self.trainer = train.Trainer(json_path=path, text_dir=TEST_TEXT_DIR, db_url="test.db")
+
+    def tearDown(self):
+        pass
+
+    def test_train(self):
+        
         texts = [{"Period": period,
                   "Author": author,
                   "Title": title,
                   "URL": url}
                  for author, title, period, url
-                 in train.Trainer(path).json()[0:3]
+                 in self.trainer.json()
                 ]
         test_text = {
             "Period": "Romantic",

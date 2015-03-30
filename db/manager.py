@@ -22,7 +22,7 @@ class Manager(object):
             return instance
         temp = instance(**dict_val)
         self.session.add(temp)
-        return get(dict_val,instance,list_search)
+        return self.get(dict_val,instance,list_search)
 
 
     #TODO Refactor
@@ -49,9 +49,9 @@ class Manager(object):
         if not instance:
             return instance
 
-        item = get(dict_val, instance, list_search)
+        item = self.get(dict_val, instance, list_search)
         if not item:
-            item = insert(dict_val, instance, list_search)
+            item = self.insert(dict_val, instance, list_search)
             self.session.commit()
         return item
 
@@ -132,7 +132,7 @@ class Manager(object):
         
         min_cat_rate = min_rate
         objs = []
-    #TODO Refatorizar
+        #TODO Refatorizar
         #min
         low = list_dic_cat[0]
         category_obj = bulk_insert_simple(
