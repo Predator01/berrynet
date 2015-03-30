@@ -47,8 +47,7 @@ def get_or_insert(dict_val, instance=None, list_search=None):
         item = insert(dict_val, instance, list_search)
         session.commit()
     return item
-        
-        
+
 # def bulk_insert(arr_dict_val, instance):
 #     if not instance:
 #         return False
@@ -166,4 +165,3 @@ def construct_categories(min_rate, max_rate, word_obj=None):
     objs.append(category_obj)   
     
     session.add_all(objs)
-
