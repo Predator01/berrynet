@@ -14,7 +14,7 @@ if __name__ == '__main__':
 	
 	create_database()
 	filename = os.path.join(BASE_DIR, "sources.json")
-	Trainer().train(filename)
+	Trainer(filename).train()
 
     # file_name = get_text(sys.argv[1], False)
     # read_text(file_name)

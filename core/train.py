@@ -20,11 +20,14 @@ logger = logging.getLogger(__name__)
 
 class Trainer:
 
-    def json(self, filename):
+    def __init__(self, filename):
+        self.filename = filename
+
+    def json(self):
         if not hasattr(self, "_json"):
             _json = []
             texts = {}
-            with open(filename, "r") as f:
+            with open(self.filename, "r") as f:
                 texts = json.load(f)
             for text in texts:
                 author = text["Author"]
@@ -34,12 +37,12 @@ class Trainer:
                 _json.append((author, title, period, url))
         return _json
 
-    def get_books(self, filename):
+    def get_books(self):
         """
         Gets the book if it is not in the texts folder otherwise dowload it
         """
         files = [ f for f in listdir(TEXTS_FOLDER) if isfile(join(TEXTS_FOLDER,f)) ]
-        for author, title, period, url in self.json(filename):
+        for author, title, period, url in self.json():
             filename = format_filename(author, title)
             try:
                 if not filename in files:
@@ -49,28 +52,19 @@ class Trainer:
                 os.remove(os.path.join(TEXTS_FOLDER, format_filename(author, title)))
                 pass
 
-    #TODO
-    def inspect(self, filename):
-        """
-        Check if the file is just text or an html page (if html then delete)
-        """
-        pass
-
-
-    def train(self, filename):
+    def train(self):
         logger.debug("      STARTING get_books")
-        self.get_books(filename)
+        self.get_books()
         logger.debug("      STARTING populate")
-        self.populate(filename)
+        self.populate()
         logger.debug("      STARTING categories")
         self.categories()
         logger.debug("      STARTING conditional_probability")
         self.conditional_probability()
 
-
-    def populate(self, filename):
+    def populate(self):
         output = []
-        for author, title, period, url in self.json(filename):
+        for author, title, period, url in self.json():
             words = read_text(os.path.join(TEXTS_FOLDER, format_filename(author, title)))
             if len(words) == 0:
                 continue

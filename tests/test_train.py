@@ -3,18 +3,18 @@
 import unittest
 from core import train
 import os
-import core.settings
+from core.settings import BASE_DIR
 
 class TestTrain(unittest.TestCase):
 
     def test_train(self):
-        path = os.path.join(core.settings.BASE_DIR, 'sources.json')
+        path = os.path.join(BASE_DIR, 'sources.json')
         texts = [{"Period": period,
                   "Author": author,
                   "Title": title,
                   "URL": url}
                  for author, title, period, url
-                 in train.Trainer().json(path)[0:3]
+                 in train.Trainer(path).json()[0:3]
                 ]
         test_text = {
             "Period": "Romantic",

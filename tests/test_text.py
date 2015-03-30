@@ -1,15 +1,13 @@
 # -*- coding: utf-8 -*-
 
-import extract
 import json
-import os
-from settings import BASE_DIR
+import operator
 from os import listdir
 from os.path import isfile, join
-from extract import *
-from db.manager import *
+
+from core import extract
+from core.settings import BASE_DIR
 from db import models
-import operator
 
 import logging
 logger = logging.getLogger(__name__)

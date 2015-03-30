@@ -14,6 +14,10 @@ EXTRA_CHARS = '",./\'-_?¿*;:()[]{}¡!%$=0987654321“”‘’'
 INWORD_PUNCTUATION = ["--"]
 
 
+def is_html(text):
+    return "<head>" in text
+
+
 def format_filename(author="Unknown", title="Unknown"):
     return "%s-%s.txt" % (author, title)
 
