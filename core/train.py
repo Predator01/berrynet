@@ -22,6 +22,8 @@ from extract import Extractor
 from db.manager import Manager
 
 from db.models import Word
+from db.models import *
+from db.models import WordConditionalProbability
 
 logger = logging.getLogger(__name__)
 
@@ -130,18 +132,19 @@ class Trainer(object):
     def categories(self):
         words_all = self.manager.get({},Word,[],True)
         total = len(words_all)
+        logger.debug("  categories Words %s" % total)
         for word_obj in words_all:
             self.calculate_categories(word_obj=word_obj)
             total -= 1
             if total % 500 ==0:
                 logger.debug("Progressing Word -- Category... %s" % total)
-        session.commit()
+        self.manager.session.commit()
 
     def calculate_categories(self, word_obj=None):
         if not word_obj:
             return False
-        max_rate, min_rate = get_max_min_rate(word_obj)
-        construct_categories(min_rate,max_rate, word_obj)
+        max_rate, min_rate = self.manager.get_max_min_rate(word_obj)
+        self.manager.construct_categories(min_rate,max_rate, word_obj)
 
 
     def period_probability(self, period, log=False):
@@ -150,7 +153,7 @@ class Trainer(object):
         ---
         # total de libros
         """
-        books_period = session.query(Book).filter_by(period=period).count()
+        books_period = self.manager.session.query(Book).filter_by(period=period).count()
         if log:
             logger.debug("      books_period = %f " % (books_period))
         return books_period
@@ -163,12 +166,12 @@ class Trainer(object):
         numero de libros de esa epoca
         """
         num_books__word_cat = 0
-        books_period = session.query(Book).filter_by(period=period).all()
+        books_period = self.manager.session.query(Book).filter_by(period=period).all()
         for book in books_period:
             #el libro contiene la palabra
-            book_word = session.query(WordCount).filter_by(
+            book_word = self.manager.session.query(WordCount).filter_by(
                 book=book,word=word).all()
-            word_category = session.query(WordCategory).filter_by(
+            word_category = self.manager.session.query(WordCategory).filter_by(
                 category=category,word=word).one()
             
             #if len(book_word)==0, no relation then prob 0 
@@ -196,11 +199,11 @@ class Trainer(object):
     def conditional_probability(self):
         """
         """
-        session.query(WordConditionalProbability).delete()
+        self.manager.session.query(WordConditionalProbability).delete()
         bulk = []
-        words_all = session.query(Word).all()
-        periods = session.query(Period).all()
-        categories = session.query(Category).all()
+        words_all = self.manager.session.query(Word).all()
+        periods = self.manager.session.query(Period).all()
+        categories = self.manager.session.query(Category).all()
         for period in periods:
             logger.debug(period.name)
             for category in categories:
@@ -224,28 +227,28 @@ class Trainer(object):
                     total -= 1
                     if total % 500 == 0:
                         logger.debug("left ... %s words" % total)
-        session.add_all(bulk)
-        session.commit()
+        self.manager.session.add_all(bulk)
+        self.manager.session.commit()
         self.complete_probability()
 
     def complete_probability(self):
         bulk = []
         list_cat = ['med','high','high_high']
-        cats_ids = session.query(Category).filter(Category.description.in_(list_cat)).all()
-        low = session.query(Category).filter(Category.description=='low').one()
+        cats_ids = self.manager.session.query(Category).filter(Category.description.in_(list_cat)).all()
+        low = self.manager.session.query(Category).filter(Category.description=='low').one()
 
-        words_all = session.query(Word).all()
-        periods = session.query(Period).all()
+        words_all = self.manager.session.query(Word).all()
+        periods = self.manager.session.query(Period).all()
         for period in periods:
             total = len(words_all)
             for word in words_all:
-                sum_3cat = session.query(
+                sum_3cat = self.manager.session.query(
                     func.sum(WordConditionalProbability.probability)).filter(
                         and_(WordConditionalProbability.id_category.in_(c.id for c in cats_ids),
                             WordConditionalProbability.id_word == word.id,
                             WordConditionalProbability.id_period == period.id)
                     ).all()[0][0]
-                cat_low = session.query(WordConditionalProbability).filter(
+                cat_low = self.manager.session.query(WordConditionalProbability).filter(
                         and_(WordConditionalProbability.id_category == low.id,
                             WordConditionalProbability.id_word == word.id,
                             WordConditionalProbability.id_period == period.id)
@@ -255,5 +258,5 @@ class Trainer(object):
                 total -= 1
                 if total % 500 == 0:
                     logger.debug("left ... %s words" % total)
-        session.commit()
+        self.manager.session.commit()
 

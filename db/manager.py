@@ -55,16 +55,6 @@ class Manager(object):
             self.session.commit()
         return item
 
-    # def bulk_insert(arr_dict_val, instance):
-    #     if not instance:
-    #         return False
-    #     for params in arr_dict_val:
-    #         temp = instance(**params)
-    #         # if not exist(temp):
-    #             # self.session.add(temp)
-    #     self.session.commit()
-    #     return True
-
     def bulk_insert_simple(self, dict_val, instance=None, list_search=None):
         if not instance:
             return instance
@@ -85,24 +75,19 @@ class Manager(object):
             try:
                 word = unicode(word)
                 total-=1
-                #TODO Too much time processing
-                # word_obj = get_or_insert(
-                #     dict_val={'text':word},
-                #     instance=Word,
-                #     list_search=['text'])
-                word_obj = bulk_insert_simple(
+                word_obj = self.bulk_insert_simple(
                     dict_val={'text':word},
                     instance=Word,
                     list_search=['text'])
-                word_count_obj = bulk_insert_simple(
+                word_count_obj = self.bulk_insert_simple(
                     dict_val={'book':book_obj, 'word':word_obj,
                     'count':num, 'rate':num/total_words},
                     instance=WordCount,
                     list_search=['book','word'])
                 objs.append(word_obj)
                 objs.append(word_count_obj)
-            except:
-                logger.debug("Parsing error: %s" % word)
+            except Exception, e:
+                logger.debug("Parsing error: %s <Error>%s</Error>" % (word,e))
             if total % 500 ==0:
                 logger.debug("Progressing ... %s" % total)
         self.session.add_all(objs)
@@ -135,11 +120,11 @@ class Manager(object):
         #TODO Refatorizar
         #min
         low = list_dic_cat[0]
-        category_obj = bulk_insert_simple(
+        category_obj = self.bulk_insert_simple(
             dict_val=low,
             instance=Category,
             list_search=list_search)
-        word_category_obj = bulk_insert_simple(
+        word_category_obj = self.bulk_insert_simple(
             dict_val={'category':category_obj, 'word':word_obj,
             'min_range': 0, 'max_range': min_rate},
             instance=WordCategory,
@@ -148,11 +133,11 @@ class Manager(object):
         objs.append(category_obj)   
         #intermedias
         for dic_category in list_dic_cat[1:-1]:
-            category_obj = bulk_insert_simple(
+            category_obj = self.bulk_insert_simple(
                 dict_val=dic_category,
                 instance=Category,
                 list_search=list_search)
-            word_category_obj = bulk_insert_simple(
+            word_category_obj = self.bulk_insert_simple(
                 dict_val={'category':category_obj, 'word':word_obj,
                 'min_range': min_cat_rate, 'max_range': min_cat_rate+offset },
                 instance=WordCategory,
@@ -162,11 +147,11 @@ class Manager(object):
             objs.append(category_obj)
         #max
         high_high = list_dic_cat[-1]
-        category_obj = bulk_insert_simple(
+        category_obj = self.bulk_insert_simple(
             dict_val=high_high,
             instance=Category,
             list_search=list_search)
-        word_category_obj = bulk_insert_simple(
+        word_category_obj = self.bulk_insert_simple(
             dict_val={'category':category_obj, 'word':word_obj,
             'min_range': min_cat_rate, 'max_range': 1.0},
             instance=WordCategory,
