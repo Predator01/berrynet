@@ -28,7 +28,6 @@ def set_engine(filename):
 
 
 def create_database(filename):
-    print "SESSION NAMEE     " + filename
     engine = set_engine(filename)
     Base.metadata.create_all(engine)
 
@@ -39,7 +38,6 @@ def delete_database(filename):
 
 
 def create_session(filename):
-    print "SESSION NAMEE     " + filename
     engine = set_engine(filename)
     session_factory = sessionmaker(bind=engine)
     Session = scoped_session(session_factory)

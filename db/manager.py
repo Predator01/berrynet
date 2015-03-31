@@ -15,7 +15,7 @@ logger = logging.getLogger(__name__)
 class Manager(object):
 
     def __init__(self, url):
-        self.session = create_session(url)        
+        self.session = create_session(url)      
 
     def insert(self, dict_val, instance=None, list_search=None):
         if not instance:

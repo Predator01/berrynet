@@ -43,7 +43,7 @@ TEXTS_DISTRIBUTIONS = {
 class TestConditionalProbability(unittest.TestCase):
 
     def setUp(self):
-        self.cleanup = False
+        self.cleanup = True
         json_path = os.path.join(TEST_DIR, "test.json")
         self.db_url = os.path.join(TEST_DIR, "test.db")
         create_database(self.db_url)

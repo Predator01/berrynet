@@ -94,6 +94,7 @@ class Trainer(object):
         self.categories()
         logger.debug("      STARTING conditional_probability")
         self.conditional_probability()
+        self.manager.session.close_all()    
 
     def populate(self):
         output = []

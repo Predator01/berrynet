@@ -13,6 +13,7 @@ class TestManager(unittest.TestCase):
 
     def tearDown(self):
         if self.cleanup:
+            self.manager.session.close_all()
             delete_database("mining.db")
 
     def test_bulk_insert(self):
