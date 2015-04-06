@@ -1,19 +1,20 @@
 # -*- coding: utf-8 -*-
 
-from flask import Blueprint, render_template
+from flask import Blueprint, render_template, request
 
-from . import route
 
 bp = Blueprint('default', __name__)
 
 
-@route(bp, '/')
+@bp.route('/', methods=['GET'], strict_slashes=False)
 def index():
-    """Returns the dashboard interface."""
-    return render_template('dashboard.html')
+    """Returns the index interface."""
+    return render_template('index.html')
 
 
-    settings
-
-
+@bp.route('/analyze', methods=['GET'], strict_slashes=False)
+def query():
+    """Returns the query results."""
+    query = request.args.get('query', '')
+    return render_template('restult.html')
     
