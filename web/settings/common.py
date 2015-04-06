@@ -9,14 +9,11 @@ from private import *
 
 DEBUG = False
 
-#SQLALCHEMY_DATABASE_URI = 'mysql://root@33.33.33.10:3306/overholt'
-
-# MAIL_DEFAULT_SENDER = 'crmsuscriptions@gmail.com'
 MAIL_SERVER = 'smtp.gmail.com'
 MAIL_PORT = 465
 MAIL_USE_SSL = True
-MAIL_USERNAME = 'crmsuscriptions'
-MAIL_PASSWORD = '.ale.748512'
+MAIL_USERNAME = ''
+MAIL_PASSWORD = ''
 
 SECURITY_POST_LOGIN_VIEW = '/profile'
 SECURITY_PASSWORD_HASH = 'plaintext'
@@ -31,3 +28,5 @@ SECURITY_TRACKABLE = True
 CSRF_ENABLED = True
 
 DEBUG_TB_INTERCEPT_REDIRECTS = False
+
+ASSETS_DEBUG = False
