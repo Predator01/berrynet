@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <link href="http://fonts.googleapis.com/css?family=Oswald:400,300,700|Roboto+Condensed:400,700,300|Roboto:100,200,300,400|Lato:200,300,400,500,600" rel="stylesheet" type="text/css">
+        <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">  
+
+        {% assets "css_all" %}
+            <link rel="stylesheet" href="{{ ASSET_URL }}"></script>
+        {% endassets %}
+
+        {% block stylesheets %}
+        {% endblock %}
+
+        {% block scripts %}
+        {% endblock %}
+    </head>
+
+    <body>
+        {% block content %}
+        {% endblock %}
+        {% block footer %}
+        {% endblock %}
+    </body>
+
+    {% block extra_scripts %}
+    {% endblock %}   
+</html>

@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <div class="wrapper">
+        <div class="logo">
+            <div style="z-index:106;"></div>
+            <div style="left:12px; z-index:102;"></div>
+            <div style="left:6px; top:12px; z-index:104;"></div> 
+            <span style="margin-left:40px;  font-weight:lighter; ">Berry</span>
+            <span style="font-weight:400;">net</span>
+        </div> 
+        <div class="banner">
+            Bayes networks to discriminate Romantic and Elizabethan writers
+        </div>
+        <div class="box">
+            <i class="fa fa-link"></i>
+            <input placeholder="Insert a URL" type="text"></input>
+            <button type="button"> Go </button>
+        </div>
+    </div>
+{% endblock %}
+
+{% block footer %}
+    {% include 'footer.html' ignore missing %}
+{% endblock %}
