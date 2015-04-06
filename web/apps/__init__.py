@@ -9,7 +9,7 @@ from ..middlewares import HTTPMethodOverrideMiddleware
 
 
 
-class AppFactory:
+class AppFactory(object):
 
     SETTINGS_OBJECT = 'web.settings.development'
     SETTINGS_FILE = 'settings.cfg'
@@ -34,10 +34,10 @@ class AppFactory:
         """
 
         app = Flask(package_name, instance_relative_config=True)
-        app.config.from_object(cls.SETTINGS_OBJECT)
-        app.config.from_pyfile(cls.SETTINGS_FILE, silent=True)
+        app.config.from_object(self.SETTINGS_OBJECT)
+        app.config.from_pyfile(self.SETTINGS_FILE, silent=True)
         app.config.from_object(settings_override)
-        app.config.from_envvar(cls.SETTINGS_ENV, silent=True)
+        app.config.from_envvar(self.SETTINGS_ENV, silent=True)
         register_blueprints(app, package_name, package_path)
         app.wsgi_app = HTTPMethodOverrideMiddleware(app.wsgi_app)
         self.__app__ = app
