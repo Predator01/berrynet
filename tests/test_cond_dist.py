@@ -43,7 +43,7 @@ TEXTS_DISTRIBUTIONS = {
 class TestConditionalProbability(unittest.TestCase):
 
     def setUp(self):
-        self.cleanup = True
+        self.cleanup = False
         json_path = os.path.join(TEST_DIR, "test.json")
         self.db_url = os.path.join(TEST_DIR, "test.db")
         create_database(self.db_url)
@@ -67,7 +67,7 @@ class TestConditionalProbability(unittest.TestCase):
     def distributions(self):
         for period, texts in TEXTS_DISTRIBUTIONS.items():
             for i, distribution in enumerate(texts):
-                title = "%s%d" % (period, i)
+                title = "%s%d" % (period, i+1)
                 filename  = self.trainer.format_filename(author="test", title=title)
                 yield filename, distribution
 

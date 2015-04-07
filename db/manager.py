@@ -116,6 +116,7 @@ class Manager(object):
             offset = max_rate / len(list_dic_cat)
         
         min_cat_rate = min_rate
+
         objs = []
         #TODO Refatorizar
         #min
