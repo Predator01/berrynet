@@ -115,7 +115,7 @@ class Manager(object):
         if offset == 0:
             offset = max_rate / len(list_dic_cat)
         
-        min_cat_rate = min_rate
+        min_cat_rate = min_rate + offset
 
         objs = []
         #TODO Refatorizar
@@ -127,7 +127,7 @@ class Manager(object):
             list_search=list_search)
         word_category_obj = self.bulk_insert_simple(
             dict_val={'category':category_obj, 'word':word_obj,
-            'min_range': 0, 'max_range': min_rate},
+            'min_range': 0, 'max_range': min_cat_rate},
             instance=WordCategory,
             list_search=['category','word'])
         objs.append(word_category_obj)
