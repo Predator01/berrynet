@@ -73,3 +73,10 @@ class TestConditionalProbability(unittest.TestCase):
 
     def test_probabilities(self):
         self.trainer.train()
+
+    def test_A_low_given_R(self):
+        pass
+
+    def test_C_high_given_E(self):
+        pass
+
