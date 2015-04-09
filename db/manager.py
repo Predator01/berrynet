@@ -161,3 +161,17 @@ class Manager(object):
         objs.append(category_obj)   
         
         self.session.add_all(objs)
+    
+    @property
+    def elizabethan_period(self):
+        if not hasattr(self, "_elizabethan_period"):
+            self._elizabethan_period = self.manager.session.query(
+                Period).filter(Period.name=='Elizabethan').one()
+        return self._elizabethan_period
+            
+    @property
+    def romantic_period(self):
+        if not hasattr(self, "_romantic_period"):
+            self._romantic_period = self.manager.session.query(
+                Period).filter(Period.name=='Romantic').one()
+        return self._romantic_period

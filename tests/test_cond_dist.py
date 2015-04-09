@@ -8,6 +8,8 @@ from core.train import Trainer
 from db.create import create_database, delete_database
 from db.models import WordConditionalProbability
 
+from core.extract import format_filename
+
 from .settings import TEST_DIR
 from .settings import TEST_TEXT_DIR
 
@@ -68,7 +70,7 @@ class TestConditionalProbability(unittest.TestCase):
         for period, texts in TEXTS_DISTRIBUTIONS.items():
             for i, distribution in enumerate(texts):
                 title = "%s%d" % (period, i+1)
-                filename  = self.trainer.format_filename(author="test", title=title)
+                filename  = format_filename(author="test", title=title)
                 yield filename, distribution
 
     def test_probabilities(self):

@@ -33,6 +33,10 @@ def prepare_line(line):
     return words
 
 
+def format_filename(author="Unknown", title="Unknown"):
+    return "%s-%s.txt" % (author, title)
+
+
 class Extractor(object):
     """
     By default works with the production directory of texts. It can be
@@ -56,3 +60,20 @@ class Extractor(object):
                 for word in prepare_line(line):
                     words[word] = words.get(word, 0) + 1
         return words
+    
+    def download_book(url, query=False, author="Unknown", title="Unknown", period="Unknown", files=None):
+        """
+        Downloads text from a URL. Returns the resulting filename if it was
+        succesfully downloaded, otherwise returns None.
+        """
+        filename = format_filename(author, title)
+        if files and not filename in files:
+            filename = DEFAULT_FILENAME if query else filename
+            filename = os.path.join(self.text_dir, filename)
+            response = urllib2.urlopen(url)
+            text = response.read()
+            if is_html(text):
+                return None
+            with open(filename, 'wb') as text_file:
+                text_file.write(text)
+        return filename
