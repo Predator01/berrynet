@@ -6,7 +6,7 @@ from core.extract import Extractor
 from core.train import Trainer
 
 from db.create import create_database, delete_database
-from db.models import WordConditionalProbability
+from db.models import Category, Period, Word, WordConditionalProbability
 
 from core.extract import format_filename
 
@@ -45,19 +45,21 @@ TEXTS_DISTRIBUTIONS = {
 class TestConditionalProbability(unittest.TestCase):
 
     def setUp(self):
-        self.cleanup = False
+        self.cleanup = True
         json_path = os.path.join(TEST_DIR, "test-1.json")
         self.db_url = os.path.join(TEST_DIR, "test-1.db")
-        create_database(self.db_url)
         self.trainer = Trainer(text_dir=TEST_TEXT_DIR, json_path=json_path, db_url=self.db_url)
-        for filename, distribution in self.distributions():
-            path = os.path.join(TEST_TEXT_DIR, filename)
-            f = open(path, "w")
-            for letter, frequency in distribution.items():
-                s = " ".join([letter] * int(frequency * 100))
-                f.write(s)
-                f.write("\n")
-            f.close()
+        if not os.path.isfile(self.db_url):
+            create_database(self.db_url)
+            for filename, distribution in self.distributions():
+                path = os.path.join(TEST_TEXT_DIR, filename)
+                f = open(path, "w")
+                for letter, frequency in distribution.items():
+                    s = " ".join([letter] * int(frequency * 100))
+                    f.write(s)
+                    f.write("\n")
+                f.close()
+            self.trainer.train()
 
     def tearDown(self):
         if self.cleanup:
@@ -73,12 +75,29 @@ class TestConditionalProbability(unittest.TestCase):
                 filename  = format_filename(author="test", title=title)
                 yield filename, distribution
 
-    def test_probabilities(self):
-        self.trainer.train()
+    # def test_probabilities(self):
+    #     self.trainer.train()
+
+    def _word_conditional_probability(self, word, category, period):
+        p = self.trainer.manager.session.query(WordConditionalProbability)
+        p = p.join(Word).join(Period).join(Category)
+        p = p.filter(Word.text == word, Category.description == category, Period.name == period)
+        p = p.first()
+            
+        return p.probability
 
     def test_A_low_given_R(self):
-        pass
+        p = self._word_conditional_probability('a', 'low', 'Romantic')
+        self.assertAlmostEqual(0.4, p)
+
+    def test_B_med_given_E(self):
+        p = self._word_conditional_probability('b', 'med', 'Elizabethan')
+        self.assertAlmostEqual(0.4, p)
+
+    def test_C_high_given_R(self):
+        p = self._word_conditional_probability('c', 'high', 'Romantic')
+        self.assertAlmostEqual(0.6, p)
 
     def test_C_high_given_E(self):
-        pass
-
+        p = self._word_conditional_probability('c', 'high', 'Elizabethan')
+        self.assertAlmostEqual(0.0, p)
