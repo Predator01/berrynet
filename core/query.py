@@ -132,7 +132,6 @@ class Query(object):
         Returns a tuple ``(e, r)`` of the factor than this book be Elizabethan
         or Romantic respectively.
         """
-        # TODO the signature might be ok
         elizabethan_book_count = self.manager.elizabethan_book_count
         romantic_book_count = self.manager.romantic_book_count
         total_books = elizabethan_book_count + romantic_book_count
@@ -141,7 +140,8 @@ class Query(object):
         elizabethan_factor = 1
         romantic_factor = 1
         for e, r in conditional_probabilities:
-            elizabethan_factor *= e * elizabethan_probability
-            romantic_factor *= r * romantic_probability
-            print "e = %f, r = %f" % elizabethan_factor, romantic_factor
+            if e != 0 and r != 0:
+                elizabethan_factor *= e * elizabethan_probability
+                romantic_factor *= r * romantic_probability
+            print "e = %f, r = %f" % (elizabethan_factor, romantic_factor)
         return elizabethan_factor, romantic_factor

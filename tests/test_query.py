@@ -34,7 +34,7 @@ class TestQuery(unittest.TestCase):
             self.trainer.train()
         self.text_dir = path.join(TEST_DIR, "texts")
         self.db_url = path.join(path.join(TEST_DIR, "db"), "test-2.db")
-        self.book_url = path.join(path.join(TEST_DIR, "texts"), "query-1.txt")
+        
 
     def tearDown(self):
         if self.cleanup:
@@ -44,6 +44,13 @@ class TestQuery(unittest.TestCase):
         self.assertTrue(path.isfile(self.db_url))
 
     def test_romantic_1(self):
-        with Query(self.text_dir, self.db_url, self.book_url) as query:
+        book_url = path.join(path.join(TEST_DIR, "texts"), "query-1.txt")
+        with Query(self.text_dir, self.db_url, book_url) as query:
             e, r = query.results()
-            print e, r
+            self.assertTrue(r > e)
+
+    def test_elizabethan_1(self):
+        book_url = path.join(path.join(TEST_DIR, "texts"), "query-2.txt")
+        with Query(self.text_dir, self.db_url, book_url) as query:
+            e, r = query.results()
+            self.assertTrue(e > r)
