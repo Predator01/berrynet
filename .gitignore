@@ -1,6 +1,7 @@
 .DS_Store
 *.sqlite
 *.db
+!tests/db/*.db
 
 #logs
 logs/
@@ -60,6 +61,3 @@ docs/_build/
 
 # PyBuilder
 target/
-
-# texts
-texts/

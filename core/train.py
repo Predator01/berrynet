@@ -19,6 +19,7 @@ from db import models
 from .settings import BASE_DIR, TEXT_DIR
 
 from extract import Extractor
+from extract import format_filename
 from db.manager import Manager
 
 from db.models import Word
@@ -53,37 +54,16 @@ class Trainer(object):
                 _json.append((author, title, period, url))
         return _json
 
-    @staticmethod
-    def format_filename(author="Unknown", title="Unknown"):
-        return "%s-%s.txt" % (author, title)
-
-    def download_book(self, url, query=False, author="Unknown", title="Unknown", period="Unknown", files=None):
-        """
-        Downloads text from a URL. Returns the resulting filename if it was
-        succesfully downloaded, otherwise returns None.
-        """
-        filename = self.format_filename(author, title)
-        if files and not filename in files:
-            filename = DEFAULT_FILENAME if query else filename
-            filename = os.path.join(self.text_dir, filename)
-            response = urllib2.urlopen(url)
-            text = response.read()
-            if is_html(text):
-                return None
-            with open(filename, 'wb') as text_file:
-                text_file.write(text)
-            return filename
-
     def get_books(self):
         """
         Downloads the book if it's not in the texts directory.
         """
         files = [f for f in listdir(self.text_dir)]
         for author, title, period, url in self.json():
-            filename = self.format_filename(author, title)
+            filename = format_filename(author, title)
             if not filename in files:
                 print filename
-                book = self.download_book(url, False, author, title, period)
+                book = self.extractor.download_book(url, False, author, title, period)
 
     def train(self):
         logger.debug("      STARTING get_books")
@@ -100,7 +80,7 @@ class Trainer(object):
         output = []
         for author, title, period, url in self.json():
             # TODO clean the next line
-            words = self.extractor.read_text(self.format_filename(author, title))
+            words = self.extractor.read_text(format_filename(author, title))
             if len(words) == 0:
                 continue
             total_words = reduce(operator.add, words.values())
@@ -121,7 +101,7 @@ class Trainer(object):
             book_obj = self.manager.get_or_insert(dict_val=dic_book,
                 instance=models.Book,list_search=list_search)
             #Words
-            filename = self.format_filename(author, title)
+            filename = format_filename(author, title)
             
             if len(words) == 0:
                 continue
