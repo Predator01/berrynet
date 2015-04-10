@@ -11,7 +11,10 @@ from core.train import Trainer
 
 
 if __name__ == '__main__':
-	
-	create_database()
-	filename = os.path.join(BASE_DIR, "sources.json")
-	Trainer(filename).train()
+    json_path = os.path.join(BASE_DIR, "sources.json")
+    db_url = os.path.join(BASE_DIR, "berrynet.db")
+    test_dir = os.path.join(BASE_DIR, "/texts")
+    trainer = Trainer(text_dir=test_dir, json_path=json_path, db_url=db_url)
+    if not os.path.isfile(db_url):
+        create_database(db_url)
+        trainer.train()
