@@ -1,123 +1,147 @@
 # -*- coding: utf-8 -*-
 
+import os
+from os import path
+
 from db.manager import Manager
+from extract import DEFAULT_FILENAME
 from extract import Extractor
-from extract import download_book
 from db.models import *
+
 
 class Query(object):
 
-    def __init__(self, text_dir, db_url, book_url):
+    def __init__(self, text_dir, db_url, book_url, should_download=False):
         """
-        init for querys
+        ``text_dir`` is the directory where a copy of text should be put.
+        ``db_url`` should be the url to a database that already exists.
+        ``should_download`` indicates whether or not ``book_url`` is a local
+        path or a url in the internet.
         """
         self.text_dir = text_dir
         self.db_url = db_url
         self.book_url = book_url
+        self.should_download = should_download
         self.manager = Manager(db_url)
-        self.extractor = Extractor(db_url)
-    
-    def configure(self):
-        filename = self.extractor.download_book(self.book_url, True)
-        self.words = self.extractor.read_text(filename)
+        self.extractor = Extractor(text_dir)
+
+    def __enter__(self):
+        self.run()
+        return self
+
+    def __exit__(self, type, value, traceback):
+        self.clean_up()
+
+    def run(self):
+        word_rates = self._word_rates()
+        word_categories = self._word_categories(word_rates)
+        wcp = self._word_conditional_probabilities(word_categories)
+        e, r = self._probabilities(wcp)
+        self.elizabethan_factor = e
+        self.romantic_factor = r
+
+    def results(self):
+        """
+        Returns a tuple (e, r) with the factor that this book be Elizabethan
+        or Romantic respectively.
+        """
+        return self.elizabethan_factor, self.romantic_factor
+
+
+    def clean_up(self):
+        if self.should_download:
+            os.remove(self.filename)
         
-    def word_categories(self):
+    def _word_rates(self):
+        """
+        Downloads the book if needed, or makes a copy of it.
+        Returns a dictionary of words and their rates.
+        """
+        if self.should_download:
+            self.filename = self.extractor.download_book(self.book_url, True)
+        else:
+            self.filename = self.book_url
+        word_rates = self.extractor.read_text(self.filename)
+        return word_rates
+        
+    def _word_categories(self, word_rates):
         """
         For every word in the database returns a dictionary of word->category
         according to the rates in the books.
+        Returns an iterable of WordCategory for the category of every word that
+        is both in the book and the database, returns the WordCategory with
+        lowest category for words in the database that did not appear in the
+        book.
         """
-        categories = {}
-        rates = {word: (float(count) / len(self.words)) 
-            for word, count in self.words}
+        total_words = reduce(lambda x, y: x + y, word_rates.itervalues())
+        rates = {w: (float(c) / total_words)
+            for w, c in word_rates.iteritems()}
+        for w, r in rates.iteritems():
+            print "word = %s, rate = %f" % (w, r)
         words = self.manager.session.query(Word).all()
-        low = self.manager.session.query(Category).filter(
-            Category.description=='low').one()
-
-        #sacando todas las palabras con category low
+        low = self.manager.session.query(Category)
+        low = low.filter(Category.description=='low').one()
+        low_id = low.id
         for word in words:
-            # sacar cada rate a qué categoría pertenece
-            if word.text in rates:
-                categories[word] = self.manager.session.query(WordCategory)\
-                    .filter(WordCategory.min_rate < rates[word.text])\
-                    .filter(WordCategory.max_rate >= rates[word.text])\
-                    .one()
-                word_categories = self.manager.session.query(
-                    WordCategory).filter_by(word).all()
-                for category in word_categories:
-                    if rates[word.text] > category.min_rate and \
-                    rates[word.text] < category.max_rate:
-                        categories[word] = category
-                        break
+            wc = self.manager.session.query(WordCategory)
+            wc = wc.filter(WordCategory.id_word==word.id)
+            rate = rates.get(word.text)
+            if rate:
+                wc = wc.filter(WordCategory.min_range <= rate)
+                wc = wc.filter(WordCategory.max_range > rate)
             else:
-                # Obtener todas las palabras de la BD y asignar a low
-                low_category = self.manager.session.query(
-                    WordCategory).filter(word, low).one()
-                ##id word - id cat
-                categories[word] = low_category
+                wc = wc.filter(WordCategory.id_category == low_id)
+            print " word = %s" % word.text
+            print " rate = %r" % rate
+            wc = wc.one()
+            yield wc
         
-        return categories
-        
-        #TODO No se estan eliminando las palabras que no aparecen o si?
-        
-    @staticmethod
-    def conditional_probability(word, category, period):
-        probability = self.manager.session.query(
-            WordConditionalProbability).filter(
-                word==word,
-                period==eliz_period,
-                category==category
-                ).one()
-        return probability
+    def _word_conditional_probability(self, word_id, category_id, period_id):
+        """
+        Returns an instace of WordConditionalProbability.
+        """
+        p = self.manager.session.query(WordConditionalProbability)
+        p = p.filter_by(id_word=word_id, id_category=category_id,
+            id_period=period_id)
+        p = p.one()
+        return p
     
-    def word_conditional_probabilities(self, word_cat):
+    def _word_conditional_probabilities(self, word_categories):
         """
-        get all the probabilities for every word in 
+        Receives an iterable of WordCategory objects.
+        Yields a tuples of ``(e, r)`` where ``e`` and ``r`` are the
+        probabilities that the word and category be in Elizabethan and Romantic
+        periods respectively.
         """
-        word_prob_periods = {}
-        for word, category in words_cat.iteritems():
-            elizabethan_probability = conditional_probability(
-                word, category, elizabethan_period())
-            romantic_probability = conditional_probability(
-                word, category, romantic_period())
-            word_prob_periods[word] = {
-                'category': category,
-                'elizabethan': elizabethan_probability,
-                'romantic': romantic_probability}
+        elizabethan = self.manager.elizabethan_period
+        romantic = self.manager.romantic_period
+        for wc in word_categories:
+            word_id = wc.id_word
+            category_id = wc.id_category
+            e = self._word_conditional_probability(word_id, category_id,
+                elizabethan.id).probability
+            r = self._word_conditional_probability(word_id, category_id,
+                romantic.id).probability
+            yield e, r
+
+    def _probabilities(self, conditional_probabilities):
+        """
+        Receives an iterable as returned by
+        ``_word_conditional_probabilities``.
         
-        return word_prob_periods
-    
-    @staticmethod
-    def period_book_count(period):
-        return self.manager.session.query(
-            Book).filter(period==period).count()
-        
-                
-    def probabilities(self, conditional_probabilities):
+        Returns a tuple ``(e, r)`` of the factor than this book be Elizabethan
+        or Romantic respectively.
         """
-        Receives a dictionary such that
-        {word: {'category': c, 'elizabethan': e, 'romantic': r}}.
-        
-        Returns dictionary such that
-        {'elizabethan': elizabethan_rate, 'romantic': romantic_rate}
-        """
-        elizabethan_book_count = period_book_count(self.manager.elizabethan_period)
-        romantic_book_count = period_book_count(self.manager.romantic_period)
+        # TODO the signature might be ok
+        elizabethan_book_count = self.manager.elizabethan_book_count
+        romantic_book_count = self.manager.romantic_book_count
         total_books = elizabethan_book_count + romantic_book_count
         elizabethan_probability = float(elizabethan_book_count) / total_books
         romantic_probability = float(romantic_book_count) / total_books
         elizabethan_factor = 1
-        for word, c in conditional_probabilities:
-            elizabethan_factor *= c['elizabethan'] * elizabethan_probability
         romantic_factor = 1
-        for word, c in conditional_probabilities:
-            romantic_probability *= c['romantic'] * romantic_probability
-        
-        return {'elizabethan': elizabethan_factor, 'romantic': romantic_factor}
-    
-    def run(self):
-        words_category = self.word_categories()
-        word_prob_periods = self.word_conditional_probabilities(words_category)
-        result = self.probabilities(word_prob_periods)
-        print result
-    
-    
+        for e, r in conditional_probabilities:
+            elizabethan_factor *= e * elizabethan_probability
+            romantic_factor *= r * romantic_probability
+            print "e = %f, r = %f" % elizabethan_factor, romantic_factor
+        return elizabethan_factor, romantic_factor

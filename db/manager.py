@@ -165,13 +165,29 @@ class Manager(object):
     @property
     def elizabethan_period(self):
         if not hasattr(self, "_elizabethan_period"):
-            self._elizabethan_period = self.manager.session.query(
+            self._elizabethan_period = self.session.query(
                 Period).filter(Period.name=='Elizabethan').one()
         return self._elizabethan_period
             
     @property
     def romantic_period(self):
         if not hasattr(self, "_romantic_period"):
-            self._romantic_period = self.manager.session.query(
+            self._romantic_period = self.session.query(
                 Period).filter(Period.name=='Romantic').one()
         return self._romantic_period
+
+    @property
+    def elizabethan_book_count(self):
+        if not hasattr(self, "_elizabethan_book_count"):
+            q = self.session.query(Book)
+            q = q.filter_by(id_period=self.elizabethan_period.id)
+            self._elizabethan_book_count = q.count()
+        return self._elizabethan_book_count
+
+    @property
+    def romantic_book_count(self):
+        if not hasattr(self, "_romantic_book_count"):
+            q = self.session.query(Book)
+            q = q.filter_by(id_period=self.romantic_period.id)
+            self._romantic_book_count = q.count()
+        return self._romantic_book_count
