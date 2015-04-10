@@ -2,6 +2,9 @@
 
 from flask import Blueprint, render_template, request
 
+from core.query import Query
+
+
 
 bp = Blueprint('default', __name__)
 
@@ -15,6 +18,15 @@ def index():
 @bp.route('/analyze', methods=['GET'], strict_slashes=False)
 def query():
     """Returns the query results."""
-    query = request.args.get('query', '')
-    return render_template('restult.html')
+    template_variables = {}
+    book_url = request.args.get('url', '')
+
+    # with Query(None, db_url, book_url, should_download=True) as query:
+    #     e, r = query.results()
+    #     t = query.top(500)
+
+    # template_variables['e'] = e
+    # template_variables['r'] = r
+    # template_variables['t'] = t
+    return render_template('result.html', **template_variables)
     

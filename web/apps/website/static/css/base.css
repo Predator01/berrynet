@@ -99,7 +99,7 @@ footer {
     margin-top:20px;
 }
 
-    .box > input {
+    .box input {
         width:220px; 
         padding:4px 12px 4px 32px; 
         display:inline-block;
@@ -118,11 +118,11 @@ footer {
         z-index:350;
     }
 
-    .box > input:focus {
+    .box input:focus {
         outline:none;
     }
 
-    .box > i {
+    .box i {
         padding:4px 8px; 
         font-size:14px; 
         line-height:18px; 
@@ -130,7 +130,7 @@ footer {
         z-index:351;
     }
 
-    .box > button {
+    .box button {
         background:#F85870;
         cursor:pointer;
         padding:10px 10px;
