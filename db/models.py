@@ -115,6 +115,11 @@ class WordConditionalProbability(Base):
     id_category = Column(Integer,  
         ForeignKey('category.id'),
         primary_key=True )
-    period = Column(Integer,
-        ForeignKey('period.id'))
+    id_period = Column(Integer,
+        ForeignKey('period.id'),
+        primary_key=True)
     probability = Column(FLOAT)
+    category = relationship(Category, backref=backref("wcp_category_assoc"))
+    word = relationship(Word, backref=backref("wcp_word_assoc"))
+    period = relationship(Period, backref=backref("wcp_period_assoc"))
+
