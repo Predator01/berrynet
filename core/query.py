@@ -62,6 +62,7 @@ class Query(object):
         else:
             self.filename = self.book_url
         word_rates = self.extractor.read_text(self.filename)
+        self.word_rates = word_rates
         return word_rates
         
     def _word_categories(self, word_rates):
@@ -145,3 +146,8 @@ class Query(object):
                 romantic_factor *= r * romantic_probability
             print "e = %f, r = %f" % (elizabethan_factor, romantic_factor)
         return elizabethan_factor, romantic_factor
+
+    def top(self, count):
+        ordered = sorted(self.word_rates.iteritems(), key=lambda x: -x[1])
+        return ordered[0:count]
+

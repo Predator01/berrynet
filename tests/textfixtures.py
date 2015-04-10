@@ -41,6 +41,10 @@ def distributions():
 
 def bootstrap():
     for filename, distribution in distributions():
+        try:
+            os.mkdirs(TEST_TEXT_DIR)
+        except:
+            pass
         path = os.path.join(TEST_TEXT_DIR, filename)
         f = open(path, "w")
         for letter, frequency in distribution.items():

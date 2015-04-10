@@ -54,3 +54,12 @@ class TestQuery(unittest.TestCase):
         with Query(self.text_dir, self.db_url, book_url) as query:
             e, r = query.results()
             self.assertTrue(e > r)
+
+    def test_top(self):
+        book_url = path.join(path.join(TEST_DIR, "texts"), "query-2.txt")
+        with Query(self.text_dir, self.db_url, book_url) as query:
+            t = query.top(2)
+            print " top ------ "
+            for u in t:
+                print u
+
