@@ -142,10 +142,10 @@ class Query(object):
         romantic_factor = 1
         for e, r in conditional_probabilities:
             if e != 0 and r != 0:
-                elizabethan_factor *= e * elizabethan_probability
-                romantic_factor *= r * romantic_probability
+                elizabethan_factor += e * elizabethan_probability
+                romantic_factor += r * romantic_probability
                 print "e = %f, r = %f" % (elizabethan_factor, romantic_factor)
-        return elizabethan_factor, romantic_factor, conditional_probabilities
+        return elizabethan_factor, romantic_factor
 
     def top(self, count):
         ordered = sorted(self.word_rates.iteritems(), key=lambda x: -x[1])

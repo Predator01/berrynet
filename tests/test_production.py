@@ -38,7 +38,7 @@ class TestQuery(unittest.TestCase):
         book_url = path.join(self.text_dir, "query-3.txt")
         self.assertTrue(path.isfile(book_url))
         with Query(self.text_dir, self.db_url, book_url, should_download=False) as query:
-            e, r, c = query.results()
+            e, r = query.results()
             print c
             print e, r
             self.assertTrue(e > r)
