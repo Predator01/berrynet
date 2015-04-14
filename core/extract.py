@@ -61,19 +61,17 @@ class Extractor(object):
                     words[word] = words.get(word, 0) + 1
         return words
     
-    def download_book(self, url, query=False, author="Unknown", title="Unknown", period="Unknown", files=None):
+    def download_book(self, url, query=False, author="Unknown", title="Unknown", period="Unknown"):
         """
         Downloads text from a URL. Returns the resulting filename if it was
         succesfully downloaded, otherwise returns None.
         """
-        filename = format_filename(author, title)
-        if files and not filename in files:
-            filename = DEFAULT_FILENAME if query else filename
-            filename = os.path.join(self.text_dir, filename)
-            response = urllib2.urlopen(url)
-            text = response.read()
-            if is_html(text):
-                return None
-            with open(filename, 'wb') as text_file:
-                text_file.write(text)
+        filename = DEFAULT_FILENAME if query else format_filename(author, title)
+        filename = os.path.join(self.text_dir, filename)
+        response = urllib2.urlopen(url)
+        text = response.read()
+        if is_html(text):
+            return None
+        with open(filename, 'wb') as text_file:
+            text_file.write(text)
         return filename

@@ -1,3 +1,5 @@
+# -*-coding:utf-8 -*-
+
 from sqlalchemy import Column
 from sqlalchemy import DateTime
 from sqlalchemy import String

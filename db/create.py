@@ -1,3 +1,5 @@
+# -*-coding:utf-8 -*-
+
 import os
 
 from sqlalchemy import create_engine
@@ -23,7 +25,7 @@ def db_file_path(filename):
 def set_engine(filename):
     file_path = db_file_path(filename)
     url = db_url(filename)
-    engine = create_engine(url)
+    engine = create_engine(url, encoding='utf-8')
     return engine
 
 
