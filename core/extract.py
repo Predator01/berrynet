@@ -12,7 +12,7 @@ import sqlalchemy
 import settings
 
 DEFAULT_FILENAME = 'default.txt'
-EXTRA_CHARS = '",./\'-_?¿*;:()[]{}¡!%$=0987654321“”‘’'
+EXTRA_CHARS = u'",./\'-_?¿*;:()[]{}¡!%$=0987654321“”‘’'
 INWORD_PUNCTUATION = ["--"]
 
 
@@ -24,7 +24,8 @@ def prepare_line(line):
     """
     Splits a line into several words.
     """
-    words = line.split()
+    words = unicode(line, 'utf-8')
+    words = words.split()
     words = map(lambda w: w.strip(EXTRA_CHARS), words)
     words = map(lambda w: w.lower(), words)
     for sep in INWORD_PUNCTUATION:

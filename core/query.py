@@ -2,12 +2,17 @@
 
 import os
 from os import path
+import logging
 
 from db.manager import Manager
 from extract import DEFAULT_FILENAME
 from extract import Extractor
 from db.models import *
+from sqlalchemy import or_, and_
 
+from core.util import dict_key_slice, list_slices
+
+logger = logging.getLogger(__name__)
 
 class Query(object):
 
@@ -64,6 +69,9 @@ class Query(object):
         word_rates = self.extractor.read_text(self.filename)
         self.word_rates = word_rates
         return word_rates
+
+
+
         
     def _word_categories(self, word_rates):
         """
@@ -74,28 +82,30 @@ class Query(object):
         lowest category for words in the database that did not appear in the
         book.
         """
+
         total_words = reduce(lambda x, y: x + y, word_rates.itervalues())
-        rates = {w: (float(c) / total_words)
-            for w, c in word_rates.iteritems()}
-        for w, r in rates.iteritems():
-            print "word = %s, rate = %f" % (w, r)
-        words = self.manager.session.query(Word).all()
-        low = self.manager.session.query(Category)
-        low = low.filter(Category.description=='low').one()
-        low_id = low.id
-        for word in words:
-            wc = self.manager.session.query(WordCategory)
-            wc = wc.filter(WordCategory.id_word==word.id)
-            rate = rates.get(word.text)
-            if rate:
-                wc = wc.filter(WordCategory.min_range <= rate)
-                wc = wc.filter(WordCategory.max_range > rate)
-            else:
-                wc = wc.filter(WordCategory.id_category == low_id)
-            print " word = %s" % word.text
-            print " rate = %r" % rate
-            wc = wc.one()
-            yield wc
+        rates = {w: (float(c) / total_words) for w, c in word_rates.iteritems()}
+        words_not_in_book = self.manager.session.query(Word.text).all()
+        words_not_in_book = set(words_not_in_book) - set(rates.keys())
+        words_not_in_book = list(words_not_in_book)
+
+        low = self.manager.session.query(Category).filter(Category.description=='low').one()
+        wc_q = self.manager.session.query(WordCategory)
+        for lst in dict_key_slice(rates, 900):
+            words = self.manager.session.query(Word).filter(Word.text.in_( lst )).all()
+            for word in words:    
+                rate = rates.get(word.text)
+                wc = wc_q.filter(WordCategory.id_word==word.id).\
+                        filter(WordCategory.min_range <= rate).\
+                        filter(WordCategory.max_range > rate).one()
+                yield wc
+
+        
+        for lst in list_slices(map(lambda i: i[0], words_not_in_book), 900):
+            wc = wc_q.filter(WordCategory.id_word.in_( lst )).filter(WordCategory.id_category == low.id).all()
+            for c in wc:    
+                yield c
+
         
     def _word_conditional_probability(self, word_id, category_id, period_id):
         """
@@ -116,6 +126,7 @@ class Query(object):
         """
         elizabethan = self.manager.elizabethan_period
         romantic = self.manager.romantic_period
+
         for wc in word_categories:
             word_id = wc.id_word
             category_id = wc.id_category
@@ -144,7 +155,7 @@ class Query(object):
             if e != 0 and r != 0:
                 elizabethan_factor += e * elizabethan_probability
                 romantic_factor += r * romantic_probability
-                print "e = %f, r = %f" % (elizabethan_factor, romantic_factor)
+                # logger.debug( "e = %f, r = %f" % (elizabethan_factor, romantic_factor) )
         return elizabethan_factor, romantic_factor
 
     def top(self, count):
