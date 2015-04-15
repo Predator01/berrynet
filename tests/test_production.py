@@ -49,7 +49,6 @@ class TestQuery(unittest.TestCase):
         with Query(self.text_dir, self.db_url, book_url, should_download=False) as query:
             e, r = query.results()
             print e, r
-            logger.debug(e,r)
             self.assertTrue(e > r)
 
     # def test_elizabethan_1(self):
