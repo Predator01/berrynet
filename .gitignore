@@ -2,6 +2,7 @@
 *.sqlite
 *.db
 !tests/db/*.db
+!/berrynet_trim.db
 
 #logs
 logs/
