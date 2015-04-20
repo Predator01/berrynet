@@ -1,5 +1,6 @@
 # -*-coding:utf-8 -*-
 
+import json
 import logging
 from os import path
 import unittest
@@ -22,46 +23,49 @@ from .settings import TEST_TEXT_DIR
 logger = logging.getLogger(__name__)
 
 
-class TestQuery(unittest.TestCase):
+
+db_url = path.join(BASE_DIR, "berrynet.db")
+text_dir = path.join(BASE_DIR, "tests", "texts")
+training_text_dir = path.join(BASE_DIR, "texts")
+json_path = path.join(BASE_DIR, "sources.json")
+
+
+def test_db_exists():
+    assert path.isfile(db_url), db_url
+
+
+def test_sources():
+    assert path.isfile(json_path), json_path
+
+
+def get_text_paths():
+    with open(json_path, "r") as f:
+        texts = json.load(f)
+        for text in texts:
+            author = text["Author"]
+            title = text["Title"]
+            period = text["Period"]
+            url = text["URL"]
+            filename = format_filename(author, title)
+            yield filename, period
+    
+
+def test_training_set():
     """
-    This test allows for caching the database.
+    Queries based on each of the books in the training set.
     """
+    for filename, period in get_text_paths():
+        assert period in ("Elizabethan", "Romantic")
+        yield _test_book, filename, period
 
-    def setUp(self):
-        self.db_url = path.join(BASE_DIR, "berrynet_trim.db")
-        self.text_dir = path.join(BASE_DIR, "tests", "texts")
 
-    def test_db_exists(self):
-        self.assertTrue(path.isfile(self.db_url))
-
-    # def test_simple_query(self):
-    #     book_url = path.join(self.text_dir, "query-3.txt")
-    #     self.assertTrue(path.isfile(book_url))
-    #     with Query(self.text_dir, self.db_url, book_url, should_download=False) as query:
-    #         e, r = query.results()
-    #         # print c
-    #         # print e, r
-    #         self.assertTrue(e > r)
-
-    def test_elizabethan_1(self):
-        book_url = path.join(self.text_dir, "William Shakespeare-Romeo and Juliet.txt")
-        self.assertTrue(path.isfile(book_url))
-        with Query(self.text_dir, self.db_url, book_url, should_download=False) as query:
-            e, r = query.results()
-            print e, r
-            self.assertTrue(e > r)
-
-    # def test_elizabethan_1(self):
-    #     book_url = path.join(path.join(TEST_DIR, "texts"), "query-2.txt")
-    #     with Query(self.text_dir, self.db_url, book_url) as query:
-    #         e, r = query.results()
-    #         self.assertTrue(e > r)
-
-    # def test_top(self):
-    #     book_url = path.join(path.join(TEST_DIR, "texts"), "query-2.txt")
-    #     with Query(self.text_dir, self.db_url, book_url) as query:
-    #         t = query.top(2)
-    #         print " top ------ "
-    #         for u in t:
-    #             print u
+def _test_book(filename, period):
+    filepath = path.join(training_text_dir, filename)
+    assert path.isfile(filepath), filepath
+    with Query(text_dir, db_url, filepath, should_download=False) as q:
+        e, r = q.results()
+        if period == "Elizabethan":
+            assert e > r, filename
+        else:
+            assert r > e, filename
 

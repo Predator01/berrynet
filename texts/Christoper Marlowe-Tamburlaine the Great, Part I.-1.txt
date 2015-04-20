@@ -1,0 +1,1701 @@
+Project Gutenberg's Tamburlaine the Great, Part I., by Christopher Marlowe
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Tamburlaine the Great, Part I.
+
+Author: Christopher Marlowe
+
+Posting Date: August 5, 2008 [EBook #1094]
+Release Date: November, 1997
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK TAMBURLAINE THE GREAT, PART I. ***
+
+
+
+
+Produced by Gary R. Young
+
+
+
+
+
+TAMBURLAINE THE GREAT,
+
+IN TWO PARTS.
+
+This is Part I.
+
+By Christopher Marlowe
+
+Edited By The Rev. Alexander Dyce.
+
+
+TRANSCRIBER'S COMMENTS ON THE PREPARATION OF THE E-TEXT:
+
+
+SQUARE BRACKETS:
+
+The square brackets, i.e. [ ] are copied from the printed book,
+without change, except that the stage directions usually do not
+have closing brackets.  These have been added.
+
+
+FOOTNOTES:
+
+For this E-Text version of the book, the footnotes have been
+consolidated at the end of the play.
+
+Numbering of the footnotes has been changed, and each footnote
+is given a unique identity in the form [XXX].
+
+
+CHANGES TO THE TEXT:
+
+Character names were expanded.  For Example, TAMBURLAINE was
+TAMB., ZENOCRATE was ZENO., etc.
+
+
+GREEK:
+One word, appearing in note 115, was printed in Greek Characters.
+This word has been transliterated as <<deiktikos>>.
+
+
+
+  Tamburlaine the Great.  Who, from a Scythian Shephearde
+  by his rare and woonderfull Conquests, became a most
+  puissant and mightye Monarque.  And (for his tyranny,
+  and terrour in Warre) was tearmed, The Scourge of God.
+  Deuided into two Tragicall Discourses, as they were
+  sundrie times shewed vpon Stages in the Citie of London.
+  By the right honorable the Lord Admyrall, his seruauntes.
+  Now first, and newlie published.  London.  Printed by
+  Richard Ihones:  at the signe of the Rose and Crowne
+  neere Holborne Bridge.  1590.  4to.
+
+The above title-page is pasted into a copy of the FIRST PART OF
+TAMBURLAINE in the Library at Bridge-water House; which copy,
+excepting that title-page and the Address to the Readers, is the
+impression of 1605.  I once supposed that the title-pages which
+bear the dates 1605 and 1606 (see below) had been added to the
+4tos of the TWO PARTS of the play originally printed in 1590;
+but I am now convinced that both PARTS were really reprinted,
+THE FIRST PART in 1605, and THE SECOND PART in 1606, and that
+nothing remains of the earlier 4tos, except the title-page and
+the Address to the Readers, which are preserved in the Bridge-
+water collection.
+
+In the Bodleian Library, Oxford, is an 8vo edition of both PARTS
+OF TAMBURLAINE, dated 1590:  the title-page of THE FIRST PART
+agrees verbatim with that given above; the half-title-page of
+THE SECOND PART is as follows;
+
+  The Second Part of The bloody Conquests of mighty
+  Tamburlaine.  With his impassionate fury, for the death
+  of his Lady and loue faire Zenocrate; his fourme of
+  exhortacion and discipline to his three sons, and the
+  maner of his own death.
+
+In the Garrick Collection, British Museum, is an 8vo edition of
+both PARTS dated 1592:  the title-page of THE FIRST PART runs
+thus;
+
+  Tamburlaine the Great.  Who, from a Scythian Shepheard,
+  by his rare and wonderfull Conquestes, became a most
+  puissant and mightie Mornarch [sic]:  And (for his
+  tyrannie, and terrour in warre) was tearmed, The Scourge
+  of God.  The first part of the two Tragicall discourses,
+  as they were sundrie times most stately shewed vpon
+  Stages in the Citie of London.  By the right honorable
+  the Lord Admirall, his seruauntes.  Now newly published.
+  Printed by Richard Iones, dwelling at the signe of the
+  Rose and Crowne neere Holborne Bridge.
+
+The half-title-page of THE SECOND PART agrees exactly with that
+already given.  Perhaps the 8vo at Oxford and that in the British
+Museum (for I have not had an opportunity of comparing them) are
+the same impression, differing only in the title-pages.
+
+Langbaine (ACCOUNT OF ENGL. DRAM. POETS, p. 344) mentions an 8vo
+dated 1593.
+
+The title-pages of the latest impressions of THE TWO PARTS are
+as follows;
+
+  Tamburlaine the Greate.  Who, from the state of a
+  Shepheard in Scythia, by his rare and wonderfull
+  Conquests, became a most puissant and mighty Monarque.
+  London Printed for Edward White, and are to be solde
+  at the little North doore of Saint Paules-Church, at
+  the signe of the Gunne, 1605.  4to.
+
+  Tamburlaine the Greate.  With his impassionate furie,
+  for the death of his Lady and Loue fair Zenocrate:  his
+  forme of exhortation and discipline to his three Sonnes,
+  and the manner of his owne death.  The second part.
+  London Printed by E. A. for Ed. White, and are to be
+  solde at his Shop neere the little North doore of Saint
+  Paules Church at the Signe of the Gun.  1606.  4to.
+
+The text of the present edition is given from the 8vo of 1592,
+collated with the 4tos of 1605-6.
+
+
+
+
+TO THE GENTLEMEN-READERS [1] AND OTHERS THAT TAKE PLEASURE
+IN READING HISTORIES. [2]
+
+Gentlemen and courteous readers whosoever:  I have here published
+in print, for your sakes, the two tragical discourses of the
+Scythian shepherd Tamburlaine, that became so great a conqueror
+and so mighty a monarch.  My hope is, that they will be now no
+less acceptable unto you to read after your serious affairs and
+studies than they have been lately delightful for many of you to
+see when the same were shewed in London upon stages.  I have
+purposely omitted and left out some fond [3] and frivolous
+gestures,
+digressing, and, in my poor opinion, far unmeet for the matter,
+which I thought might seem more tedious unto the wise than any
+way else to be regarded, though haply they have been of some
+vain-conceited fondlings greatly gaped at, what time they were
+shewed upon the stage in their graced deformities:  nevertheless
+now to be mixtured in print with such matter of worth, it would
+prove a great disgrace to so honourable and stately a history.
+Great folly were it in me to commend unto your wisdoms either the
+eloquence of the author that writ them or the worthiness of the
+matter itself.  I therefore leave unto your learned censures [4]
+both the one and the other, and myself the poor printer of them
+unto your most courteous and favourable protection; which if you
+vouchsafe to accept, you shall evermore bind me to employ what
+travail and service I can to the advancing and pleasuring of your
+excellent degree.
+     Yours, most humble at commandment,
+          R[ichard] J[ones], printer.
+
+
+
+THE FIRST PART OF TAMBURLAINE THE GREAT.
+
+
+
+
+THE PROLOGUE.
+
+      From jigging veins of rhyming mother-wits,
+      And such conceits as clownage keeps in pay,
+      We'll lead you to the stately tent of war,
+      Where you shall hear the Scythian Tamburlaine
+      Threatening the world with high astounding terms,
+      And scourging kingdoms with his conquering sword.
+      View but his picture in this tragic glass,
+      And then applaud his fortunes as you please.
+
+
+
+
+DRAMATIS PERSONAE.
+
+     MYCETES, king of Persia.
+     COSROE, his brother.
+     MEANDER,     ]
+     THERIDAMAS,  ]
+     ORTYGIUS,    ] Persian lords.
+     CENEUS,      ]
+     MENAPHON,    ]
+     TAMBURLAINE, a Scythian shepherd.
+     TECHELLES,   ]
+     USUMCASANE,  ] his followers.
+     BAJAZETH, emperor of the Turks.
+     KING OF FEZ.
+     KING OF MOROCCO.
+     KING OF ARGIER.
+     KING OF ARABIA.
+     SOLDAN OF EGYPT.
+     GOVERNOR OF DAMASCUS.
+     AGYDAS,      ]
+     MAGNETES,    ] Median lords.
+     CAPOLIN, an Egyptian.
+     PHILEMUS, Bassoes, Lords, Citizens, Moors, Soldiers, and
+     Attendants.
+
+     ZENOCRATE, daughter to the Soldan of Egypt.
+     ANIPPE, her maid.
+     ZABINA, wife to BAJAZETH.
+     EBEA, her maid.
+     Virgins of Damascus.
+
+
+
+
+THE FIRST PART OF TAMBURLAINE THE GREAT.
+
+
+
+
+ACT I.
+
+
+
+
+SCENE I.
+
+          Enter MYCETES, COSROE, MEANDER, THERIDAMAS, ORTYGIUS,
+          CENEUS, MENAPHON, with others.
+
+     MYCETES. Brother Cosroe, I find myself agriev'd;
+     Yet insufficient to express the same,
+     For it requires a great and thundering speech:
+     Good brother, tell the cause unto my lords;
+     I know you have a better wit than I.
+
+     COSROE. Unhappy Persia,--that in former age
+     Hast been the seat of mighty conquerors,
+     That, in their prowess and their policies,
+     Have triumph'd over Afric, [5] and the bounds
+     Of Europe where the sun dares scarce appear
+     For freezing meteors and congealed cold,--
+     Now to be rul'd and govern'd by a man
+     At whose birth-day Cynthia with Saturn join'd,
+     And Jove, the Sun, and Mercury denied
+     To shed their [6] influence in his fickle brain!
+     Now Turks and Tartars shake their swords at thee,
+     Meaning to mangle all thy provinces.
+
+     MYCETES. Brother, I see your meaning well enough,
+     And through [7] your planets I perceive you think
+     I am not wise enough to be a king:
+     But I refer me to my noblemen,
+     That know my wit, and can be witnesses.
+     I might command you to be slain for this,--
+     Meander, might I not?
+
+     MEANDER. Not for so small a fault, my sovereign lord.
+
+     MYCETES. I mean it not, but yet I know I might.--
+     Yet live; yea, live; Mycetes wills it so.--
+     Meander, thou, my faithful counsellor,
+     Declare the cause of my conceived grief,
+     Which is, God knows, about that Tamburlaine,
+     That, like a fox in midst of harvest-time,
+     Doth prey upon my flocks of passengers;
+     And, as I hear, doth mean to pull my plumes:
+     Therefore 'tis good and meet for to be wise.
+
+     MEANDER. Oft have I heard your majesty complain
+     Of Tamburlaine, that sturdy Scythian thief,
+     That robs your merchants of Persepolis
+     Trading by land unto the Western Isles,
+     And in your confines with his lawless train
+     Daily commits incivil [8] outrages,
+     Hoping (misled by dreaming prophecies)
+     To reign in Asia, and with barbarous arms
+     To make himself the monarch of the East:
+     But, ere he march in Asia, or display
+     His vagrant ensign in the Persian fields,
+     Your grace hath taken order by Theridamas,
+     Charg'd with a thousand horse, to apprehend
+     And bring him captive to your highness' throne.
+
+     MYCETES. Full true thou speak'st, and like thyself, my lord,
+     Whom I may term a Damon for thy love:
+     Therefore 'tis best, if so it like you all,
+     To send my thousand horse incontinent [9]
+     To apprehend that paltry Scythian.
+     How like you this, my honourable lords?
+     Is it not a kingly resolution?
+
+     COSROE. It cannot choose, because it comes from you.
+
+     MYCETES. Then hear thy charge, valiant Theridamas,
+     The chiefest [10] captain of Mycetes' host,
+     The hope of Persia, and the very legs
+     Whereon our state doth lean as on a staff,
+     That holds us up and foils our neighbour foes:
+     Thou shalt be leader of this thousand horse,
+     Whose foaming gall with rage and high disdain
+     Have sworn the death of wicked Tamburlaine.
+     Go frowning forth; but come thou smiling home,
+     As did Sir Paris with the Grecian dame:
+     Return with speed; time passeth swift away;
+     Our life is frail, and we may die to-day.
+
+     THERIDAMAS. Before the moon renew her borrow'd light,
+     Doubt not, my lord and gracious sovereign,
+     But Tamburlaine and that Tartarian rout [11]
+     Shall either perish by our warlike hands,
+     Or plead for mercy at your highness' feet.
+
+     MYCETES. Go, stout Theridamas; thy words are swords,
+     And with thy looks thou conquerest all thy foes.
+     I long to see thee back return from thence,
+     That I may view these milk-white steeds of mine
+     All loaden with the heads of killed men,
+     And, from their knees even to their hoofs below,
+     Besmear'd with blood that makes a dainty show.
+
+     THERIDAMAS. Then now, my lord, I humbly take my leave.
+
+     MYCETES. Theridamas, farewell ten thousand times.
+
+          [Exit THERIDAMAS.]
+
+     Ah, Menaphon, why stay'st thou thus behind,
+     When other men press [12] forward for renown?
+     Go, Menaphon, go into Scythia,
+     And foot by foot follow Theridamas.
+
+     COSROE. Nay, pray you, [13] let him stay; a greater [task]
+     Fits Menaphon than warring with a thief:
+     Create him pro-rex of all [14] Africa,
+     That he may win the Babylonians' hearts,
+     Which will revolt from Persian government,
+     Unless they have a wiser king than you.
+
+     MYCETES. Unless they have a wiser king than you!
+     These are his words; Meander, set them down.
+
+     COSROE. And add this to them,--that all Asia
+     Lament to see the folly of their king.
+
+     MYCETES. Well, here I swear by this my royal seat--
+
+     COSROE. You may do well to kiss it, then.
+
+     MYCETES. Emboss'd with silk as best beseems my state,
+     To be reveng'd for these contemptuous words!
+     O, where is duty and allegiance now?
+     Fled to the Caspian or the Ocean main?
+     What shall I call thee? brother? no, a foe;
+     Monster of nature, shame unto thy stock,
+     That dar'st presume thy sovereign for to mock!--
+     Meander, come:  I am abus'd, Meander.
+
+          [Exeunt all except COSROE and MENAPHON.]
+
+     MENAPHON. How now, my lord! what, mated [15] and amaz'd
+     To hear the king thus threaten like himself!
+
+     COSROE. Ah, Menaphon, I pass not [16] for his threats!
+     The plot is laid by Persian noblemen
+     And captains of the Median garrisons
+     To crown me emperor of Asia:
+     But this it is that doth excruciate
+     The very substance of my vexed soul,
+     To see our neighbours, that were wont to quake
+     And tremble at the Persian monarch's name,
+     Now sit and laugh our regiment [17] to scorn;
+     And that which might resolve [18] me into tears,
+     Men from the farthest equinoctial line
+     Have swarm'd in troops into the Eastern India,
+     Lading their ships [19] with gold and precious stones,
+     And made their spoils from all our provinces.
+
+     MENAPHON. This should entreat your highness to rejoice,
+     Since Fortune gives you opportunity
+     To gain the title of a conqueror
+     By curing of this maimed empery.
+     Afric and Europe bordering on your land,
+     And continent to your dominions,
+     How easily may you, with a mighty host,
+     Pass [20] into Graecia, as did Cyrus once,
+     And cause them to withdraw their forces home,
+     Lest you [21] subdue the pride of Christendom!
+
+          [Trumpet within.]
+
+     COSROE. But, Menaphon, what means this trumpet's sound?
+
+     MENAPHON. Behold, my lord, Ortygius and the rest
+     Bringing the crown to make you emperor!
+
+          Re-enter ORTYGIUS and CENEUS, [22] with others, bearing a
+          crown.
+
+     ORTYGIUS. Magnificent and mighty prince Cosroe,
+     We, in the name of other Persian states [23]
+     And commons of this mighty monarchy,
+     Present thee with th' imperial diadem.
+
+     CENEUS. The warlike soldiers and the gentlemen,
+     That heretofore have fill'd Persepolis
+     With Afric captains taken in the field,
+     Whose ransom made them march in coats of gold,
+     With costly jewels hanging at their ears,
+     And shining stones upon their lofty crests,
+     Now living idle in the walled towns,
+     Wanting both pay and martial discipline,
+     Begin in troops to threaten civil war,
+     And openly exclaim against their [24] king:
+     Therefore, to stay all sudden mutinies,
+     We will invest your highness emperor;
+     Whereat the soldiers will conceive more joy
+     Than did the Macedonians at the spoil
+     Of great Darius and his wealthy host.
+
+     COSROE. Well, since I see the state of Persia droop
+     And languish in my brother's government,
+     I willingly receive th' imperial crown,
+     And vow to wear it for my country's good,
+     In spite of them shall malice my estate.
+
+     ORTYGIUS. And, in assurance of desir'd success,
+     We here do crown thee monarch of the East [;]
+     Emperor of Asia and Persia; [25]
+     Great lord of Media and Armenia;
+     Duke of Africa and Albania,
+     Mesopotamia and of Parthia,
+     East India and the late-discover'd isles;
+     Chief lord of all the wide vast Euxine Sea,
+     And of the ever-raging [26] Caspian Lake.
+
+     ALL. [27] Long live Cosroe, mighty emperor!
+
+     COSROE. And Jove may [28] never let me longer live
+     Than I may seek to gratify your love,
+     And cause the soldiers that thus honour me
+     To triumph over many provinces!
+     By whose desires of discipline in arms
+     I doubt not shortly but to reign sole king,
+     And with the army of Theridamas
+     (Whither we presently will fly, my lords,)
+     To rest secure against my brother's force.
+
+     ORTYGIUS. We knew, [29] my lord, before we brought the crown,
+     Intending your investion so near
+     The residence of your despised brother,
+     The lords [30] would not be too exasperate
+     To injury [31] or suppress your worthy title;
+     Or, if they would, there are in readiness
+     Ten thousand horse to carry you from hence,
+     In spite of all suspected enemies.
+
+     COSROE. I know it well, my lord, and thank you all.
+
+     ORTYGIUS. Sound up the trumpets, then.
+
+          [Trumpets sounded.]
+
+     ALL. [32] God save the king!
+
+          [Exeunt.]
+
+
+
+
+SCENE II.
+
+          Enter TAMBURLAINE leading ZENOCRATE, TECHELLES, USUMCASANE,
+          AGYDAS, MAGNETES, LORDS, and SOLDIERS loaden with treasure.
+
+     TAMBURLAINE. Come, lady, let not this appal your thoughts;
+     The jewels and the treasure we have ta'en
+     Shall be reserv'd, and you in better state
+     Than if you were arriv'd in Syria,
+     Even in the circle of your father's arms,
+     The mighty Soldan of Aegyptia.
+
+     ZENOCRATE. Ah, shepherd, pity my distressed plight!
+     (If, as thou seem'st, thou art so mean a man,)
+     And seek not to enrich thy followers
+     By lawless rapine from a silly maid,
+     Who, travelling [33] with these Median lords
+     To Memphis, from my uncle's country of Media,
+     Where, all my youth, I have been governed,
+     Have pass'd the army of the mighty Turk,
+     Bearing his privy-signet and his hand
+     To safe-conduct us thorough [34] Africa.
+
+     MAGNETES. And, since we have arriv'd in Scythia,
+     Besides rich presents from the puissant Cham,
+     We have his highness' letters to command
+     Aid and assistance, if we stand in need.
+
+     TAMBURLAINE. But now you see these letters and commands
+     Are countermanded by a greater man;
+     And through my provinces you must expect
+     Letters of conduct from my mightiness,
+     If you intend to keep your treasure safe.
+     But, since I love to live at liberty,
+     As easily may you get the Soldan's crown
+     As any prizes out of my precinct;
+     For they are friends that help to wean my state
+     Till men and kingdoms help to strengthen it,
+     And must maintain my life exempt from servitude.--
+     But, tell me, madam, is your grace betroth'd?
+
+     ZENOCRATE. I am, my lord,--for so you do import.
+
+     TAMBURLAINE. I am a lord, for so my deeds shall prove;
+     And yet a shepherd by my parentage.
+     But, lady, this fair face and heavenly hue
+     Must grace his bed that conquers Asia,
+     And means to be a terror to the world,
+     Measuring the limits of his empery
+     By east and west, as Phoebus doth his course.--
+     Lie here, ye weeds, that I disdain to wear!
+     This complete armour and this curtle-axe
+     Are adjuncts more beseeming Tamburlaine.--
+     And, madam, whatsoever you esteem
+     Of this success, and loss unvalued, [35]
+     Both may invest you empress of the East;
+     And these that seem but silly country swains
+     May have the leading of so great an host
+     As with their weight shall make the mountains quake,
+     Even as when windy exhalations,
+     Fighting for passage, tilt within the earth.
+
+     TECHELLES. As princely lions, when they rouse themselves,
+     Stretching their paws, and threatening herds of beasts,
+     So in his armour looketh Tamburlaine.
+     Methinks I see kings kneeling at his feet,
+     And he with frowning brows and fiery looks
+     Spurning their crowns from off their captive heads.
+
+     USUMCASANE. And making thee and me, Techelles, kings,
+     That even to death will follow Tamburlaine.
+
+     TAMBURLAINE. Nobly resolv'd, sweet friends and followers!
+     These lords perhaps do scorn our estimates,
+     And think we prattle with distemper'd spirits:
+     But, since they measure our deserts so mean,
+     That in conceit [36] bear empires on our spears,
+     Affecting thoughts coequal with the clouds,
+     They shall be kept our forced followers
+     Till with their eyes they view us emperors.
+
+     ZENOCRATE. The gods, defenders of the innocent.
+     Will never prosper your intended drifts,
+     That thus oppress poor friendless passengers.
+     Therefore at least admit us liberty,
+     Even as thou hop'st to be eternized
+     By living Asia's mighty emperor.
+
+     AGYDAS. I hope our lady's treasure and our own
+     May serve for ransom to our liberties:
+     Return our mules and empty camels back,
+     That we may travel into Syria,
+     Where her betrothed lord, Alcidamus,
+     Expects the arrival of her highness' person.
+
+     MAGNETES. And wheresoever we repose ourselves,
+     We will report but well of Tamburlaine.
+
+     TAMBURLAINE. Disdains Zenocrate to live with me?
+     Or you, my lords, to be my followers?
+     Think you I weigh this treasure more than you?
+     Not all the gold in India's wealthy arms
+     Shall buy the meanest soldier in my train.
+     Zenocrate, lovelier than the love of Jove,
+     Brighter than is the silver Rhodope, [37]
+     Fairer than whitest snow on Scythian hills,
+     Thy person is more worth to Tamburlaine
+     Than the possession of the Persian crown,
+     Which gracious stars have promis'd at my birth.
+     A hundred Tartars shall attend on thee,
+     Mounted on steeds swifter than Pegasus;
+     Thy garments shall be made of Median silk,
+     Enchas'd with precious jewels of mine own,
+     More rich and valurous [38] than Zenocrate's;
+     With milk-white harts upon an ivory sled
+     Thou shalt be drawn amidst the frozen pools, [39]
+     And scale the icy mountains' lofty tops,
+     Which with thy beauty will be soon resolv'd: [40]
+     My martial prizes, with five hundred men,
+     Won on the fifty-headed Volga's waves,
+     Shall we all offer [41] to Zenocrate,
+     And then myself to fair Zenocrate.
+
+     TECHELLES. What now! in love?
+
+     TAMBURLAINE. Techelles, women must be flattered:
+     But this is she with whom I am in [42] love.
+
+          Enter a SOLDIER.
+
+     SOLDIER. News, news!
+
+     TAMBURLAINE. How now! what's the matter?
+
+     SOLDIER. A thousand Persian horsemen are at hand,
+     Sent from the king to overcome us all.
+
+     TAMBURLAINE. How now, my lords of Egypt, and Zenocrate!
+     Now must your jewels be restor'd again,
+     And I, that triumph'd [43] so, be overcome?
+     How say you, lordings? is not this your hope?
+
+     AGYDAS. We hope yourself will willingly restore them.
+
+     TAMBURLAINE. Such hope, such fortune, have the thousand horse.
+     Soft ye, my lords, and sweet Zenocrate!
+     You must be forced from me ere you go.--
+     A thousand horsemen! we five hundred foot!
+     An odds too great for us to stand against.
+     But are they rich? and is their armour good!
+
+     SOLDIER. Their plumed helms are wrought with beaten gold,
+     Their swords enamell'd, and about their necks
+     Hang massy chains of gold down to the waist;
+     In every part exceeding brave [44] and rich.
+
+     TAMBURLAINE. Then shall we fight courageously with them?
+     Or look you I should play the orator?
+
+     TECHELLES. No; cowards and faint-hearted runaways
+     Look for orations when the foe is near:
+     Our swords shall play the orators for us.
+
+     USUMCASANE. Come, let us meet them at the mountain-top, [45]
+     And with a sudden and an hot alarum
+     Drive all their horses headlong down the hill.
+
+     TECHELLES. Come, let us march.
+
+     TAMBURLAINE. Stay, Techelles; ask a parle first.
+
+          The SOLDIERS enter.
+
+     Open the mails, [46] yet guard the treasure sure:
+     Lay out our golden wedges to the view,
+     That their reflections may amaze the Persians;
+     And look we friendly on them when they come:
+     But, if they offer word or violence,
+     We'll fight, five hundred men-at-arms to one,
+     Before we part with our possession;
+     And 'gainst the general we will lift our swords,
+     And either lance [47] his greedy thirsting throat,
+     Or take him prisoner, and his chain shall serve
+     For manacles till he be ransom'd home.
+
+     TECHELLES. I hear them come:  shall we encounter them?
+
+     TAMBURLAINE. Keep all your standings, and not stir a foot:
+     Myself will bide the danger of the brunt.
+
+          Enter THERIDAMAS with others.
+
+     THERIDAMAS. Where is this [48] Scythian Tamburlaine?
+
+     TAMBURLAINE. Whom seek'st thou, Persian?  I am Tamburlaine.
+
+     THERIDAMAS. Tamburlaine!
+     A Scythian shepherd so embellished
+     With nature's pride and richest furniture!
+     His looks do menace heaven and dare the gods;
+     His fiery eyes are fix'd upon the earth,
+     As if he now devis'd some stratagem,
+     Or meant to pierce Avernus' darksome vaults [49]
+     To pull the triple-headed dog from hell.
+
+     TAMBURLAINE. Noble and mild this Persian seems to be,
+     If outward habit judge the inward man.
+
+     TECHELLES. His deep affections make him passionate.
+
+     TAMBURLAINE. With what a majesty he rears his looks!--
+     In thee, thou valiant man of Persia,
+     I see the folly of thy [50] emperor.
+     Art thou but captain of a thousand horse,
+     That by characters graven in thy brows,
+     And by thy martial face and stout aspect,
+     Deserv'st to have the leading of an host?
+     Forsake thy king, and do but join with me,
+     And we will triumph over all the world:
+     I hold the Fates bound fast in iron chains,
+     And with my hand turn Fortune's wheel about;
+     And sooner shall the sun fall from his sphere
+     Than Tamburlaine be slain or overcome.
+     Draw forth thy sword, thou mighty man-at-arms,
+     Intending but to raze my charmed skin,
+     And Jove himself will stretch his hand from heaven
+     To ward the blow, and shield me safe from harm.
+     See, how he rains down heaps of gold in showers,
+     As if he meant to give my soldiers pay!
+     And, as a sure and grounded argument
+     That I shall be the monarch of the East,
+     He sends this Soldan's daughter rich and brave, [51]
+     To be my queen and portly emperess.
+     If thou wilt stay with me, renowmed [52] man,
+     And lead thy thousand horse with my conduct,
+     Besides thy share of this Egyptian prize,
+     Those thousand horse shall sweat with martial spoil
+     Of conquer'd kingdoms and of cities sack'd:
+     Both we will walk upon the lofty cliffs; [53]
+     And Christian merchants, [54] that with Russian stems [55]
+     Plough up huge furrows in the Caspian Sea,
+     Shall vail [56] to us as lords of all the lake;
+     Both we will reign as consuls of the earth,
+     And mighty kings shall be our senators.
+     Jove sometime masked in a shepherd's weed;
+     And by those steps that he hath scal'd the heavens
+     May we become immortal like the gods.
+     Join with me now in this my mean estate,
+     (I call it mean, because, being yet obscure,
+     The nations far-remov'd admire me not,)
+     And when my name and honour shall be spread
+     As far as Boreas claps his brazen wings,
+     Or fair Bootes [57] sends his cheerful light,
+     Then shalt thou be competitor [58] with me,
+     And sit with Tamburlaine in all his majesty.
+
+     THERIDAMAS. Not Hermes, prolocutor to the gods,
+     Could use persuasions more pathetical.
+
+     TAMBURLAINE. Nor are Apollo's oracles more true
+     Than thou shalt find my vaunts substantial.
+
+     TECHELLES. We are his friends; and, if the Persian king
+     Should offer present dukedoms to our state,
+     We think it loss to make exchange for that
+     We are assur'd of by our friend's success.
+
+     USUMCASANE. And kingdoms at the least we all expect,
+     Besides the honour in assured conquests,
+     Where kings shall crouch unto our conquering swords,
+     And hosts of soldiers stand amaz'd at us,
+     When with their fearful tongues they shall confess,
+     These are the men that all the world admires.
+
+     THERIDAMAS. What strong enchantments tice my yielding soul
+     To these [59] resolved, noble Scythians!
+     But shall I prove a traitor to my king?
+
+     TAMBURLAINE. No; but the trusty friend of Tamburlaine.
+
+     THERIDAMAS. Won with thy words, and conquer'd with thy looks,
+     I yield myself, my men, and horse to thee,
+     To be partaker of thy good or ill,
+     As long as life maintains Theridamas.
+
+     TAMBURLAINE. Theridamas, my friend, take here my hand,
+     Which is as much as if I swore by heaven,
+     And call'd the gods to witness of my vow.
+     Thus shall my heart be still combin'd with thine
+     Until our bodies turn to elements,
+     And both our souls aspire celestial thrones.--
+     Techelles and Casane, welcome him.
+
+     TECHELLES. Welcome, renowmed [60] Persian, to us all!
+
+     USUMCASANE. Long may Theridamas remain with us!
+
+     TAMBURLAINE. These are my friends, in whom I more rejoice
+     Than doth the king of Persia in his crown;
+     And, by the love of Pylades and Orestes,
+     Whose statues [61] we adore in Scythia,
+     Thyself and them shall never part from me
+     Before I crown you kings [62] in Asia.
+     Make much of them, gentle Theridamas,
+     And they will never leave thee till the death.
+
+     THERIDAMAS. Nor thee nor them, [63] thrice-noble Tamburlaine,
+     Shall want my heart to be with gladness pierc'd,
+     To do you honour and security.
+
+     TAMBURLAINE. A thousand thanks, worthy Theridamas.--
+     And now, fair madam, and my noble lords,
+     If you will [64] willingly remain with me,
+     You shall have honours as your merits be;
+     Or else you shall be forc'd with slavery.
+
+     AGYDAS. We yield unto thee, happy Tamburlaine.
+
+     TAMBURLAINE. For you, then, madam, I am out of doubt.
+
+     ZENOCRATE. I must be pleas'd perforce,--wretched Zenocrate!
+
+          [Exeunt.]
+
+
+
+
+ACT II.
+
+
+
+
+SCENE I.
+
+          Enter COSROE, MENAPHON, ORTYGIUS, and CENEUS, with SOLDIERS.
+
+     COSROE. Thus far are we towards Theridamas,
+     And valiant Tamburlaine, the man of fame,
+     The man that in the forehead of his fortune
+     Bears figures of renown and miracle.
+     But tell me, that hast seen him, Menaphon,
+     What stature wields he, and what personage?
+
+     MENAPHON. Of stature tall, and straightly fashioned,
+     Like his desire, lift upwards and divine;
+     So large of limbs, his joints so strongly knit,
+     Such breadth of shoulders as might mainly bear
+     Old Atlas' burden; 'twixt his manly pitch, [65]
+     A pearl more worth than all the world is plac'd,
+     Wherein by curious sovereignty of art
+     Are fix'd his piercing instruments of sight,
+     Whose fiery circles bear encompassed
+     A heaven of heavenly bodies in their spheres,
+     That guides his steps and actions to the throne
+     Where honour sits invested royally;
+     Pale of complexion, wrought in him with passion,
+     Thirsting with sovereignty and [66] love of arms;
+     His lofty brows in folds do figure death,
+     And in their smoothness amity and life;
+     About them hangs a knot of amber hair,
+     Wrapped in curls, as fierce Achilles' was,
+     On which the breath of heaven delights to play,
+     Making it dance with wanton majesty;
+     His arms and fingers long and sinewy, [67]
+     Betokening valour and excess of strength;--
+     In every part proportion'd like the man
+     Should make the world subdu'd [68] to Tamburlaine.
+
+     COSROE. Well hast thou pourtray'd in thy terms of life
+     The face and personage of a wondrous man:
+     Nature doth strive with Fortune [69] and his stars
+     To make him famous in accomplish'd worth;
+     And well his merits shew him to be made
+     His fortune's master and the king of men,
+     That could persuade, at such a sudden pinch,
+     With reasons of his valour and his life,
+     A thousand sworn and overmatching foes.
+     Then, when our powers in points of swords are join'd,
+     And clos'd in compass of the killing bullet,
+     Though strait the passage and the port [70] be made
+     That leads to palace of my brother's life,
+     Proud is [71] his fortune if we pierce it not;
+     And, when the princely Persian diadem
+     Shall overweigh his weary witless head,
+     And fall, like mellow'd fruit, with shakes of death,
+     In fair [72] Persia noble Tamburlaine
+     Shall be my regent, and remain as king.
+
+     ORTYGIUS. In happy hour we have set the crown
+     Upon your kingly head, that seeks our honour
+     In joining with the man ordain'd by heaven
+     To further every action to the best.
+
+     CENEUS. He that with shepherds and a little spoil
+     Durst, in disdain of wrong and tyranny,
+     Defend his freedom 'gainst a monarchy,
+     What will he do supported by a king,
+     Leading a troop of gentlemen and lords,
+     And stuff'd with treasure for his highest thoughts!
+
+     COSROE. And such shall wait on worthy Tamburlaine.
+     Our army will be forty thousand strong,
+     When Tamburlaine and brave Theridamas
+     Have met us by the river Araris;
+     And all conjoin'd to meet the witless king,
+     That now is marching near to Parthia,
+     And, with unwilling soldiers faintly arm'd,
+     To seek revenge on me and Tamburlaine;
+     To whom, sweet Menaphon, direct me straight.
+
+     MENAPHON. I will, my lord.
+
+          [Exeunt.]
+
+
+
+
+SCENE II.
+
+          Enter MYCETES, MEANDER, with other LORDS; and SOLDIERS.
+
+     MYCETES. Come, my Meander, let us to this gear.
+     I tell you true, my heart is swoln with wrath
+     On this same thievish villain Tamburlaine,
+     And of [73] that false Cosroe, my traitorous brother.
+     Would it not grieve a king to be so abus'd,
+     And have a thousand horsemen ta'en away?
+     And, which is worse, [74] to have his diadem
+     Sought for by such scald knaves as love him not?
+     I think it would:  well, then, by heavens I swear,
+     Aurora shall not peep out of her doors,
+     But I will have Cosroe by the head,
+     And kill proud Tamburlaine with point of sword.
+     Tell you the rest, Meander:  I have said.
+
+     MEANDER. Then, having pass'd Armenian deserts now,
+     And pitch'd our tents under the Georgian hills,
+     Whose tops are cover'd with Tartarian thieves,
+     That lie in ambush, waiting for a prey,
+     What should we do but bid them battle straight,
+     And rid the world of those detested troops?
+     Lest, if we let them linger here a while,
+     They gather strength by power of fresh supplies.
+     This country swarms with vile outragious men
+     That live by rapine and by lawless spoil,
+     Fit soldiers for the [75] wicked Tamburlaine;
+     And he that could with gifts and promises
+     Inveigle him that led a thousand horse,
+     And make him false his faith unto his [76] king,
+     Will quickly win such as be [77] like himself.
+     Therefore cheer up your minds; prepare to fight:
+     He that can take or slaughter Tamburlaine,
+     Shall rule the province of Albania;
+     Who brings that traitor's head, Theridamas,
+     Shall have a government in Media,
+     Beside [78] the spoil of him and all his train:
+     But, if Cosroe (as our spials say,
+     And as we know) remains with Tamburlaine,
+     His highness' pleasure is that he should live,
+     And be reclaim'd with princely lenity.
+
+          Enter a SPY.
+
+     SPY. An hundred horsemen of my company,
+     Scouting abroad upon these champion [79] plains,
+     Have view'd the army of the Scythians;
+     Which make report it far exceeds the king's.
+
+     MEANDER. Suppose they be in number infinite,
+     Yet being void of martial discipline,
+     All running headlong, greedy after [80] spoils,
+     And more regarding gain than victory,
+     Like to the cruel brothers of the earth,
+     Sprung [81] of the teeth of [82] dragons venomous,
+     Their careless swords shall lance [83] their fellows' throats,
+     And make us triumph in their overthrow.
+
+     MYCETES. Was there such brethren, sweet Meander, say,
+     That sprung of teeth of dragons venomous?
+
+     MEANDER. So poets say, my lord.
+
+     MYCETES. And 'tis a pretty toy to be a poet.
+     Well, well, Meander, thou art deeply read;
+     And having thee, I have a jewel sure.
+     Go on, my lord, and give your charge, I say;
+     Thy wit will make us conquerors to-day.
+
+     MEANDER. Then, noble soldiers, to entrap these thieves
+     That live confounded in disorder'd troops,
+     If wealth or riches may prevail with them,
+     We have our camels laden all with gold,
+     Which you that be but common soldiers
+     Shall fling in every corner of the field;
+     And, while the base-born Tartars take it up,
+     You, fighting more for honour than for gold,
+     Shall massacre those greedy-minded slaves;
+     And, when their scatter'd army is subdu'd,
+     And you march on their slaughter'd carcasses,
+     Share equally the gold that bought their lives,
+     And live like gentlemen in Persia.
+     Strike up the [84] drum, and march courageously:
+     Fortune herself doth sit upon our crests.
+
+     MYCETES. He tells you true, my masters; so he does.--
+     Drums, why sound ye not when Meander speaks?
+
+          [Exeunt, drums sounding.]
+
+
+
+
+SCENE III.
+
+          Enter COSROE, TAMBURLAINE, THERIDAMAS, TECHELLES,
+     USUMCASANE,
+          and ORTYGIUS, with others.
+
+     COSROE. Now, worthy Tamburlaine, have I repos'd
+     In thy approved fortunes all my hope.
+     What think'st thou, man, shall come of our attempts?
+     For, even as from assured oracle,
+     I take thy doom for satisfaction.
+
+     TAMBURLAINE. And so mistake you not a whit, my lord;
+     For fates and oracles [of] heaven have sworn
+     To royalize the deeds of Tamburlaine,
+     And make them blest that share in his attempts:
+     And doubt you not but, if you favour me,
+     And let my fortunes and my valour sway
+     To some [85] direction in your martial deeds,
+     The world will [86] strive with hosts of men-at-arms
+     To swarm unto the ensign I support.
+     The host of Xerxes, which by fame is said
+     To drink the mighty Parthian Araris,
+     Was but a handful to that we will have:
+     Our quivering lances, shaking in the air,
+     And bullets, like Jove's dreadful thunderbolts,
+     Enroll'd in flames and fiery smouldering mists,
+     Shall threat the gods more than Cyclopian wars;
+     And with our sun-bright armour, as we march,
+     We'll chase the stars from heaven, and dim their eyes
+     That stand and muse at our admired arms.
+
+     THERIDAMAS. You see, my lord, what working words he hath;
+     But, when you see his actions top [87] his speech,
+     Your speech will stay, or so extol his worth
+     As I shall be commended and excus'd
+     For turning my poor charge to his direction:
+     And these his two renowmed [88] friends, my lord,
+     Would make one thirst [89] and strive to be retain'd
+     In such a great degree of amity.
+
+     TECHELLES. With duty and [90] with amity we yield
+     Our utmost service to the fair [91] Cosroe.
+
+     COSROE. Which I esteem as portion of my crown.
+     Usumcasane and Techelles both,
+     When she [92] that rules in Rhamnus' [93] golden gates,
+     And makes a passage for all prosperous arms,
+     Shall make me solely emperor of Asia,
+     Then shall your meeds [94] and valours be advanc'd
+     To rooms of honour and nobility.
+
+     TAMBURLAINE. Then haste, Cosroe, to be king alone,
+     That I with these my friends and all my men
+     May triumph in our long-expected fate.
+     The king, your brother, is now hard at hand:
+     Meet with the fool, and rid your royal shoulders
+     Of such a burden as outweighs the sands
+     And all the craggy rocks of Caspia.
+
+          Enter a MESSENGER.
+
+     MESSENGER. My lord,
+     We have discovered the enemy
+     Ready to charge you with a mighty army.
+
+     COSROE. Come, Tamburlaine; now whet thy winged sword,
+     And lift thy lofty arm into [95] the clouds,
+     That it may reach the king of Persia's crown,
+     And set it safe on my victorious head.
+
+     TAMBURLAINE. See where it is, the keenest curtle-axe
+     That e'er made passage thorough Persian arms!
+     These are the wings shall make it fly as swift
+     As doth the lightning or the breath of heaven,
+     And kill as sure [96] as it swiftly flies.
+
+     COSROE. Thy words assure me of kind success:
+     Go, valiant soldier, go before, and charge
+     The fainting army of that foolish king.
+
+     TAMBURLAINE. Usumcasane and Techelles, come:
+     We are enow to scare the enemy,
+     And more than needs to make an emperor.
+
+          [Exeunt to the battle.]
+
+
+
+
+SCENE IV.
+
+          Enter MYCETES with his crown in his hand. [97]
+
+     MYCETES. Accurs'd be he that first invented war!
+     They knew not, ah, they knew not, simple men,
+     How those were [98] hit by pelting cannon-shot
+     Stand staggering [99] like a quivering aspen-leaf
+     Fearing the force of Boreas' boisterous blasts!
+     In what a lamentable case were I,
+     If nature had not given me wisdom's lore!
+     For kings are clouts that every man shoots at,
+     Our crown the pin [100] that thousands seek to cleave:
+     Therefore in policy I think it good
+     To hide it close; a goodly stratagem,
+     And far from any man that is a fool:
+     So shall not I be known; or if I be,
+     They cannot take away my crown from me.
+     Here will I hide it in this simple hole.
+
+          Enter TAMBURLAINE.
+
+     TAMBURLAINE. What, fearful coward, straggling from the camp,
+     When kings themselves are present in the field?
+
+     MYCETES. Thou liest.
+
+     TAMBURLAINE. Base villain, darest thou give me [101] the lie?
+
+     MYCETES. Away! I am the king; go; touch me not.
+     Thou break'st the law of arms, unless thou kneel,
+     And cry me "mercy, noble king!"
+
+     TAMBURLAINE. Are you the witty king of Persia?
+
+     MYCETES. Ay, marry, [102] am I:  have you any suit to me?
+
+     TAMBURLAINE. I would entreat you to speak but three wise words.
+
+     MYCETES. So I can when I see my time.
+
+     TAMBURLAINE. Is this your crown?
+
+     MYCETES. Ay:  didst thou ever see a fairer?
+
+     TAMBURLAINE. You will not sell it, will you?
+
+     MYCETES. Such another word, and I will have thee executed.  Come,
+     give it me.
+
+     TAMBURLAINE. No; I took it prisoner.
+
+     MYCETES. You lie; I gave it you.
+
+     TAMBURLAINE. Then 'tis mine.
+
+     MYCETES. No; I mean I let you keep it.
+
+     TAMBURLAINE. Well, I mean you shall have it again.
+     Here, take it for a while:  I lend it thee,
+     Till I may see thee hemm'd with armed men;
+     Then shalt thou see me pull it from thy head:
+     Thou art no match for mighty Tamburlaine.
+
+          [Exit.]
+
+     MYCETES. O gods, is this Tamburlaine the thief?
+     I marvel much he stole it not away.
+
+          [Trumpets within sound to the battle:  he runs out.]
+
+
+
+
+SCENE V.
+
+          Enter COSROE, TAMBURLAINE, MENAPHON, MEANDER, ORTYGIUS,
+          THERIDAMAS, TECHELLES, USUMCASANE, with others.
+
+     TAMBURLAINE. Hold thee, Cosroe; wear two imperial crowns;
+     Think thee invested now as royally,
+     Even by the mighty hand of Tamburlaine,
+     As if as many kings as could encompass thee
+     With greatest pomp had crown'd thee emperor.
+
+     COSROE. So do I, thrice-renowmed man-at-arms; [103]
+     And none shall keep the crown but Tamburlaine:
+     Thee do I make my regent of Persia,
+     And general-lieutenant of my armies.--
+     Meander, you, that were our brother's guide,
+     And chiefest [104] counsellor in all his acts,
+     Since he is yielded to the stroke of war,
+     On your submission we with thanks excuse,
+     And give you equal place in our affairs.
+
+     MEANDER. Most happy [105] emperor, in humblest terms
+     I vow my service to your majesty,
+     With utmost virtue of my faith and duty.
+
+     COSROE. Thanks, good Meander.--Then, Cosroe, reign,
+     And govern Persia in her former pomp.
+     Now send embassage to thy neighbour kings,
+     And let them know the Persian king is chang'd,
+     From one that knew not what a king should do,
+     To one that can command what 'longs thereto.
+     And now we will to fair Persepolis
+     With twenty thousand expert soldiers.
+     The lords and captains of my brother's camp
+     With little slaughter take Meander's course,
+     And gladly yield them to my gracious rule.--
+     Ortygius and Menaphon, my trusty friends,
+     Now will I gratify your former good,
+     And grace your calling with a greater sway.
+
+     ORTYGIUS. And as we ever aim'd [106] at your behoof,
+     And sought your state all honour it [107] deserv'd,
+     So will we with our powers and our [108] lives
+     Endeavour to preserve and prosper it.
+
+     COSROE. I will not thank thee, sweet Ortygius;
+     Better replies shall prove my purposes.--
+     And now, Lord Tamburlaine, my brother's camp
+     I leave to thee and to Theridamas,
+     To follow me to fair Persepolis;
+     Then will we [109] march to all those Indian mines
+     My witless brother to the Christians lost,
+     And ransom them with fame and usury:
+     And, till thou overtake me, Tamburlaine,
+     (Staying to order all the scatter'd troops,)
+     Farewell, lord regent and his happy friends.
+     I long to sit upon my brother's throne.
+
+     MEANDER. Your majesty shall shortly have your wish,
+     And ride in triumph through Persepolis.
+
+          [Exeunt all except TAMBURLAINE, THERIDAMAS, TECHELLES, and
+          USUMCASANE.]
+
+     TAMBURLAINE. And ride in triumph through Persepolis!--
+     Is it not brave to be a king, Techelles?--
+     Usumcasane and Theridamas,
+     Is it not passing brave to be a king,
+     And ride in triumph through Persepolis?
+
+     TECHELLES. O, my lord, it is sweet and full of pomp!
+
+     USUMCASANE. To be a king is half to be a god.
+
+     THERIDAMAS. A god is not so glorious as a king:
+     I think the pleasure they enjoy in heaven,
+     Cannot compare with kingly joys in [110] earth;--
+     To wear a crown enchas'd with pearl and gold,
+     Whose virtues carry with it life and death;
+     To ask and have, command and be obey'd;
+     When looks breed love, with looks to gain the prize,--
+     Such power attractive shines in princes' eyes.
+
+     TAMBURLAINE. Why, say, Theridamas, wilt thou be a king?
+
+     THERIDAMAS. Nay, though I praise it, I can live without it.
+
+     TAMBURLAINE. What say my other friends? will you be kings?
+
+     TECHELLES. I, if I could, with all my heart, my lord.
+
+     TAMBURLAINE. Why, that's well said, Techelles:  so would I;--
+     And so would you, my masters, would you not?
+
+     USUMCASANE. What, then, my lord?
+
+     TAMBURLAINE. Why, then, Casane, [111] shall we wish for aught
+     The world affords in greatest novelty,
+     And rest attemptless, faint, and destitute?
+     Methinks we should not.  I am strongly mov'd,
+     That if I should desire the Persian crown,
+     I could attain it with a wondrous ease:
+     And would not all our soldiers soon consent,
+     If we should aim at such a dignity?
+
+     THERIDAMAS. I know they would with our persuasions.
+
+     TAMBURLAINE. Why, then, Theridamas, I'll first assay
+     To get the Persian kingdom to myself;
+     Then thou for Parthia; they for Scythia and Media;
+     And, if I prosper, all shall be as sure
+     As if the Turk, the Pope, Afric, and Greece,
+     Came creeping to us with their crowns a-piece. [112]
+
+     TECHELLES. Then shall we send to this triumphing king,
+     And bid him battle for his novel crown?
+
+     USUMCASANE. Nay, quickly, then, before his room be hot.
+
+     TAMBURLAINE. 'Twill prove a pretty jest, in faith, my friends.
+
+     THERIDAMAS. A jest to charge on twenty thousand men!
+     I judge the purchase [113] more important far.
+
+     TAMBURLAINE. Judge by thyself, Theridamas, not me;
+     For presently Techelles here shall haste
+     To bid him battle ere he pass too far,
+     And lose more labour than the gain will quite: [114]
+     Then shalt thou see this [115] Scythian Tamburlaine
+     Make but a jest to win the Persian crown.--
+     Techelles, take a thousand horse with thee,
+     And bid him turn him [116] back to war with us,
+     That only made him king to make us sport:
+     We will not steal upon him cowardly,
+     But give him warning and [117] more warriors:
+     Haste thee, Techelles; we will follow thee.
+
+          [Exit TECHELLES.]
+
+     What saith Theridamas?
+
+     THERIDAMAS. Go on, for me.
+
+          [Exeunt.]
+
+
+
+
+SCENE VI.
+
+          Enter COSROE, MEANDER, ORTYGIUS, and MENAPHON, with
+          SOLDIERS.
+
+     COSROE. What means this devilish shepherd, to aspire
+     With such a giantly presumption,
+     To cast up hills against the face of heaven,
+     And dare the force of angry Jupiter?
+     But, as he thrust them underneath the hills,
+     And press'd out fire from their burning jaws,
+     So will I send this monstrous slave to hell,
+     Where flames shall ever feed upon his soul.
+
+     MEANDER. Some powers divine, or else infernal, mix'd
+     Their angry seeds at his conception;
+     For he was never sprung [118] of human race,
+     Since with the spirit of his fearful pride,
+     He dares [119] so doubtlessly resolve of rule,
+     And by profession be ambitious.
+
+     ORTYGIUS. What god, or fiend, or spirit of the earth,
+     Or monster turned to a manly shape,
+     Or of what mould or mettle he be made,
+     What star or fate [120] soever govern him,
+     Let us put on our meet encountering minds;
+     And, in detesting such a devilish thief,
+     In love of honour and defence of right,
+     Be arm'd against the hate of such a foe,
+     Whether from earth, or hell, or heaven he grow.
+
+     COSROE. Nobly resolv'd, my good Ortygius;
+     And, since we all have suck'd one wholesome air,
+     And with the same proportion of elements
+     Resolve, [121] I hope we are resembled,
+     Vowing our loves to equal death and life.
+     Let's cheer our soldiers to encounter him,
+     That grievous image of ingratitude,
+     That fiery thirster after sovereignty,
+     And burn him in the fury of that flame
+     That none can quench but blood and empery.
+     Resolve, my lords and loving soldiers, now
+     To save your king and country from decay.
+     Then strike up, drum; and all the stars that make
+     The loathsome circle of my dated life,
+     Direct my weapon to his barbarous heart,
+     That thus opposeth him against the gods,
+     And scorns the powers that govern Persia!
+
+          [Exeunt, drums sounding.]
+
+
+
+
+SCENE VII.
+
+          Alarms of battle within.  Then enter COSROE wounded,
+          TAMBURLAINE, THERIDAMAS, TECHELLES, USUMCASANE, with others.
+
+     COSROE. Barbarous [122] and bloody Tamburlaine,
+     Thus to deprive me of my crown and life!--
+     Treacherous and false Theridamas,
+     Even at the morning of my happy state,
+     Scarce being seated in my royal throne,
+     To work my downfall and untimely end!
+     An uncouth pain torments my grieved soul;
+     And death arrests the organ of my voice,
+     Who, entering at the breach thy sword hath made,
+     Sacks every vein and artier [123] of my heart.--
+     Bloody and insatiate Tamburlaine!
+
+     TAMBURLAINE. The thirst of reign and sweetness of a crown,
+     That caus'd the eldest son of heavenly Ops
+     To thrust his doting father from his chair,
+     And place himself in the empyreal heaven,
+     Mov'd me to manage arms against thy state.
+     What better precedent than mighty Jove?
+     Nature, that fram'd us of four elements
+     Warring within our breasts for regiment, [124]
+     Doth teach us all to have aspiring minds:
+     Our souls, whose faculties can comprehend
+     The wondrous architecture of the world,
+     And measure every wandering planet's course,
+     Still climbing after knowledge infinite,
+     And always moving as the restless spheres,
+     Will us to wear ourselves, and never rest,
+     Until we reach the ripest fruit [125] of all,
+     That perfect bliss and sole felicity,
+     The sweet fruition of an earthly crown.
+
+     THERIDAMAS. And that made me to join with Tamburlaine;
+     For he is gross and like the massy earth
+     That moves not upwards, nor by princely deeds
+     Doth mean to soar above the highest sort.
+
+     TECHELLES. And that made us, the friends of Tamburlaine,
+     To lift our swords against the Persian king.
+
+     USUMCASANE. For as, when Jove did thrust old Saturn down,
+     Neptune and Dis gain'd each of them a crown,
+     So do we hope to reign in Asia,
+     If Tamburlaine be plac'd in Persia.
+
+     COSROE. The strangest men that ever nature made!
+     I know not how to take their tyrannies.
+     My bloodless body waxeth chill and cold,
+     And with my blood my life slides through my wound;
+     My soul begins to take her flight to hell,
+     And summons all my senses to depart:
+     The heat and moisture, which did feed each other,
+     For want of nourishment to feed them both,
+     Are [126] dry and cold; and now doth ghastly Death
+     With greedy talents [127] gripe my bleeding heart,
+     And like a harpy [128] tires on my life.--
+     Theridamas and Tamburlaine, I die:
+     And fearful vengeance light upon you both!
+
+          [Dies.--TAMBURLAINE takes COSROE'S crown, and puts it on
+          his own head.]
+
+     TAMBURLAINE. Not all the curses which the [129] Furies breathe
+     Shall make me leave so rich a prize as this.
+     Theridamas, Techelles, and the rest,
+     Who think you now is king of Persia?
+
+     ALL. Tamburlaine!  Tamburlaine!
+
+     TAMBURLAINE. Though Mars himself, the angry god of arms,
+     And all the earthly potentates conspire
+     To dispossess me of this diadem,
+     Yet will I wear it in despite of them,
+     As great commander of this eastern world,
+     If you but say that Tamburlaine shall reign.
+
+     ALL. Long live Tamburlaine, and reign in Asia!
+
+     TAMBURLAINE. So; now it is more surer on my head
+     Than if the gods had held a parliament,
+     And all pronounc'd me king of Persia.
+
+          [Exeunt.]
+
+
+
+
+ACT III.
+
+
+
+
+SCENE I.
+
+          Enter BAJAZETH, the KINGS OF FEZ, MOROCCO, and ARGIER, with
+          others, in great pomp.
+
+     BAJAZETH. Great kings of Barbary, and my portly bassoes, [130]
+     We hear the Tartars and the eastern thieves,
+     Under the conduct of one Tamburlaine,
+     Presume a bickering with your emperor,
+     And think to rouse us from our dreadful siege
+     Of the famous Grecian Constantinople.
+     You know our army is invincible;
+     As many circumcised Turks we have,
+     And warlike bands of Christians renied, [131]
+     As hath the ocean or the Terrene [132] sea
+     Small drops of water when the moon begins
+     To join in one her semicircled horns:
+     Yet would we not be brav'd with foreign power,
+     Nor raise our siege before the Grecians yield,
+     Or breathless lie before the city-walls.
+
+     KING OF FEZ. Renowmed [133] emperor and mighty general,
+     What, if you sent the bassoes of your guard
+     To charge him to remain in Asia,
+     Or else to threaten death and deadly arms
+     As from the mouth of mighty Bajazeth?
+
+     BAJAZETH. Hie thee, my basso, [134] fast to Persia;
+     Tell him thy lord, the Turkish emperor,
+     Dread lord of Afric, Europe, and Asia,
+     Great king and conqueror of Graecia,
+     The ocean, Terrene, and the Coal-black sea,
+     The high and highest monarch of the world,
+     Wills and commands, (for say not I entreat,)
+     Not [135] once to set his foot in [136] Africa,
+     Or spread [137] his colours in Graecia,
+     Lest he incur the fury of my wrath:
+     Tell him I am content to take a truce,
+     Because I hear he bears a valiant mind:
+     But if, presuming on his silly power,
+     He be so mad to manage arms with me,
+     Then stay thou with him,--say, I bid thee so;
+     And if, before the sun have measur'd heaven [138]
+     With triple circuit, thou regreet us not,
+     We mean to take his morning's next arise
+     For messenger he will not be reclaim'd,
+     And mean to fetch thee in despite of him.
+
+     BASSO. Most great and puissant monarch of the earth,
+     Your basso will accomplish your behest,
+     And shew your pleasure to the Persian,
+     As fits the legate of the stately Turk.
+
+          [Exit.]
+
+     KING OF ARGIER. They say he is the king of Persia;
+     But, if he dare attempt to stir your siege,
+     'Twere requisite he should be ten times more,
+     For all flesh quakes at your magnificence.
+
+     BAJAZETH. True, Argier; and tremble[s] at my looks.
+
+     KING OF MOROCCO. The spring is hinder'd by your smothering host;
+     For neither rain can fall upon the earth,
+     Nor sun reflex his virtuous beams thereon,
+     The ground is mantled with such multitudes.
+
+     BAJAZETH. All this is true as holy Mahomet;
+     And all the trees are blasted with our breaths.
+
+     KING OF FEZ. What thinks your greatness best to be achiev'd
+     In pursuit of the city's overthrow?
+
+     BAJAZETH. I will the captive pioners [139] of Argier
+     Cut off the water that by leaden pipes
+     Runs to the city from the mountain Carnon;
+     Two thousand horse shall forage up and down,
+     That no relief or succour come by land;
+     And all the sea my galleys countermand:
+     Then shall our footmen lie within the trench,
+     And with their cannons, mouth'd like Orcus' gulf,
+     Batter the walls, and we will enter in;
+     And thus the Grecians shall be conquered.
+
+          [Exeunt.]
+
+
+
+
+SCENE II.
+
+          Enter ZENOCRATE, AGYDAS, ANIPPE, with others.
+
+     AGYDAS. Madam Zenocrate, may I presume
+     To know the cause of these unquiet fits
+     That work such trouble to your wonted rest?
+     'Tis more than pity such a heavenly face
+     Should by heart's sorrow wax so wan and pale,
+     When your offensive rape by Tamburlaine
+     (Which of your whole displeasures should be most)
+     Hath seem'd to be digested long ago.
+
+     ZENOCRATE. Although it be digested long ago,
+     As his exceeding favours have deserv'd,
+     And might content the Queen of Heaven, as well
+     As it hath chang'd my first-conceiv'd disdain;
+     Yet since a farther passion feeds my thoughts
+     With ceaseless [140] and disconsolate conceits, [141]
+     Which dye my looks so lifeless as they are,
+     And might, if my extremes had full events,
+     Make me the ghastly counterfeit [142] of death.
+
+     AGYDAS. Eternal heaven sooner be dissolv'd,
+     And all that pierceth Phoebus' silver eye,
+     Before such hap fall to Zenocrate!
+
+     ZENOCRATE. Ah, life and soul, still hover in his [143] breast,
+     And leave my body senseless as the earth,
+     Or else unite you [144] to his life and soul,
+     That I may live and die with Tamburlaine!
+
+          Enter, behind, TAMBURLAINE, with TECHELLES, and others.
+
+     AGYDAS. With Tamburlaine!  Ah, fair Zenocrate,
+     Let not a man so vile and barbarous,
+     That holds you from your father in despite,
+     And keeps you from the honours of a queen,
+     (Being suppos'd his worthless concubine,)
+     Be honour'd with your love but for necessity!
+     So, now the mighty Soldan hears of you,
+     Your highness needs not doubt but in short time
+     He will, with Tamburlaine's destruction,
+     Redeem you from this deadly servitude.
+
+     ZENOCRATE. Leave [145] to wound me with these words,
+     And speak of Tamburlaine as he deserves:
+     The entertainment we have had of him
+     Is far from villany or servitude,
+     And might in noble minds be counted princely.
+
+     AGYDAS. How can you fancy one that looks so fierce,
+     Only dispos'd to martial stratagems?
+     Who, when he shall embrace you in his arms,
+     Will tell how many thousand men he slew;
+     And, when you look for amorous discourse,
+     Will rattle forth his facts [146] of war and blood,
+     Too harsh a subject for your dainty ears.
+
+     ZENOCRATE. As looks the sun through Nilus' flowing stream,
+     Or when the Morning holds him in her arms,
+     So looks my lordly love, fair Tamburlaine;
+     His talk much [147] sweeter than the Muses' song
+     They sung for honour 'gainst Pierides, [148]
+     Or when Minerva did with Neptune strive:
+     And higher would I rear my estimate
+     Than Juno, sister to the highest god,
+     If I were match'd with mighty Tamburlaine.
+
+     AGYDAS. Yet be not so inconstant in your love,
+     But let the young Arabian [149] live in hope,
+     After your rescue to enjoy his choice.
+     You see, though first the king of Persia,
+     Being a shepherd, seem'd to love you much,
+     Now, in his majesty, he leaves those looks,
+     Those words of favour, and those comfortings,
+     And gives no more than common courtesies.
+
+     ZENOCRATE. Thence rise the tears that so distain my cheeks,
+     Fearing his love [150] through my unworthiness.
+
+          [TAMBURLAINE goes to her, and takes her away lovingly by
+          the hand, looking wrathfully on AGYDAS, and says nothing.
+          Exeunt all except AGYDAS.]
+
+     AGYDAS. Betray'd by fortune and suspicious love,
+     Threaten'd with frowning wrath and jealousy,
+     Surpris'd with fear of [151] hideous revenge,
+     I stand aghast; but most astonied
+     To see his choler shut in secret thoughts,
+     And wrapt in silence of his angry soul:
+     Upon his brows was pourtray'd ugly death;
+     And in his eyes the fury [152] of his heart,
+     That shone [153] as comets, menacing revenge,
+     And cast a pale complexion on his cheeks.
+     As when the seaman sees the Hyades
+     Gather an army of Cimmerian clouds,
+     (Auster and Aquilon with winged steeds,
+     All sweating, tilt about the watery heavens,
+     With shivering spears enforcing thunder-claps,
+     And from their shields strike flames of lightning,)
+     All-fearful folds his sails, and sounds the main,
+     Lifting his prayers to the heavens for aid
+     Against the terror of the winds and waves;
+     So fares Agydas for the late-felt frowns,
+     That send [154] a tempest to my daunted thoughts,
+     And make my soul divine her overthrow.
+
+          Re-enter TECHELLES with a naked dagger, and USUMCASANE.
+
+     TECHELLES. See you, Agydas, how the king salutes you!
+     He bids you prophesy what it imports.
+
+     AGYDAS. I prophesied before, and now I prove
+     The killing frowns of jealousy and love.
+     He needed not with words confirm my fear,
+     For words are vain where working tools present
+     The naked action of my threaten'd end:
+     It says, Agydas, thou shalt surely die,
+     And of extremities elect the least;
+     More honour and less pain it may procure,
+     To die by this resolved hand of thine
+     Than stay the torments he and heaven have sworn.
+     Then haste, Agydas, and prevent the plagues
+     Which thy prolonged fates may draw on thee:
+     Go wander free from fear of tyrant's rage,
+     Removed from the torments and the hell
+     Wherewith he may excruciate thy soul;
+     And let Agydas by Agydas die,
+     And with this stab slumber eternally.
+
+          [Stabs himself.]
+
+     TECHELLES. Usumcasane, see, how right the man
+     Hath hit the meaning of my lord the king!
+
+     USUMCASANE. Faith, and, Techelles, it was manly done;
+     And, since he was so wise and honourable,
+     Let us afford him now the bearing hence,
+     And crave his triple-worthy burial.
+
+     TECHELLES. Agreed, Casane; we will honour him.
+
+          [Exeunt, bearing out the body.]
+
+

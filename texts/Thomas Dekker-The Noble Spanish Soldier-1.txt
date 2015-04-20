@@ -1,0 +1,2118 @@
+
+THE NOBLE SPANISH SOLDIER by THOMAS DEKKER
+
+INTRODUCTION
+
+THOMAS DEKKER
+
+Thomas Dekker is believed to have been born in London around 1572,
+but nothing is known for certain about his youth. He embarked on a
+career as a theatre writer early in his adult life, the first extant
+text of his work being 'Old Fortunatus' written around 1596, although
+there are plays connected with his name which were performed as early
+as 1594. The period from 1596 to 1602 was the most prolific of his
+career, with 20 plays being attributed to him and an involvement in
+up to 28 other plays being suggested. It was during this period that
+he produced his most famous work, 'The Shoemaker's Holiday, or the
+Gentle Craft', categorised by modern critics as citizen comedy, it
+reflects his concerns with the daily lives of ordinary Londoners.
+This play exemplifies his vivid use of language and the intermingling
+of everyday subjects with the fantastical, embodied in this case by
+the rise of a craftsman to Mayor and the involvement of an unnamed
+but idealised king in the concluding banquet.
+
+He exhibited a similar vigour in such prose pamphlets as the
+ironically entitled 'The Wonderfull Yeare' (1603), about the plague,
+'The Belman of London' (1608), about roguery and crime, and 'The Guls
+Horne-Booke' (1609), a valuable account of behaviour in the London
+theatres.
+
+Dekker was partly responsible for devising the street entertainment
+to celebrate the entry of James I into London in 1603 and he managed
+the Lord Mayor's pageant in 1612. His fortunes took a turn for the
+worse shortly after, when between 1613 and 1619 he was imprisoned,
+probably for debt; this experience may be behind his six prison
+scenes first included in the sixth edition (1616) of Sir Thomas
+Overbury's 'Characters'. He died in 1632 and was buried at St James',
+Clerkenwell.
+
+
+HISTORY OF THE NOBLE SPANISH SOLDIER ('NSS')
+
+Text
+
+The first clear reference to the play is dated as 16 May 1631 when an
+entry was made in the Stationer's Register, effectively licensing
+texts for publication. The entry, made for John Jackman, referred to
+manuscripts of two plays by 'Tho: Dekker', these being 'The Wonder of
+a Kingdom' and 'a Tragedy called The Noble Spanish Soldier'. A
+similar entry was made on 9 December 1633, this time for Nicholas
+Vavasour. The play was printed in a quarto version in 1634, probably
+by John Beale, on behalf of Vavasour, who initialled the foreword
+entitled 'The Printer to The Reader'.
+
+Sources, Authorship and Date
+
+These aspects of the play have attracted more critical attention than
+all others combined, reference frequently being made to the following
+known facts:
+
+(1)  Although the entries in the Stationer's Register refer
+unambiguously to Dekker as the author, the title page of the Quarto
+states that the play is written by 'S.R.', the only Jacobean
+playwright with those initials being Samuel Rowley.
+
+(2) It has been observed, initially by nineteenth century scholar A.
+H. Bullen, that three sections of a play by John Day called 'The
+Parliament of Bees' are nearly identical to sections of NSS.
+Furthermore a further five sections correspond closely to parts of
+'The Wonder of a Kingdom' which as is noted above, was registered
+alongside NSS in 1931.
+
+(3) In 1601, theatre manager Philip Henslow made part payment for an
+anonymous play called 'The Spanish Fig', no text of which survives
+under that name.
+
+(4) In April 1624 a poster appeared in Norwich  advertising a touring
+play, being 'An excellent Comedy called The Spanish Contract' to be
+performed by Lady Elizabeth's men, a company with which Dekker is
+believed to have had connections.
+
+(5)  There is some evidence of confusion in how the play has been
+compiled for printing, in particular, a cast list which omits several
+significant characters, the late appearance of two pointless
+characters (Signor No and Juanna) and the delayed identification of
+Alanzo as Captain of the Guard. These have been argued to be evidence
+of revision of an earlier work.
+
+(6)  Dekker's 'The Welsh Embassador' reworked much of the material in
+NSS, albeit in a comedic form. This is generally dated as c1623.
+
+As may be imagined, these facts offer a considerable range of
+possibilities as to authorship and provenance of the play. Various
+critics, such as Fleay and Bullen, have tried to make sense of all of
+them by postulating, largely without evidence, a variety of
+permutations of collaboration and revision so as to give all of the
+authorship candidates a role in the production of the text we now
+have. The most persuasive contribution however, comes from Julia
+Gasper who, building on work by R. Koeppel, convincingly identifies
+the source of NSS as being Volume V of Jacques-Augueste de Thou's
+Latin 'Historiarum Sui Temporis', published in 1620 <1>.
+
+The de Thou volume tells of how Henri IV of France reneged on a
+written promise of marriage to Hentiette d'Entragues, by marrying
+Marie be Medicis in 1600; both women bore sons by the King, who is
+later assassinated. This closely anticipates the marriage plot of NSS
+but the critical detail which seals the identification of de Thou as
+the source, is his reference to a soldier called Balthazare Sunica
+who acted against the King and was clearly, the original of the
+character Balthazar in NSS. This evidence demonstrates that the
+earliest date for composition of NSS is 1620. Furthermore, due to the
+likelihood that NSS predated 'The Welsh Embassador' of 1623/4, a last
+possible date for the writing of NSS, can also be deduced and a
+composition date of around 1622 can be established with some
+certainty.
+
+With respect to the relationship with other plays, any connection
+with the 'The Spanish Fig' would seem to be ruled out on the grounds
+that it pre-dates the publication of de Thou's Historiarum. In the
+case of the later play 'The Spanish Contract', a connection is
+possible although any theories that may be advanced little more than
+conjecture. One such theory, put forward by Tirthanker Bose <2>, is
+that 'the Spanish Contract' is a version of NSS, reworked as a comedy
+and thus is an intermediate stage on the road to 'The Welsh
+Embassador'.
+
+The more pressing matter, the question of the connection with 'The
+Parliament of Bees', is also addressed by Julia Gasper. The crucial
+evidence here relates to instances where details, meaningful only in
+the context of NSS, have become embedded in the text of 'The
+Parliament of Bees'. The most significant example of this occurs in
+Scene 1, Line 29 of 'The Parliament of Bees' where a character asks
+'Is Master Bee at leisure to speak Spanish / With a Bee of Service?'.
+There is no connection between 'The Parliament of Bees' and Spain or
+indeed, the Spanish language, so it would seem strong evidence that
+NSS was the source for 'The Parliament of Bees' and not the other way
+around. This evidence is supplemented by an analysis of NSS, Act 2
+Scene 1, a scene common to both plays, when Balthazar sets out his
+credentials of loyal service in seeking to advise the King. Gasper
+points out that this scene in NSS contains elements from de Thou, not
+to be found in The Parliament of Bees, principally the need to
+intervene on behalf of Onaelia. The only plausible order of
+composition for the plays therefore places NSS before 'The Parliament
+of Bees'. Furthermore as Day's name has never been associated with
+NSS, there is no reason to suppose he was involved in its
+composition. The likelihood is therefore that he was lifting dialogue
+from an earlier work by another writer in order to serve his own
+convenience.
+
+The remaining question to be considered concerns the relative claims
+to authorship of Dekker and Rowley. In weighing the evidence, it is
+important to consider that that the first records, those on the
+Stationer's Register, unequivocally record Dekker as the sole author.
+Furthermore, textual scholarship is happy to place NSS within the
+Dekker cannon, while, as Hoy says 'no scholar has ever succeeded in
+demonstrating Rowley's share in the play' <3>. Given that is has been
+established that the play post-dates 1620, the possibility of a
+Dekker revision of an earlier Rowley text would appear to be
+implausible. The attribution to 'S.R.' remains unexplained, although
+it may be noted in passing that the initials are the final letters of
+Dekker's names, so it may just be a coded reference to Dekker. More
+likely perhaps, it could be the result of the editorial confusion
+which also pervades the compilation of the cast list.
+
+Performance
+
+There is no firm record of the play being performed, although the
+foreword does make mention of it being enthusiastically received.
+Such references are not, of course, to be taken at face value as they
+would hardly be expected to say anything else; nevertheless, it does
+strongly suggest that the play has been staged. In practice, the
+printing of a text suggests either high popularity, in which case
+sales could be expected to compensate for possible plagiarism, or
+else relative unpopularity in which case publication was a last
+attempt to generate some financial return before the play was
+discarded. In this instance, the later circumstance is likely to
+obtain, especially in view of the gap between writing and publication
+dates.
+
+ACTION OF THE PLAY
+
+The sub-title given to the text in the Quarto edition is 'A contract
+Broken, Justly Revenged'. Although this title is likely to have been
+added by the printers, it does succinctly sum up one aspect the play,
+the theme of revenge which is reminiscent of Elizabethan revenge
+plays such as Thomas Kidd's 'The Spanish Tragedy'. Revenge plays
+however, are generally patterned around a revenger and what may be
+termed a 'revengee', while the action of NSS revolves around a power
+struggle between two factions both of whom are concerned with violent
+intent. In reality, the play reflects the seventeenth century fashion
+for mixing elements of tragedy and comedy in a style first identified
+by Sir Philip Sydney in 1579 as being 'mongrel tragicomedy'<4>; thus
+while death intrudes on the final act, it only strikes unsympathetic
+characters. There is also regular light relief provided by two comic
+characters, Cornego and Cockadillio, as well the cameo appearances of
+Signor No and Medina as a French Doctor.
+
+The two groups of characters at the centre of the play are on one
+hand, the ruling cabal, that is the King, his Italian Queen and their
+supporters, including the Italian Malateste and on the other a number
+of disenchanted Spanish noblemen who are in sympathy with the King's
+former betrothed lover, Onaelia. This later faction, led by the Duke
+of Medina, eventually includes the key figure of the patriotic
+soldier Balthazar, a man who has earned respect for his martial
+exploits and whose 'nobility', as celebrated in the title to the
+play, is a tribute earned by action rather than by birth or
+inheritance. He is thus differentiated from the King, whose nobility
+of birth is cancelled out by the dishonesty of his character.
+
+Nevertheless, Balthazar is something of a problematic figure and in
+many ways an unconvincing hero for a play with ostensibly, a strong
+moral theme. His basic character is presented as that of an honest
+uncomplicated soldier; in his first appearance(2.1), he has already
+been slighted by the Dons, and presents an unkempt appearance and
+rails against the 'pied-winged butterflies' of the effete court who
+put appearance before patriotic duty. Nevertheless, subterfuge seems
+to come too readily to him as we see in 2.2 when he makes a false
+offer to assassinate the King to test Onaelia, again in 3.3 when he
+pretends to agree to murder Sebastian and Onaelia in order to placate
+the Queen and finally in 5.1 when he tells the King that the murder
+has been carried out. Scene 3.3 shows a further unedifying side of
+Balthazar when he bursts in on the King and stabs a servant and
+refuses to express remorse as the servant is a mere groom. On a
+different note, the character is also used to comic effect,
+especially in 4.2 when he acts out bawdy dialogue with Cornego. His
+last significant act is to dissuade the faction from attempting to
+assassinate the King, before being reduced to a minor role in the
+closing scene where he only has five short speeches and plays no
+significant part in the denouement. The character then, is something
+of a patchwork affair, playing different roles as the play progresses
+before being effectively jettisoned at the conclusion.
+
+The King by contrast maintains a degree of consistency,
+notwithstanding his formulaic deathbed renunciation of evil. As we
+have seen, his Queen is Italian, but he may be associated with Italy
+by more reasons than his marriage. In Act 5 Scene 2, Daenia says that
+'There's in his breast / Both fox and lion, and both those beasts can
+bite' This is an direct reference to the works of the Italian
+courtier Niccol Machiavelli who wrote in his work on statecraft 'The
+Prince': 'A Prince must know how to make good use of the beasts; he
+should choose from among the beasts the fox and the lion; for the
+lion cannot defend itself from traps and the fox cannot protect
+itself from wolves.' <5>. Although the book from which this extract
+was taken, 'The Prince', had yet to be published in English, the
+ideas it contained (or at least a caricature of them) had been in
+circulation for many years following its initial publication in Italy
+in 1531. These were often treated with profound suspicion by the
+English who saw the advocacy of the use of manipulation and deception
+in order to maintain power as being the idea of a disreputable
+foreign country. Indeed, Machiavelli was seen as a satanic figure who
+was known as 'Old Nick', a still-used reference to the devil, and the
+machiavel became a stock figure on the early modern stage, a
+tradition which the portrayal of the King is drawing on.
+
+The other interesting opposition within the play is between the two
+claimants to the title of Queen, the current incumbent and Onaelia.
+There is little doubt that it is Onaelia who is the representative of
+virtue, her behaviour often rising above that of the 'noble'
+Balthazar. In Act 1 Scene 2 she makes a fearless statement in
+defacing the King's portrait, this being an act of treason <6>.
+Despite her strong feelings however, she does not rise to Balthazar's
+bait when he introduces the possibility of assassinating the King;
+the remnants of her love for him and her concern for the stability of
+the realm rule this possibility out. She is not however prepared to
+accept her treatment without protest and, in Act 3 Scene 2, engages a
+poet to propagandise on her behalf. His refusal, on the grounds of
+self-preservation is denounced in striking terms when she accuses
+poets generally of being 'apt to lash / Almost to death poor wretches
+not worth striking / but fawn with slavish flattery on damned vices /
+so great men act them'. The effective conclusion of her involvement
+as early as the end of 3.2 impoverishes the rest of the play. The
+Queen's less admirable character is highlighted by the way she is
+prepared to condone the taking of life in order to secure her
+position. Her ruthless outlook is punished when she is deprived of
+her position and forced to return to Italy.
+
+The final scene of the play utilises a dramatic technique that had
+played an important part in 'The Shoemakers' Holiday': the banquet
+scene. Planned by the King in an attempt to achieve reconciliation
+and remove the threat of Onaelia by marrying her off, it represents a
+means of bringing almost the entire cast on stage in order to witness
+the meeting out of justice. It is ironic that the King's scheme is
+undermined, not by his political rivals but by his allies, The Queen
+and Malateste, who do not believe that the marriage will provide a
+stable settlement and instead seek to pursue a deadlier course of
+action. The banquet provides the context for the unwinding of this
+plot as vengeance consumes itself, bring about the regime change that
+justice demands.
+
+EDITORIAL PRACTICE
+
+The text is based on the 1634 Quarto, as reproduced in Tudor
+Facsimile series in 1913. Spelling has been modernised, except in
+instances where to do so would change a word's pronunciation.
+Punctuation has also been modernised and has been used lightly in an
+attempt to reflect contemporary speech patterns. Contractions to
+words have been eliminated where this is possible without upsetting
+the verse rhythm; for example, 'baked' replaces 'bak'd' in 4.2.
+
+Names have been retained as originally set out except that of the
+central character who name was spelt in the original as 'Baltazar';
+Balthazar is the modern Anglicised version of the same name. The cast
+list has been newly compiled from the text of the play, rather than
+by reference to the one appearing in the Quarto.
+
+All lines have been left justified, including those cases where
+characters share a line of verse. The speeches of Balthazar in the
+early part of 2.1 and again in 4.1 appear as verse in the Quarto but
+have been rendered as prose in this edition. This appears to makes
+more sense of the speech patterns and has the additional effect of
+making Balthazar and Cornego, the two non-aristocratic figures, the
+consistent prose speakers throughout the play.
+
+Endnotes have been provided only to explicate words or terms of
+unusual obscurity. Numeric references to such notes are enclosed
+within angled brackets.
+
+Stage directions may be identified as being a line of text preceded
+by a blank line, rather than by a character's name. These have been
+added to occasionally to ensure that all essential movements apparent
+from the text are set out. Where significant additions have been
+made, these are enclosed within square brackets. Scene divisions
+within acts have been deduced from the movements of characters.
+
+BIBLIOGRAPHY
+
+Primary text:
+
+Dekker, T.  Ð 'The Noble Spanish Soldier' - Tudor facsimiles Ð 1913.
+
+Secondary texts:
+
+Bentley, G.E. Ð 'The Jacobean and Caroline Stage' Ð Oxford: Clarendon
+Ð 1956.
+
+Bowers, F. Ð 'The Dramatic Works of Thomas Dekker', Volume IV Ð
+Cambridge University Press Ð 1961.
+
+Bose, T. Ð 'The Gentle Craft of Revision in Thomas Dekker's last
+Plays' Ð Institut f_r Anglistik und Amerikanistik Ð 1979.
+
+Bose T. Ð 'The Noble Spanish Soldier' and 'The Spanish Contract' -
+Notes and Queries volume 40, Number 2 - 1993.
+
+Chapman, L.S. Ð 'Thomas Dekker and the Traditions of the English
+Drama' Ð Lang Ð 1985.
+
+Fleay, F. G. Ð 'A Biographical Chronicle of the English Drama' -
+Reeves and Turner Ð 1891.
+
+Gasper, J. - 'The Noble Spanish Soldier', 'The Wonder of a Kingdom'
+and 'The Parliament of Bees': a belated solution to this long-
+standing problem - Durham University Journal - 1987.
+
+Gasper, J. Ð 'The Dragon and the Dove: The Plays of Thomas Dekker' Ð
+Oxford: Clarendon Ð 1990.
+
+Greetam, D.C. Ð 'Textual Scholarship An Introduction' Ð Garland Ð
+1994.
+
+Hoy, C. Ð 'Introductions, notes, and commentaries to texts in 'The
+dramatic works of Thomas Dekker', Volume IV - Cambridge University
+Press Ð 1980.
+
+Meads, Chris Ð 'Banquets set forth : banqueting in English
+Renaissance drama' - Manchester University Press Ð 2001.
+
+McLuskie, Kathleen. Ð 'Dekker and Heywood : professional dramatists'
+- St. Martin's Press Ð 1994.
+
+Wells, S. Ð 'Re-editing Shakespeare for the Modern Reader' Ð Oxford:
+Clarendon -1984.
+
+ENDNOTES TO THE INTRODUCTION
+
+1. Gasper, J - 'The Noble Spanish Soldier', 'The Wonder of a Kingdom'
+and 'The Parliament of Bees': a belated solution to this long-
+standing problem - Durham University Journal LXXIX number 2- 1987.
+
+2. Bose, T Ð 'The Noble Spanish Soldier' and 'The Spanish Contract'
+in Notes and Queries v 40, number 2 Ð 1993.
+
+3. Hoy, C. - Introductions, notes, and commentaries to texts in 'The
+dramatic works of Thomas Dekker, Volume IV, page 99 - Cambridge
+University Press Ð 1980.
+
+4. Sidney, Sir Philip, 'The Defense of Posey' in 'The Norton
+Anthology of English Literature, page 944 Ð Norton Ð 2000.
+
+5. Machiavelli, N. Ð 'The Prince', page 56 Ð Penguin Ð 2003.
+
+6. See Bowers, F. Ð 'The Stabbing of a Portrait in Elizabethan
+Tragedy' Ð Modern language Notes, XLVII, pages 378-385 Ð 1932.
+
+
+
+John Price
+University College Worcester
+1 June 2004
+
+
+
+THE TEXT
+
+DRAMATIS PERSONAE
+
+King of Spain
+Cardinal, advisor to the King
+Count Malateste of Florence, confidant of the Queen
+Roderigo, Don of Spain, supporter of the King
+Valasco, Don of Spain, supporter of the King
+Lopez, Don of Spain, supporter of the King
+Duke of Medina, leader of the Faction
+Marquis Daenia, member of the Faction
+Alba, Don of Spain, member of the Faction
+Carlo, Don of Spain, member of the Faction
+Alanzo, Captain of the Guard, member of the Faction
+Sebastian, illegitimate son of the King
+Balthazar, a Spanish soldier
+Cornego, servant to Onaelia
+Cockadillio, a courtier
+Signor No
+A Poet
+
+Queen of Spain, Paulina, daughter of Duke of Florence
+Onaelia, niece to the Duke of Medina, mother of Sebastian
+Juanna, maid to Onaelia
+Ladies in waiting
+
+Attendants, guards
+
+THE PRINTER TO THE READER
+
+Understanding reader, I present this to your view, which has received
+applause in action. The poet might conceive a complete satisfaction
+upon the stage's approbation; but the printer rests not there,
+knowing that that which was acted and approved upon the stage, might
+be no less acceptable in print. It is now communicated to you, whose
+leisure and knowledge admits of reading and reason. Your judgement
+now this Posthumous <1> assures himself will well attest his
+predecessor's endeavours to give content to men of the ablest
+quality, such as intelligent readers are here conceived to be. I
+could have troubled you with a longer epistle, but I fear to stay you
+from the book, which affords better words and matter than I can. So
+the work modestly depending in the scale of your judgement, the
+printer for his part craves your pardon, hoping by his promptness to
+do you greater service, as convenience shall enable him to give you
+more or better testimony of his entireness towards you.
+
+N.V.
+
+ACT 1 SCENE 1
+
+Enter in magnificent state to the sound of loud music, the King and
+Queen, as from church, attended by the Cardinal, Count Malateste,
+Marquis Daenia, Roderigo, Valasco, Alba, Carlo, and ladies-in
+waiting. The King and Queen with courtly compliments salute and part.
+She [exits] with one half attending her. King, Cardinal and the other
+half stay, the King seeming angry and desirous to be rid of them.
+King, Cardinal, Daenia and others [remain].
+
+KING
+Give us what no man here is master of:
+Breath. Leave us pray, my father Cardinal
+Can by the physic of philosophy
+Set all again in order. Leave us pray.
+
+Exeunt [King and Cardinal remain].
+
+CARDINAL
+How is it with you, sir?
+
+KING
+As with a ship
+Now beat with storms, now safe. The storms are vanished
+And having you my Pilot, I not only
+See shore, but harbour; I to you will open
+The book of a black sin, deep printed in me.
+Oh father, my disease lies in my soul.
+
+CARDINAL
+The old wound sir?
+
+KING
+Yes that, it festers inwards.
+For though I have a beauty to my bed
+That even creation envies at, as wanting
+Stuff to make such another, yet on her pillow
+I lie by her, but an adulterer,
+And she as an adulteress. She is my queen
+And wife, yet but my strumpet though the church
+Set on the seal of marriage. Good Onaelia,
+Niece to our Lord High Constable of Spain
+Was precontracted mine.
+
+CARDINAL
+Yet when I stung
+Your conscience with remembrance of the act
+Your ears were deaf to counsel.
+
+KING
+I confess it.
+
+CARDINAL
+Now to untie the knot with your new Queen
+Would shake your crown half from your head.
+
+KING
+Even Troy, though she has wept her eyes out,
+Would find tears to wail my kingdom's ruins.
+
+CARDINAL
+What will you do then?
+
+KING
+She has that contract written, sealed by you,
+And other churchmen witnesses unto it.
+A kingdom should be given for that paper.
+
+CARDINAL
+I would not, for what lies beneath the moon,
+Be made a wicked engine to break in pieces
+That holy contract.
+
+KING
+'Tis my soul's aim
+To tie it upon a faster knot.
+
+CARDINAL
+I do not see
+How you can with safe conscience get it from her.
+
+KING
+Oh I know
+I wrestle with a lioness. To imprison her
+And force her to it, I dare not. Death! What King
+Did ever say 'I dare not'? I must have it;
+A bastard have I by her, and that cock
+Will have, I fear, sharp spurs, if he crow after
+Him that trod for him. Something must be done
+Both to the hen and the chicken. Haste you therefore
+To sad Onaelia, tell her I'm resolved
+To give my new hawk bells, and let her fly.
+My Queen, I'm weary of, and her will marry.
+To this, our text, add you what gloss you please;
+The secret drifts of kings are depthless seas.
+
+Exeunt
+
+ACT 1 SCENE 2
+
+A table set out covered with black. Two waxen tapers. The King's
+[defaced] picture at one end and a crucifix at the other. Onaelia
+[dressed in black] walking discontentedly weeping to the crucifix.
+
+A Song.
+
+QUESTION
+Oh sorrow, sorrow, say where do'st thou dwell?
+
+ANSWER
+In the lowest room of hell.
+
+QUESTION
+Art thou born of human race?
+
+ANSWER
+No, no. I have a fury's <2> face.
+
+QUESTION
+Art thou in city, town or court?
+
+ANSWER
+I to every place resort.
+
+QUESTION
+O why into the world is sorrow sent?
+
+ANSWER
+Men afflicted best repent.
+
+QUESTION
+What dost thou feed on?
+
+ANSWER
+Broken sleep.
+
+QUESTION
+What takest thou take pleasure in?
+
+ANSWER
+To weep,
+To sigh, to sob, to pine, to groan,
+To wring my hands, to sit alone.
+
+QUESTION
+Oh when, oh when, shall sorrow quiet have?
+
+ANSWER
+Never, never, never, never,
+Never till she finds a grave.
+
+Enter Cornego.
+
+CORNEGO
+No lesson Madam but Lacrymae's? <3> If you had buried nine husbands, so much
+water as you might squeeze out of an onion had been tears enough to cast away upon
+fellows that cannot thank you. Come, be jovial.
+
+ONAELIA
+Sorrow becomes me best.
+
+CORNEGO
+A suit of laugh and lie down would wear better.
+
+ONAELIA
+What should I do to be merry, Cornego?
+
+CORNGO
+Be not sad.
+
+ONELIA
+But what's the best mirth in the world?
+
+CORNEGO
+Marry this, to see much, say little, do little, get little, spend
+little and want nothing.
+
+ONELIA
+Oh, but there is a mirth beyond all these;
+This picture has so vexed me, I'm half mad,
+To spite it therefore, I'll sing any song
+Thyself shall tune. Say then, what mirth is best?
+
+CORNEGO
+Why then Madam, what I knock out now is the very marrowbone of mirth
+and this it is.
+
+ONELIA
+Say on.
+
+CORNEGO
+The best mirth for a lawyer is to have fools to his clients; for
+citizens to have noblemen pay for their debts; for tailors to have
+store of satin brought in, for then how little soever their houses
+are, they will be sure to have large yards. The best mirth for bawds
+is to have fresh handsome whores, and for whores to have rich gulls
+come aboard their pinnaces <4>, for then they are sure to build
+galleasses <5>.
+
+ONELIA
+These to such souls are mirth, but to mine, none.
+Away.
+
+Exit Cornego, Enter Cardinal.
+
+CARDINAL
+Peace to you, Lady.
+
+ONELIA
+I will not sin so much as to hope for peace
+And 'tis a mock ill suits your gravity.
+
+CARDINAL
+I come to knit the nerves of your lost strength,
+To build your ruins up, to set you free
+From this your voluntary banishment,
+And give new being to your murdered fame.
+
+ONELIA
+What Aesculapius <6> can do this?
+
+CARDINAL
+'Tis from the King I come.
+
+ONELIA
+A name I hate.
+Oh, I am deaf now to your embassy.
+
+CARDINAL
+Hear what I speak.
+
+ONELIA
+Your language breathed from him
+Is death's sad doom upon a wretch condemned.
+
+CARDINAL
+Is it such poison?
+
+ONELIA
+Yes, and were you crystal,
+What the King fills you with would make you break.
+You should my Lord, be like these robes you wear,
+Pure as the dye, and like that reverend shape
+Nurse thoughts as full of honour, zeal and purity.
+You should be the court-dial, and direct
+The King with constant motion, be ever beating,
+Like to clock-hammers, on his iron heart
+To make it sound clear and to feel remorse.
+You should unlock his soul, wake his dead conscience
+Which, like a drowsy sentinel, gives leave
+For sin's vast armies to beleaguer him.
+His ruins will be asked for at your hands.
+
+CARDINAL
+I have raised up a scaffolding to save
+Both him and you from falling. Do but hear me.
+
+ONAELIA
+Be dumb for ever.
+
+CARDINAL
+Let your fears thus die:
+By all the sacred relics of the church
+And by my holy orders, what I minister
+Is even the spirit of health.
+
+ONAELIA
+I'll drink it down into my soul at once.
+
+CARDINAL
+You shall.
+
+ONAELIA
+But swear.
+
+CARDINAL
+What conjurations can more bind my oath?
+
+ONAELIA
+But did you swear in earnest?
+
+CARDINAL
+Come, you trifle.
+
+ONAELIA
+No marvel, for my hopes have been so drowned
+I still despair, say on.
+
+CARDINAL
+The King repents.
+
+ONAELIA
+Pray, that again my Lord.
+
+CARDINAL
+The King repents.
+
+ONAELIA
+His wrongs to me?
+
+CARDINAL
+His wrongs to you. The sense of sin
+Has pierced his soul.
+
+ONAELIA
+Blessed penitence!
+
+CARDINAL
+Has turned his eyes <7> into his leprous bosom
+And like a king vows execution
+On all his traitorous passions.
+
+ONAELIA
+God-like justice!
+
+CARDINAL
+Intends in person presently to beg
+Forgiveness for his acts from heaven and you.
+
+ONAELIA
+Heaven pardon him. I shall.
+
+CARDINAL
+Will marry you.
+
+ONAELIA
+Umh! Marry me? Will he turn bigamist?
+When? When?
+
+CARDINAL
+Before the morrow sun hath rode
+Half his day's journey, will send home his Queen
+As one that stains his bed, and can produce
+Nothing but bastard issue to his crown.
+Why, how now? Lost in wonder and amazement?
+
+ONAELIA
+I am so stored with joy that I can now
+Strongly wear out more years of misery
+Than I have lived.
+
+Enter King.
+
+CARDINAL
+You need not: here is the King.
+
+KING
+Leave us.
+
+Exit Cardinal.
+
+ONAELIA
+With pardon sir, I will prevent you
+And charge upon you first.
+
+KING
+'Tis granted, do.
+But stay, what mean these emblems of distress?
+My picture so defaced, opposed against
+A holy cross! Room hung in black, and you
+Dressed like chief mourner at a funeral?
+
+ONAELIA
+Look back upon your guilt, dear Sir, and then
+The cause that now seems strange explains itself.
+This and the image of my living wrongs
+Is still confronted by me to beget
+Grief like my shame, whose length may outlive time.
+This cross, the object of my wounded soul
+To which I pray to keep me from despair;
+That ever as the sight of one throws up
+Mountains of sorrow on my accursed head.
+Turning to that, mercy may check despair
+And bind my hands from wilful violence.
+
+KING
+But who has played the tyrant with me thus,
+And with such dangerous spite abused my picture?
+
+ONAELIA
+The guilt of that lays claim sir, to yourself
+For being, by you, ransacked of all my fame,
+Robbed of mine honour and dear chastity,
+Made, by your act, the shame of all my house,
+The hate of good men and the scorn of bad,
+The song of broom-men and the murdering vulgar,
+And left alone to bear up all these ills
+By you begun, my breast was filled with fire
+And wrapped in just disdain, and like a woman
+On that dumb picture wreaked I my passions.
+
+KING
+And wished it had been I.
+
+ONAELIA
+Pardon me Sir,
+My wrongs were great, and my revenge swelled high.
+
+KING
+I will descend and cease to be a King,
+To leave my judging part, freely confessing
+Thou canst not give thy wrongs too ill a name.
+And here to make thy apprehension full,
+And seat thy reason in a sound belief
+I vow tomorrow, ere the rising sun
+Begins his journey, with all ceremonies
+Due to the Church, to seal our nuptials,
+To prive <8> thy son with full consent of state,
+Spain's heir apparent, born in wedlock's vows.
+
+ONAELIA
+And will you swear to this?
+
+KING
+By this I swear.
+
+[Takes up Bible.]
+
+ONAELIA
+Oh, you have sworn false oaths upon that book!
+
+KING
+Why then, by this.
+
+[Takes up crucifix.]
+
+ONAELIA
+Take heed you print it deeply:
+How for your concubine, bride I cannot say,
+She stains your bed with black adultery,
+And though her fame masks in a fairer shape
+Than <9> mine to the world's eye, yet King, you know
+Mine honour is less strumpeted than hers,
+However butchered in opinion.
+
+KING
+This way for her, the contract which thou hast,
+By best advice of all our Cardinals,
+Today shall be enlarged till it be made
+Past all dissolving. Then to our council table
+Shall she be called, that read aloud, she told
+The church commands her quick return for Florence
+With such a dower as Spain received with her,
+And that they will not hazard heaven's dire curse
+To yield to a match unlawful, which shall taint
+The issue of the King with bastardy.
+This done, in state majestic come you forth,
+Our new crowned Queen in sight of all our peers.
+Are you resolved?
+
+OMAELIA
+To doubt of this were treason
+Because the King has sworn it.
+
+KING
+And will keep it.
+Deliver up the contract then, that I
+May make this day end with thy misery.
+
+ONAELIA
+Here as the dearest Jewel of my fame
+Locked I this parchment from all viewing eyes.
+This your indenture, held alone the life
+Of my supposed dead honour; yet behold,
+Into your hands I redeliver it.
+Oh keep it Sir, as you should keep that vow,
+To which, being signed by heaven, even angels bow.
+
+[Onaelia passes the document to the King.]
+
+KING
+'Tis in the lion's paw, and who dares snatch it?
+Now to your beads and crucifix again.
+
+ONAELIA
+Defend me heaven!
+
+KING
+Pray there may come Embassadors from France
+Their followers are good customers.
+
+ONAELIA
+Save me from madness!
+
+KING
+'Twill raise the price, being the King's mistress.
+
+ONAELIA
+You do but counterfeit to mock my joys.
+
+KING
+Away bold strumpet!
+
+ONAELIA
+Are there eyes in heaven to see this?
+
+KING
+Call and try, here's a whore's curse
+To fall in that belief, which her sins nurse.
+
+Exit King, Enter Cornego.
+
+CORNEGO
+How now? What quarter of the moon has she cut out now? My Lord puts
+me into a wise office to be a mad-woman's keeper. Why, Madam!
+
+ONAELIA
+Ha! Where is the King, thou slave?
+
+[Clutches Cornego.]
+
+CORNEGO
+Let go your hold, or I'll fall upon you as I am a man.
+
+ONAELIA
+Thou treacherous caitiff <10>, where is the King?
+
+CORNEGO
+He's gone, but not so far as you are.
+
+ONAELIA
+Crack all in sunder, oh you battlements,
+And grind me into powder
+
+CORNEGO
+What powder? Come, what powder? When did you ever see a woman grinded
+into powder? I am sure some of your sex powder men, and pepper them
+too.
+
+ONAELIA
+Is there a vengeance yet lacking to my ruin?
+Let it fall, now let it fall upon me!
+
+CORNEGO
+No, there has been too much fallen upon you already.
+
+ONAELIA
+Thou villain, leave thy hold, I'll follow him
+Like a raised ghost, I'll haunt him, break his sleep,
+Fright him as he is embracing his new leman <11>,
+Til want of rest bids him run mad and die,
+For making oaths bawds to his perjury.
+
+CORNEGO
+Pray be more seasoned, if he make any bawds, he did ill, for there is
+enough of that fly-blown flesh already.
+
+ONAELIA
+I'm left quite naked now; all gone, all, all.
+
+CORNEGO
+No Madam, not all, for you cannot be rid of me.
+Here comes your Uncle.
+
+Enter Medina.
+
+ONAELIA
+Attired in robes of vengeance, are you uncle?
+
+MEDINA
+More horrors yet?
+
+ONAELIA
+'Twas never full till now,
+And in this torrent all my hopes lie drowned.
+
+MEDINA
+Instruct me in the cause.
+
+ONAELIA
+The King, the contract!
+
+Exit Onaelia.
+
+CORNEGO
+That's cud enough for you to chew upon.
+
+Exit Cornego.
+
+MEDINA
+What's this? A riddle. How? The King, the contract.
+The mischief I divine which proving true,
+Shall kindle fires in Spain to melt his crown
+Even from his head. Here's the decree of fate:
+A black deed must a black deed expiate.
+
+Exit Medina.
+
+ACT 2 SCENE 1
+
+Enter Balthazar, [having been] slighted by the Dons.
+
+BALTHAZAR
+Thou god of good apparel, what strange fellows are bound to do thee
+honour. Mercer's <12> books show men's devotions to thee. Heaven
+cannot hold a saint so stately. Do not my dons know me because I'm
+poor in clothes? Stood my beaten tailor plaiting my rich hose, my
+silk stocking man drawing upon my Lordship's courtly calf pairs of
+imbroidered things, whose golden clocks strike deeper to the faithful
+shop-keeper's heart, than into mine to pay him. Had my barber
+perfumed my lousy thatch here and poked out me tusks more stiff than
+are a cats muschatoes <13>, these pied-winged butterflies had known
+me then. Another fly-boat! <14> Save thee illustrious Don.
+
+Enter Don Rodrigo.
+
+Sir, is the King at leisure to speak Spanish with a poor Soldier?
+
+RODRIGO
+No
+
+BALTHAZAR
+No, Sirah, you, no! You Don with the ochre face, I wish to have thee
+but on a breach, stifling with smoke and fire. And for thy no, but
+whiffing gunpowder out of an iron pipe, I would but ask thee
+if thou would'st on, and if thou did'st cry no, thou should'st read
+Canon Law. I'd make thee roar, and wear cut-beaten-satin. I would pay
+thee though thou payest not thy mercer. Mere Spanish jennets! <15>
+
+Enter Cockadillio.
+
+Signor, is the King at leisure?
+
+COCKADILLO
+To do what?
+
+BALTHAZAR
+To hear a soldier speak.
+
+COCKADILLO
+I am no ear picker
+To sound his hearing that way.
+
+BALTHAZAR
+Are you of court sir?
+
+COCKADILLO
+Yes, the King's barber.
+
+BALTHAZAR
+That's his ear picker. Your name, I pray.
+
+COCKADILLO
+Don Cockadillio
+If, soldier, thou hast suits to beg at court,
+I shall descend so low as to betray
+Thy paper to the hand Royal.
+
+BALTHAZAR
+I beg, you whorson muscod <16>! My petition is written on my bosom in
+red wounds.
+
+COCKADILLO
+I am no barber-surgeon.
+
+Exit Cockadillio.
+
+BALTHAZAR
+You yellowhammer, why, shaver: that such poor things as these, only
+made up of tailor's shreds and merchant's silken rags and 'pothecary
+drugs to lend their breath sophisticated smells, when their rank guts
+stink worse than cowards in the heat of battle. Such whaleboned-
+doublet rascals, that owe more to laundresses and seamsters for laced
+linen than all their race from their great grand-father to this their
+reign, in clothes were ever worth.
+These excrements of silk worms! Oh that such flies do buzz about the
+beams of Majesty, like earwigs tickling a King's yielding ear with
+that court-organ, flattery, when a soldier must not come near the
+court gates twenty score, but stand for want of clothes, though he
+win towns, amongst the almsbasket-men! His best reward being scorned
+to be a fellow to the blackguard. Why should a soldier, being the
+world's right arm, be cut thus by the left, a courtier? Is the world
+all ruff and feather and nothing else? Shall I never see a tailor
+give his coat with a difference from a gentleman?
+
+Enter King, Alanzo, Carlo, Cockadillio.
+
+KING
+My Balthazar!
+Let us make haste to meet thee. How art thou altered?
+Do you not know him?
+
+ALANZO
+Yes Sir, the brave soldier
+Employed against the Moors
+
+KING
+Half turned Moor!
+I'll honour thee, reach him a chair, that table
+And now, Aeneas-like, let thine own trumpet
+Sound forth thy battle with those slavish Moors.
+
+BALTHAZAR
+My music is a Cannon, a pitched field my stage, Furies the actors,
+blood and vengeance the scene, death the story, a sword imbrued with
+blood, the pen that writes, and the poet a terrible buskined <17>
+tragical fellow, with a wreath about his head of burning match
+instead of bays.
+
+KING
+On to the battle.
+
+BALTHAZAR
+'Tis here without bloodshed. This our main battalia, that the van,
+this the vaw <18>, these the wings, here we fight, there they fly,
+here they insconce <19>, and here our sconces <20> lay seventeen
+moons on the cold earth.
+
+KING
+This satisfies my eye, but now my ear
+Must have his music too. Describe the battle.
+
+BALTHAZAR
+The battle? Am I come from doing to talking? The hardest part for a
+soldier to play is to prate well. Our tongues are fifes, drums,
+petronels <21>, muskets, culverin <22> and cannon. These are our
+roarers, the clocks which we go by are our hands. Thus we reckon ten,
+our swords strike eleven and when steel targets of proof clatter one
+against another, then 'tis noon that's the height and the heat of the
+day of battle.
+
+KING
+So.
+
+BALTHAZAR
+
+To that heat we came, our drums beat, pikes were shaken and shivered,
+swords and targets clashed and clattered, muskets rattled cannons
+roared, men died groaning, brave laced jerkings and feathers looked
+pale, tottered rascals fought pell mell. Here fell a wing, there
+heads were tossed like footballs, legs and arms quarrelled in the air
+and yet lay quietly on the earth. Horses trampled upon heaps of
+carcasses, troops of carbines tumbled wounded from their horses, we
+besiege Moors and famine us, mutinies bluster and are calm. I vowed
+not to doff mine armour though my flesh were frozen to it and turn
+into iron, nor to cut head nor beard till they yielded. My hairs and
+oath are of one length for, with Caesar, thus write I mine own story:
+veni, vidi, vici.
+
+KING
+A pitched field, quickly fought. Our hand is thine,
+And because thou shalt not murmur that thy blood
+Was lavished forth for an ungrateful man,
+Demand what we can give thee and 'tis thine.
+
+BALTHAZAR
+Only your love.
+
+KING
+'Tis thine, rise soldier's best accord
+When wounds of wrong are healed up by the sword.
+
+Onaelia knocks loudly at the door.
+
+ONAELIA
+Let me come in, I'll kill the treacherous King,
+The murderer of mine honour, let me come in.
+
+KING
+What woman's voice is that?
+
+ALL
+Medina's niece.
+
+KING
+Bar out that fiend.
+
+ONAELIA
+I'll tear him with my nails,
+Let me come in, let me come in, help, help me.
+
+KING
+Keep her from following me. A guard.
+
+ALANZO
+They are ready, sir.
+
+KING
+Let a quick summons call our Lords together,
+This disease kills me.
+
+BALTHAZAR
+Sir, I would be private with you.
+
+KING
+Forebear us, but see the doors are well guarded.
+
+Exeunt [King and Balthazar remain].
+
+BALTHAZAR
+Will you, Sir, promise to give me freedom of speech?
+
+KING
+Yes, I will, take it, speak any thing, 'tis pardoned.
+
+BALTHAZAR
+You are a whoremaster. Do you send me to win towns for you abroad and
+you lose a kingdom at home?
+
+KING
+What kingdom?
+
+BALTHAZAR
+The fairest in the world, the kingdom of your fame, your honour.
+
+KING
+Wherein?
+
+BALTHAZAR
+I'll be plain with you. Much mischief is done by the mouth of a
+cannon, but the fire begins at a little touch-hole. You heard what
+nightingale sung to you even now.
+
+KING
+Ha, ha, ha!
+
+BALTHAZAR
+Angels erred but once and fell, but you Sir, spit in heaven's face
+every minute and laugh at it. Laugh still, follow your courses, do.
+Let your vices run like your kennels of hounds, yelping after you
+till they pluck down the fairest head in the herd, everlasting bliss.
+
+KING
+Any more?
+
+BALTHAZAR
+Take sin as the English snuff tobacco, and scornfully blow the smoke
+in the eyes of heaven, the vapour flies up in clouds of bravery. But
+when 'tis out, the coal is black, your conscience, and the pipe
+stinks. A sea of rosewater cannot sweeten your corrupted bosom.
+
+KING
+Nay, spit thy venom.
+
+BALTHAZAR
+'Tis Aqua Coelestis <23>, no venom. For when you shall clasp up these
+two books, never to be opened again, when by letting fall that anchor
+which can never more be weighed up, your mortal navigation ends. Then
+there's no playing at spurn-point <24> with thunderbolts. A vintner
+then for unconscionable reckoning or a tailor for unmeasurable items
+shall not answer in half that fear you must.
+
+KING
+No more.
+
+BALTHAZAR
+I will follow truth at the heels, though her foot beat my gums in
+pieces.
+
+KING
+The barber that draws out a lion's tooth
+Curseth his trade; and so shalt thou.
+
+BALTHAZAR
+I care not.
+
+KING
+Because you have beaten a few base-born moors,
+Me think'st thou to chastise? What is past I pardon,
+Because I made the key to unlock thy railing;
+But if thou dar'st once more be so untuned
+I'll sent thee to the galleys. Who are without there,
+How now?
+
+Enter [guards and attendants] drawn.
+
+ALL
+In danger, Sir?
+
+KING
+Yes, yes, I am, but 'tis no point of weapon
+Can rescue me. Go presently and summon
+All our chief Grandees, Cardinals, and Lords
+Of Spain to meet in Council instantly.
+We called you forth to execute a business
+Of another strain - but 'tis no matter now.
+Thou diest when next thou furrowest up our brow.
+
+BALTHAZAR
+So, die!
+
+Exit Balthazar, enter Cardinal, Rodrigo, Alba, Daenia, Valasco.
+
+KING
+I find my sceptre shaken by enchantments
+Charactered in this parchment, which to unloose,
+I'll practice only counter-charms of fire,
+And blow the spells of lightening into smoke:
+Fetch burning tapers.
+
+[Exit attendant who returns with light.]
+
+CARDINAL
+Give me audience, Sir.
+My apprehension opens me a way
+To a close fatal mischief, worse than this
+You strive to murder. Oh, this act of yours
+Alone shall give your dangers life, which else
+Can never grow to height. Do, Sir, but read
+A book here closed up, which too late you opened,
+Now blotted by you with foul marginal notes.
+
+KING
+Art frantic?
+
+CARDINAL
+You are so, Sir.
+
+KING
+If I be,
+Then here's my first mad fit.
+
+CARDINAL
+For honour's sake,
+For love you bear to conscience -
+
+KING
+Reach the flames:
+Grandees and Lords of Spain be witness all
+What here I cancel. Read, do you know this bond?
+
+ALL
+Our hands are to it.
+
+DAENIA
+'Tis your confirmed contract
+With my sad kinswoman: but wherefore Sir,
+Now is your rage on fire, in such a presence
+To have it mourn in ashes?
+
+KING
+Marquis Daenia
+We'll lend that tongue, when this no more can speak.
+
+CARDINAL
+Dear Sir!
+
+KING
+I am deaf,
+Played the full concert of the spheres unto me
+Upon their loudest strings - so burn that witch
+Who would dry up the tree of all Spain's glories,
+But that I purge her sorceries by fire.
+
+[Burns contract.]
+
+Troy lies in cinders. Let your Oracles
+Now laugh at me if I have been deceived
+By their ridiculous riddles. Why, good father,
+Now you may freely chide, why was your zeal
+Ready to burst in showers to quench our fury?
+
+CARDINAL
+Fury indeed, you give it proper name.
+What have you done? Closed up a festering wound
+Which rots the heart. Like a bad surgeon,
+Labouring to pluck out from your eye a mote,
+You thrust the eye clean out.
+
+KING
+Th'art mad ex tempore:
+What eye? Which is that wound?
+
+CARDINAL
+That scroll, which now
+You make the black indenture of your lust
+Although eat up in flames, is printed here,
+In me, in him, in these, in all that saw it,
+In all that ever did but hear 'twas yours.
+The scold of the whole world, fame, will anon
+Rail with her thousand tongues at this poor shift
+Which gives your sin a flame greater than that
+You lend the paper. You to quench a wild fire,
+Cast Oil upon it.
+
+KING
+Oil to blood shall turn,
+I'll lose a limb before the heart shall mourn.
+
+Exeunt, Daenia and Alba remain.
+
+DAENIA
+He's mad with rage or joy.
+
+ALBA
+With both; with rage
+To see his follies checked, with fruitless joy
+Because he hopes his contract is cut off,
+Which divine justice more exemplifies.
+
+Enter Medina.
+
+MEDINA
+Where's the King?
+
+DAENIA
+Wrapped up in clouds of lightning.
+
+MEDINA
+What has he done? Saw you the contract torn?
+As I did here a minion swear he threatened.
+
+ALBA
+He tore it not, but burned it.
+
+MEDINA
+Openly!
+
+DAENIA
+And heaven with us to witness.
+
+MEDINA
+Well, that fire
+Will prove a catching flame to burn his kingdom.
+
+ALBA
+Meet and consult.
+
+MEDINA
+No more, trust not the air
+With our projections, let us all revenge
+Wrongs done to our most noble kinswoman.
+Action is honours language, swords are tongues,
+Which both speak best, and best do right our wrongs.
+
+Exeunt.
+
+ACT 2 SCENE 2
+
+Enter Onaelia from one way, Cornego another.
+
+CORNEGO
+Madam, there's a bear without to speak with you
+
+ONAELIA
+A bear?
+
+CORNEGO
+It's a man all hair, and that's as bad.
+
+ONAELIA
+Who is it?
+
+CORNEGO
+'Tis one Master Captain Balthazar.
+
+ONAELIA
+I do not know that Balthazar.
+
+CORNEGO
+He desires to see you: and if you love a water-spaniel before he be
+shorn, see him.
+
+ONAELIA
+Let him come in.
+
+Enter Balthazar.
+
+CORNEGO
+Hist; a duck, a duck. There she is, Sir.
+
+BALTHAZAR
+A soldier's good wish bless you lady.
+
+ONAELIA
+Good wishes are most welcome Sir, to me,
+So many bad ones blast me.
+
+BALTHAZAR
+Do you not know me?
+
+ONAELIA
+I scarce know myself.
+
+BALTHAZAR
+I have been at tennis Madam, with the king. I gave him fifteen and
+all his faults, which is much, and now I come to toss a ball with
+you.
+
+ONAELIA
+I am bandied too much up and down already.
+
+CORNEGO
+Yes, she has been struck under line, master soldier.
+
+BALTHAZAR
+I conceit you, dare you trust yourself alone with me?
+
+ONAELIA
+I have been laden with such weights of wrong
+That heavier cannot press me. Hence Cornego.
+
+CORNEGO
+Hence Cornego? Stay Captain? When man and woman are put together,
+Some egg of villainy is sure to be sat upon.
+
+Exit Cornego.
+
+BALTHAZAR
+What would you say to him should kill this man that hath you so
+dishonoured?
+
+ONAELIA
+Oh, I would Crown him
+With thanks, praise, gold and tender of my life.
+
+BALTHAZAR
+Shall I be that German fencer, and beat all the knocking boys before
+me? Shall I kill him?
+
+ONAELIA
+There's music in the tongue that dares but speak it.
+
+BALTHAZAR
+That fiddle then is in me, this arm can do it, by poniard, poison or
+pistol: but shall I do it indeed?
+
+ONAELIA
+One step to human bliss is sweet revenge.
+
+BALTHAZAR
+Stay. What made you love him?
+
+ONAELIA
+His most goodly shape
+Married to royal virtues of his mind.
+
+BALTHAZAR
+Yet now you would divorce all that goodness; and why? For a little
+lechery of revenge? It's a lie. The burr that sticks in your throat
+is a throne. Let him out of his mess of kingdoms cut out but one, and
+lay Sicily, Aragon or Naples or any else upon your trencher <25>, and
+you will praise bastard <26> for the sweetest wine in the world, and
+call for another quart of it. 'Tis not because the man has left you,
+but because you are not the woman you would be that mads you. A she-
+cuckold is an untameable monster.
+
+ONAELIA
+Monster of men thou are, thou bloody villain,
+Traitor to him who never injured thee.
+Dost thou profess arms, and art bound in honour
+To stand up like a brazen wall to guard
+Thy king and country, and would'st thou ruin both?
+
+BALTHAZAR
+You spur me on to it.
+
+ONAELIA
+True;
+Worse am I then the horridest fiend in hell
+To murder him who I once loved too well:
+For thou I could run mad, and tear my hair,
+And kill that godless man that turned me vile,
+Though I am cheated by a purjurious Prince
+Who has done wickedness, at which even heaven
+Shakes when the sun beholds it, O yet I'd rather
+Ten thousand poisoned poniards stab my breast
+Than one should touch his. Bloody slave! I'll play
+Myself the hangman, and will butcher thee
+If thou but prickest his finger.
+
+BALTHAZAR
+Sayest thou me so! Give me thy goll <27>, thou are a noble girl. I
+did play the Devil's part, and roar in a feigned voice, but I am the
+honestest Devil that ever spat fire. I would not drink that infernal
+draft of a King's blood, to go reeling to damnation, for the weight
+of the world in diamonds.
+
+ONAELIA
+Art thou not counterfeit?
+
+BALTHAZAR
+Now by my scars I am not.
+
+ONAELIA
+I'll call thee honest soldier then, and woo thee
+To be an often visitant.
+
+BALTHAZAR
+Your servant,
+Yet must I be a stone upon a hill,
+For thou I do no good, I'll not lie still.
+
+Exeunt.
+
+ACT THREE SCENE ONE
+
+Enter Malateste and the Queen.
+
+MALATESTE
+When first you came from Florence, would the world
+Had with a universal dire eclipse
+Been overwhelmed, no more to gaze on day,
+That you to Spain had never found the way,
+Here to be lost forever.
+
+QUEEN
+We from one climate
+Drew suspiration <28>. As thou then hast eyes
+To read my wrongs, so be thy head an engine
+To raise up ponderous mischief to the height,
+And then thy hands, the executioners.
+A true Italian spirit is a ball
+Of wild-fire, hurting most when it seems spent.
+Great ships on small rocks, beating oft are rent.
+And so, let Spain by us. But Malateste,
+Why from the presence did you single me
+Into this gallery?
+
+MALATESTE
+To show you Madam,
+The picture of yourself, but so defaced,
+And mangled by proud Spaniards, it would whet
+A sword to arm the poorest Florentine
+In your just wrongs.
+
+QUEEN
+As how? Let's see that picture.
+
+MALATESTE
+Here 'tis then: time is not scarce four days old,
+Since I, and certain Dons, sharp-witted fellows,
+And of good rank, were with two Jesuits
+Grave profound scholars, in deep argument
+Of various propositions. At the last,
+Question was moved touching your marriage
+And the King's pre-contract.
+
+QUEEN
+So, and what followed?
+
+MALATESTE
+Whether it were a question moved by chance,
+Or spitefully of purpose, I being there,
+And your own Countryman, I cannot tell.
+But when much tossing had bandied both the King
+And you, as pleased those that took up the racquets.
+In conclusion, the Father Jesuits,
+To whose subtle music every ear there
+Was tied, stood with their lives in stiff defence
+Of this opinion - oh pardon me
+If I must speak their language.
+
+QUEEN
+Say on.
+
+MALATESTE
+That the most Catholic king in marrying you,
+Keeps you but as his whore.
+
+QUEEN
+Are we their themes?
+
+MALATESTE
+And that Medina's niece, Onaelia,
+Is his true wife. Her bastard son they said
+The King being dead, should claim and wear the crown,
+And whatsoever children you shall bear,
+To be but bastards in the highest degree,
+As being begotten in adultery.
+
+QUEEN
+We will not grieve at this, but with hot vengeance
+Beat down this armed mischief. Malateste!
+What whirlwinds can we raise to blow this storm
+Back in their faces who thus shoot at me?
+
+MALATESTE
+If I were fit to be your councillor,
+Thus would I speak - feign that you are with child.
+The mother of the maids, and some worn ladies
+Who oft have guilty being to court great bellies,
+May though it not be so, get you with child
+With swearing that 'tis true.
+
+QUEEN
+Say 'tis believed,
+Or that it so doth prove?
+
+MALATESTE
+The joy thereof,
+Together with these earthquakes, which will shake
+All Spain, if they their Prince do disinherit,
+So borne, of such a Queen, being only daughter
+To such a brave spirit as Duke of Florence.
+All this buzzed into the King, he cannot choose
+But charge that all the bells in Spain echo up
+This joy to heaven, that bonfires change the night
+To a high noon, with beams of sparkling flames;
+And that in Churches, organs, charmed with prayers,
+Speak loud for your most safe delivery.
+
+QUEEN
+What fruits grow out of these?
+
+MALATESTE
+These; you must stick,
+As here and there spring weeds in banks of flowers,
+Spies amongst the people, who shall lay their ears
+To every mouth, and seal to you their whispering.
+
+QUEEN
+So.
+
+MALATESTE
+'Tis a plummet to sound Spanish hearts
+How deeply they are yours. Besides a guesse <29>
+Is hereby made of any faction
+That shall combine against you, which the King seeing,
+If then he will not rouse him like a dragon
+To guard his golden fleece, and rid his harlot
+And her base bastard hence, either by death,
+Or in some traps of state ensnare them both,
+Let his own ruins crush him.
+
+QUEEN
+This goes to trial.
+Be thou my magic book, which reading o'er
+Their counterspells we'll break; or if the King
+Will not by strong hand fix me in his Throne,
+But that I must be held Spain's blazing star,
+Be it an ominous charm to call up war.
+
+ACT THREE SCENE TWO
+
+Enter Cornego and Onaelia.
+
+CORNEGO
+Here's a parcel of man's flesh has been hanging up and down all this
+morning to speak with you.
+
+ONAELIA
+Is't not some executioner?
+
+CORNEGO
+I see nothing about him to hang in but his garters.
+
+ONAELIA
+Sent from the King to warn me of my death:
+I prithee bid him welcome.
+
+CORNEGO
+He says he is a poet.
+
+ONAELIA
+Then bid him better welcome.
+Belike he's come to write my epitaph,
+Some scurvy thing I'll warrant. Welcome Sir.
+
+Enter Poet.
+
+POET
+Madam, my love presents this book unto you.
+
+ONAELIA
+To me? I am not worthy of a line,
+Unless at that Line hang some hook to choke me:
+
+[Onaelia reads book.]
+
+To the Most Honoured Lady - Onaelia.
+Fellow thou liest, I'm most dishonoured:
+Thou should'st have writ to the most wronged Lady.
+The title of this book is not to me,
+I tear it therefore as mine honour's torn.
+
+CORNEGO
+Your verses are lamed in some of their feet, Master poet.
+
+ONAELIA
+What does it treat of?
+
+POET
+Of the solemn triumphs
+Set forth at coronation of the Queen.
+
+ONAELIA
+Hissing, the poet's whirlwind, blast thy lines!
+Com'st thou to mock my tortures with her triumphs?
+
+POET
+'Las Madam!
+
+ONAELIA
+When her funerals are past,
+Crown thou a dedication to my joys,
+And thou shalt swear each line a golden verse.
+Cornego, burn this idol.
+
+CORNGO
+Your book shall come to light, Sir.
+
+Exit Cornego [with book.]
+
+ONAELIA
+I have read legends of disastrous dames;
+Will none set pen to paper for poor me?
+Canst write a bitter satire? Brainless people
+Do call them libels. Darest thou write a libel?
+
+POET
+I dare mix gall and poison with my ink.
+
+ONAELIA
+Do it then for me.
+
+POET
+And every line must be
+A whip to draw blood.
+
+ONAELIA
+Better.
+
+POET
+And to dare
+The stab from him it touches. He that writes
+Such libels, as you call them, must launch wide
+The sores of men's corruptions, and even search
+To the quick for dead flesh, or for rotten cores:
+A poet's ink can better cure some sores
+Than surgeon's balsam.
+
+ONAELIA
+Undertake that cure
+And crown thy verse with bays.
+
+POET
+Madam, I'll do it,
+But I must have the party's character.
+
+ONAELIA
+The King.
+
+POET
+I do not love to pluck the quills,
+With which I make pens, out of a lion's claw.
+The King! Should I be bitter 'gainst the King,
+I shall have scurvy ballads made of me,
+Sung to the hanging tune. I dare not, Madam.
+
+ONAELIA
+This baseness follows your profession.
+You are like common beadles, apt to lash
+Almost to death poor wretches not worth striking,
+But fawn with slavish flattery on damned vices
+So great men act them. You clap hands at those,
+Where the true poet indeed doth scorn to guild
+A gaudy tomb with glory of his verse,
+Which coffins stinking carrion. No, his lines
+Are free as his invention. No base fear
+Can shake his pen to temporise even with kings,
+The blacker are their crimes, he louder sings.
+Go, go, thou canst not write: 'tis but my calling
+The muses help, that I may be inspired.
+Canst a woman be a poet, Sir?
+
+POET
+Yes, Madam, best of all. For poesie
+Is but feigning, feigning is to lie,
+And women practice lying more than men.
+
+ONAELIA
+Nay, but if I should write, I would tell truth.
+How might I reach a lofty strain?
+
+POET
+Thus Madam:
+Books, music, wine, brave company and good cheer
+Make poets to soar high and sing most clear.
+
+ONAELIA
+Are they born poets?
+
+POET
+Yes.
+
+ONAELIA
+Die they?
+
+POET
+Oh, never die.
+
+ONAELIA
+My misery is then a poet sure,
+For time has given it an eternity.
+What sort of poets are there?
+
+POET
+Two sorts lady:
+The great poets and the small poets.
+
+ONAELIA
+Great and small!
+Which do you call the great? The fat ones?
+
+POET
+No:
+But such as have great heads, which emptied forth,
+Fill all the world with wonder at their lines;
+Fellows which swell big with the wind of praise.
+The small ones are but shrimps of poesie.
+
+ONAELIA
+Which in the kingdom now is the best poet?
+
+POET
+Emulation.
+
+ONAELIA
+Which the next?
+
+POET
+Necessity.
+
+ONAELIA
+And which the worst?
+
+POET
+Self-love.
+
+ONAELIA
+Say I turn poet, what should I get?
+
+POET
+Opinion.
+
+ONAELIA
+Alas, I have got too much of that already,
+Opinion is my evidence, judge and jury.
+Mine own guilt and opinion now condemn me.
+I'll therefore be no poet, no nor make
+Ten muses of your nine. I'll swear for this;
+Verses, though freely born, like slaves are sold,
+I crown thy lines with bays, thy love with gold:
+So fare thou well.
+
+POET
+Our pen shall honour thee.
+
+Exit Poet, enter Cornego.
+
+CORNEGO
+The poet's book Madam, has got the inflammation of the liver, it died
+of a burning fever.
+
+ONAELIA
+What shall I do, Cornego? For this poet
+Has filled me with a fury. I could write
+Strange satires now against adulterers,
+And marriage-breakers.
+
+CORNEGO
+I believe you Madam - but here comes your uncle.
+
+Enter Medina, Alanzo, Carlo, Alba, Sebastian, Daenia.
+
+MEDINA
+Where's our niece?
+Turn your brains round, and recollect your spirits,
+And see your noble friends and kinsmen ready
+To pay revenge his due.
+
+ONAELIA
+That word revenge,
+Startles my sleepy soul, now thoroughly wakened
+By the fresh object of my hapless child
+Whose wrongs reach beyond mine.
+
+SEBASTIAN
+How doth my sweet mother?
+
+ONAELIA
+How doth my prettiest boy?
+
+ALANZO
+Wrongs, like great whirlwinds,
+Shake highest battlements. Few for heaven would care,
+Should they be ever happy. They are half gods
+Who both in good days, and good fortune share.
+
+ONAELIA
+I have no part in either.
+
+CARLO
+You shall in both,
+Can swords but cut the way.
+
+ONAELIA
+I care not much, so you but gently strike him,
+And that my child escape the lightening.
+
+MEDINA
+For that our nerves are knit; is there not here
+A promising face of manly princely virtues,
+And shall so sweet a plant be rooted out
+By him that ought to fix it fast in the ground?
+Sebastian, what will you do to him
+That hurts your mother?
+
+SEBASTIAN
+The King my father shall kill him I trow.
+
+DAENIA
+But sweet cousin, the King loves not your mother.
+
+SEBASTIAN
+I'll make him love her when I am a King.
+
+MEDINA
+La you, there's in him a king's heart already.
+As therefore we before together vowed,
+Lay all your warlike hands upon my sword,
+And swear.
+
+SEBASTIAN
+Will you swear to kill me, Uncle?
+
+MEDINA
+Oh not for twenty worlds.
+
+SEBASTIAN
+Nay then draw and spare not, for I love fighting.
+
+MEDINA
+Stand in the midst, sweet coz, we are your guard.
+These hammers shall for thee beat out a crown
+If all hit right. Swear therefore, noble friends,
+By your high bloods, by true nobility,
+By what you owe religion, owe to your country,
+Owe to the raising your posterity,
+By love you bear to virtue, and to arms,
+The shield of innocence, swear not to sheath
+Your swords, when once drawn forth.
+
+ONAELIA
+Oh not to kill him
+For twenty thousand worlds.
+
+MEDINA
+Will you be quiet?
+Your swords when once drawn forth, till they have forced
+Yon godless, perjurous, perfidious man...
+
+ONAELIA
+Pray rail not at him so.
+
+MEDINA
+Art mad? You're idle
+Till they have forced him
+To cancel his late lawless bond he sealed
+At the high altar to his Florentine strumpet,
+And in his bed lay this his troth-plight wife.
+
+ONAELIA
+I, I that's well. Pray swear.
+
+ALL
+To this we swear.
+
+SEBASTIAN
+Uncle, I swear too.
+
+MEDINA
+Our forces let's unite, be bold and secret,
+And lion-like with open eyes let's sleep,
+Streams smooth and slowly running are most deep.
+
+Exeunt.

@@ -62,7 +62,10 @@ class Trainer(object):
         for author, title, period, url in self.json():
             filename = format_filename(author, title)
             if not filename in files:
+                logger.debug("Getting %s" % filename)
                 book = self.extractor.download_book(url, False, author, title, period)
+            else:
+                logger.debug("%s already downloaded" % filename)
 
     def train(self):
         logger.debug("      STARTING get_books")
