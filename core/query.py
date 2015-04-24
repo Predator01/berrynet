@@ -169,7 +169,6 @@ class Query(object):
                 buffer_elizabethan = elizabethan_factor
                 buffer_romantic = romantic_factor
                 # logger.debug( "e = %f, r = %f" % (elizabethan_factor, romantic_factor) )
-
         return elizabethan_factor, romantic_factor
 
     def top(self, count):
