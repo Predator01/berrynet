@@ -153,9 +153,8 @@ class Query(object):
         romantic_factor = 1
         for e, r in conditional_probabilities:
             if e != 0 and r != 0:
-                elizabethan_factor *= 10 * e * elizabethan_probability
-                romantic_factor *= 10 * r * romantic_probability
-                # logger.debug( "e = %f, r = %f" % (elizabethan_factor, romantic_factor) )
+                elizabethan_factor += 2 * e * elizabethan_probability
+                romantic_factor += 2 * r * romantic_probability
         return elizabethan_factor, romantic_factor
 
     def top(self, count):

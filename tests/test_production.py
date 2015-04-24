@@ -65,7 +65,7 @@ def _test_book(filename, period):
     with Query(text_dir, db_url, filepath, should_download=False) as q:
         e, r = q.results()
         if period == "Elizabethan":
-            assert e > r, filename
+            assert e > r, "%s, R=%f, E=%f" % (filename, r, e)
         else:
-            assert r > e, filename
+            assert r > e, "%s, R=%f, E=%f" % (filename, r, e)
 

@@ -8,16 +8,15 @@ from core.settings import BASE_DIR
 from .settings import TEST_TEXT_DIR
 
 class TestTrain(unittest.TestCase):
-  """
-  Tests that a book from sources does exist.
-  """
+    """
+    Tests that a book from sources does exist.
+    """
 
     def setUp(self):
         path = os.path.join(BASE_DIR, 'sources.json')
         self.trainer = train.Trainer(json_path=path, text_dir=TEST_TEXT_DIR, db_url="test.db")
 
-    def test_train(self):
-        
+    def test_train(self):        
         texts = [{"Period": period,
                   "Author": author,
                   "Title": title,
