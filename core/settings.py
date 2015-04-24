@@ -9,6 +9,8 @@ BASE_DIR = os.environ['BERRYNET_ROOT']
 
 TEXT_DIR = os.path.join(BASE_DIR, "texts")
 
+TEMP_DIR = os.path.join(BASE_DIR, 'temp')
+
 if not os.path.exists(os.path.join(BASE_DIR, "logs")):
     os.makedirs(os.path.join(BASE_DIR, "logs"))
 
@@ -47,4 +49,4 @@ LOGGING ={
 }
 
 
-logging.config.dictConfig(LOGGING)  
+logging.config.dictConfig(LOGGING)
