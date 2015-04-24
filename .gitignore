@@ -1,6 +1,5 @@
 .DS_Store
 *.sqlite
-*.db
 !tests/db/*.db
 !/berrynet_trim.db
 *.db-journal
