@@ -149,12 +149,26 @@ class Query(object):
         total_books = elizabethan_book_count + romantic_book_count
         elizabethan_probability = float(elizabethan_book_count) / total_books
         romantic_probability = float(romantic_book_count) / total_books
-        elizabethan_factor = 1
-        romantic_factor = 1
+        elizabethan_factor =  elizabethan_probability
+        romantic_factor =  romantic_probability
+        x = 0
         for e, r in conditional_probabilities:
             if e != 0 and r != 0:
-                elizabethan_factor += 2 * e * elizabethan_probability
-                romantic_factor += 2 * r * romantic_probability
+                # elizabethan_factor *= 10 * e * elizabethan_probability
+                # romantic_factor *= 10 * r * romantic_probability
+                if e < 0.1 or r < 0.1:
+                    elizabethan_factor *=  100 * e
+                    romantic_factor *= 100 * r
+                else:
+                    elizabethan_factor *=  e
+                    romantic_factor *= r
+
+                if elizabethan_factor == 0 or romantic_factor == 0 or elizabethan_factor == float('Inf') or romantic_factor == float('Inf'):
+                    return buffer_elizabethan, buffer_romantic
+
+                buffer_elizabethan = elizabethan_factor
+                buffer_romantic = romantic_factor
+                # logger.debug( "e = %f, r = %f" % (elizabethan_factor, romantic_factor) )
         return elizabethan_factor, romantic_factor
 
     def top(self, count):

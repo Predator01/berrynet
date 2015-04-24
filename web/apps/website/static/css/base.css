@@ -99,8 +99,8 @@ footer {
     margin-top:20px;
 }
 
-    .box input {
-        width:220px; 
+    .box textarea, .box input {
+        width:380px; 
         padding:4px 12px 4px 32px; 
         display:inline-block;
         position:relative;  
@@ -113,12 +113,13 @@ footer {
         font-family: Roboto; 
         border: 1px solid #CACACA; 
         background:#FFF; 
-        margin-left:-33px; 
+        margin-left:0px; 
         position:relative; 
         z-index:350;
     }
 
-    .box input:focus {
+
+    .box textarea:focus {
         outline:none;
     }
 
@@ -134,6 +135,14 @@ footer {
         background:#F85870;
         cursor:pointer;
         padding:10px 10px;
-        border-radius:2px;
+        border-radius:6px;
         border:1px solid #AEAEAE;
+    }
+
+    .box form * {
+        vertical-align: top;
+    }
+
+    .box input, .box button, .box i {
+        vertical-align: middle;
     }

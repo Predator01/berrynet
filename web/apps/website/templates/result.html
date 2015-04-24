@@ -22,7 +22,7 @@
 
 
 {% block content %}
-    <header style="position:fixed; padding:20px 20px 20px 120px; left:0; right:0;">
+    <header style=" padding:20px 20px 20px 120px; left:0; right:0;">
         <div class="logo" style="float:left; margin:0;">
             <div style="z-index:106;"></div>
             <div style="left:12px; z-index:102;"></div>
@@ -32,29 +32,32 @@
         </div> 
         <div class="box" style="float:left; margin:0 0 0 80px;">
             <form method="GET" action="analyze">
-                <i class="fa fa-link"></i>
-                <input placeholder="Insert a URL" type="text" name="url"></input>
+                <i class="fa fa-file-text-o"></i>
+                <input placeholder="Insert a text" type="text" name="text"></input>
                 <button type="submit"> Go </button>
             </form>
+        </div>
+        <div style="float:left; margin-left:60px;">
+            <span style="padding:8px 12px; border-radius:2px;  background:#766969; color:#FFF;"> 
+                Thy text is naturelike deem to be {% if elizabethan > romantic %} Elizabethan {% else %} Romantic {% endif %}
+            </span>
         </div>
     </header>
     <div class="display cell-border compact hover row-border stripe" style="padding:80px;">
         <table class="results table table-striped table-bordered dataTable no-footer" style=" ">
             <thead>
                 <tr>
-                    <th>Column 1</th>
-                    <th>Column 2</th>
+                    <th>Word</th>
+                    <th>Count</th>
                 </tr>
             </thead>
             <tbody>
+                {% for word, count in top %}
                 <tr>
-                    <td>Row 1 Data 1</td>
-                    <td>Row 1 Data 2</td>
+                    <td>{{ word }}</td>
+                    <td>{{ count }}</td>
                 </tr>
-                <tr>
-                    <td>Row 2 Data 1</td>
-                    <td>Row 2 Data 2</td>
-                </tr>
+                {% endfor %}
             </tbody>
         </table>
     </div>
