@@ -14,7 +14,10 @@ from web.apps.website import Website
 website = Website()
 
 application = DispatcherMiddleware(
-    website.get_app())
+    website.get_app(), {
+    '/berrynet': website.get_app()
+    }
+)
 
 
 if __name__ == "__main__":
