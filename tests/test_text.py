@@ -1,34 +1,33 @@
-import os
-import unittest
-import core.extract
-import core.settings
+# -*-coding:utf-8 -*-
 
-class TestText(unittest.TestCase):
+import unittest
+from core import train
+import os
+from core.settings import BASE_DIR
+
+from .settings import TEST_TEXT_DIR
+
+class TestTrain(unittest.TestCase):
+    """
+    Tests that a book from sources does exist.
+    """
 
     def setUp(self):
-        self.url = "http://www.gutenberg.org/cache/epub/7256/pg7256.txt"
-        self.author = "O. Henry"
-        self.title = "The Gift of the Magi"
-        self.period = "Unknown"
-        self.filename = "O. Henry-The Gift of the Magi.txt"
-        self.file_fullname = os.path.join(core.extract.TEXTS_FOLDER, self.filename)
-        self.file_default_name = os.path.join(core.extract.TEXTS_FOLDER, core.extract.DEFAULT_FILENAME)
+        path = os.path.join(BASE_DIR, 'sources.json')
+        self.trainer = train.Trainer(json_path=path, text_dir=TEST_TEXT_DIR, db_url="test.db")
 
-    def tearDown(self):
-        if os.path.isfile(self.file_fullname):
-            os.remove(self.file_fullname)
-        if os.path.isfile(self.file_default_name):
-            os.remove(self.file_default_name)
-
-    def test_get_text_without_query(self):
-        core.extract.get_text(self.url, query=False, author=self.author, title=self.title, period=self.period)
-        self.assertTrue(os.path.isfile(self.file_fullname))
-
-    def test_get_text_with_query(self):
-        core.extract.get_text(self.url, query=True, author=self.author, title=self.title, period=self.period)
-        self.assertTrue(os.path.isfile(self.file_default_name))
-
-    def test_read_text(self):
-        core.extract.get_text(self.url, query=False, author=self.author, title=self.title, period=self.period)
-        for k, v  in core.extract.read_text(self.file_fullname).items():
-            print k, v
+    def test_train(self):        
+        texts = [{"Period": period,
+                  "Author": author,
+                  "Title": title,
+                  "URL": url}
+                 for author, title, period, url
+                 in self.trainer.json()
+                ]
+        test_text = {
+            "Period": "Romantic",
+            "Author": "Percy Bysshe Shelley",
+            "Title": "A Defence of Poetry and Other Essays",
+            "URL": ""
+        }
+        self.assertIn(test_text, texts)

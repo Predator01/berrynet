@@ -1,0 +1,199 @@
+Project Gutenberg's Tamburlaine the Great, Part I., by Christopher Marlowe
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Tamburlaine the Great, Part I.
+
+Author: Christopher Marlowe
+
+Posting Date: August 5, 2008 [EBook #1094]
+Release Date: November, 1997
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK TAMBURLAINE THE GREAT, PART I. ***
+
+
+
+
+Produced by Gary R. Young
+
+
+
+
+
+TAMBURLAINE THE GREAT,
+
+IN TWO PARTS.
+
+This is Part I.
+
+By Christopher Marlowe
+
+Edited By The Rev. Alexander Dyce.
+
+
+TRANSCRIBER'S COMMENTS ON THE PREPARATION OF THE E-TEXT:
+
+
+SQUARE BRACKETS:
+
+The square brackets, i.e. [ ] are copied from the printed book,
+without change, except that the stage directions usually do not
+have closing brackets.  These have been added.
+
+
+FOOTNOTES:
+
+For this E-Text version of the book, the footnotes have been
+consolidated at the end of the play.
+
+Numbering of the footnotes has been changed, and each footnote
+is given a unique identity in the form [XXX].
+
+
+CHANGES TO THE TEXT:
+
+Character names were expanded.  For Example, TAMBURLAINE was
+TAMB., ZENOCRATE was ZENO., etc.
+
+
+GREEK:
+One word, appearing in note 115, was printed in Greek Characters.
+This word has been transliterated as <<deiktikos>>.
+
+
+
+  Tamburlaine the Great.  Who, from a Scythian Shephearde
+  by his rare and woonderfull Conquests, became a most
+  puissant and mightye Monarque.  And (for his tyranny,
+  and terrour in Warre) was tearmed, The Scourge of God.
+  Deuided into two Tragicall Discourses, as they were
+  sundrie times shewed vpon Stages in the Citie of London.
+  By the right honorable the Lord Admyrall, his seruauntes.
+  Now first, and newlie published.  London.  Printed by
+  Richard Ihones:  at the signe of the Rose and Crowne
+  neere Holborne Bridge.  1590.  4to.
+
+The above title-page is pasted into a copy of the FIRST PART OF
+TAMBURLAINE in the Library at Bridge-water House; which copy,
+excepting that title-page and the Address to the Readers, is the
+impression of 1605.  I once supposed that the title-pages which
+bear the dates 1605 and 1606 (see below) had been added to the
+4tos of the TWO PARTS of the play originally printed in 1590;
+but I am now convinced that both PARTS were really reprinted,
+THE FIRST PART in 1605, and THE SECOND PART in 1606, and that
+nothing remains of the earlier 4tos, except the title-page and
+the Address to the Readers, which are preserved in the Bridge-
+water collection.
+
+In the Bodleian Library, Oxford, is an 8vo edition of both PARTS
+OF TAMBURLAINE, dated 1590:  the title-page of THE FIRST PART
+agrees verbatim with that given above; the half-title-page of
+THE SECOND PART is as follows;
+
+  The Second Part of The bloody Conquests of mighty
+  Tamburlaine.  With his impassionate fury, for the death
+  of his Lady and loue faire Zenocrate; his fourme of
+  exhortacion and discipline to his three sons, and the
+  maner of his own death.
+
+In the Garrick Collection, British Museum, is an 8vo edition of
+both PARTS dated 1592:  the title-page of THE FIRST PART runs
+thus;
+
+  Tamburlaine the Great.  Who, from a Scythian Shepheard,
+  by his rare and wonderfull Conquestes, became a most
+  puissant and mightie Mornarch [sic]:  And (for his
+  tyrannie, and terrour in warre) was tearmed, The Scourge
+  of God.  The first part of the two Tragicall discourses,
+  as they were sundrie times most stately shewed vpon
+  Stages in the Citie of London.  By the right honorable
+  the Lord Admirall, his seruauntes.  Now newly published.
+  Printed by Richard Iones, dwelling at the signe of the
+  Rose and Crowne neere Holborne Bridge.
+
+The half-title-page of THE SECOND PART agrees exactly with that
+already given.  Perhaps the 8vo at Oxford and that in the British
+Museum (for I have not had an opportunity of comparing them) are
+the same impression, differing only in the title-pages.
+
+Langbaine (ACCOUNT OF ENGL. DRAM. POETS, p. 344) mentions an 8vo
+dated 1593.
+
+The title-pages of the latest impressions of THE TWO PARTS are
+as follows;
+
+  Tamburlaine the Greate.  Who, from the state of a
+  Shepheard in Scythia, by his rare and wonderfull
+  Conquests, became a most puissant and mighty Monarque.
+  London Printed for Edward White, and are to be solde
+  at the little North doore of Saint Paules-Church, at
+  the signe of the Gunne, 1605.  4to.
+
+  Tamburlaine the Greate.  With his impassionate furie,
+  for the death of his Lady and Loue fair Zenocrate:  his
+  forme of exhortation and discipline to his three Sonnes,
+  and the manner of his owne death.  The second part.
+  London Printed by E. A. for Ed. White, and are to be
+  solde at his Shop neere the little North doore of Saint
+  Paules Church at the Signe of the Gun.  1606.  4to.
+
+The text of the present edition is given from the 8vo of 1592,
+collated with the 4tos of 1605-6.
+
+
+
+
+TO THE GENTLEMEN-READERS [1] AND OTHERS THAT TAKE PLEASURE
+IN READING HISTORIES. [2]
+
+Gentlemen and courteous readers whosoever:  I have here published
+in print, for your sakes, the two tragical discourses of the
+Scythian shepherd Tamburlaine, that became so great a conqueror
+and so mighty a monarch.  My hope is, that they will be now no
+less acceptable unto you to read after your serious affairs and
+studies than they have been lately delightful for many of you to
+see when the same were shewed in London upon stages.  I have
+purposely omitted and left out some fond [3] and frivolous
+gestures,
+digressing, and, in my poor opinion, far unmeet for the matter,
+which I thought might seem more tedious unto the wise than any
+way else to be regarded, though haply they have been of some
+vain-conceited fondlings greatly gaped at, what time they were
+shewed upon the stage in their graced deformities:  nevertheless
+now to be mixtured in print with such matter of worth, it would
+prove a great disgrace to so honourable and stately a history.
+Great folly were it in me to commend unto your wisdoms either the
+eloquence of the author that writ them or the worthiness of the
+matter itself.  I therefore leave unto your learned censures [4]
+both the one and the other, and myself the poor printer of them
+unto your most courteous and favourable protection; which if you
+vouchsafe to accept, you shall evermore bind me to employ what
+travail and service I can to the advancing and pleasuring of your
+excellent degree.
+     Yours, most humble at commandment,
+          R[ichard] J[ones], printer.
+
+
+
+THE FIRST PART OF TAMBURLAINE THE GREAT.
+
+
+
+
+THE PROLOGUE.
+
+      From jigging veins of rhyming mother-wits,
+      And such conceits as clownage keeps in pay,
+      We'll lead you to the stately tent of war,
+      Where you shall hear the Scythian Tamburlaine
+      Threatening the world with high astounding terms,
+      And scourging kingdoms with his conquering sword.
+      View but his picture in this tragic glass,
+      And then applaud his fortunes as you please.

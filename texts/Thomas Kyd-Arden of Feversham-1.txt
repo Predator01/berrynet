@@ -1,0 +1,1811 @@
+Project Gutenberg's Arden of Feversham, by Anonymous and Thomas Kyd
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Arden of Feversham
+
+Author: Anonymous
+        Thomas Kyd
+
+Editor: Ronald Bayne
+
+Release Date: August 11, 2013 [EBook #43440]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ARDEN OF FEVERSHAM ***
+
+
+
+
+Produced by Henry Flower and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive/American Libraries.)
+
+
+
+
+
+
+
+Transcriber's Note
+
+Endnotes have been moved to the end of the scene to which they apply.
+The following note preceded the printed endnotes:
+
+"In the Quartos there are no divisions of acts and scenes.
+
+A, B, C = 1st, 2nd, and 3rd Quartos."
+
+Italic text is marked by _underscores_, and bold text by ~swung dashes~.
+
+
+
+
+[Illustration]
+
+_THE TEMPLE DRAMATISTS_
+
+ARDEN OF FEVERSHAM
+
+[Illustration]
+
+
+
+
+The text of this edition is nearly that of the first Quarto, the copy
+of which in the Dyce Library at South Kensington has been carefully
+collated. I have not noted minute variations. The German editors,
+Warnke and Proescholt, give the various readings of the three Quartos
+and of later editions.
+
+[Illustration: _Feversham Abbey._]
+
+
+
+
+ARDEN OF
+FEVERSHAM
+
+_Edited with a Preface, Notes
+and Glossary by_
+
+REV. RONALD BAYNE
+M.A.
+
+
+J. M. DENT AND CO.
+ALDINE HOUSE : LONDON
+1897
+
+
+
+
+‘Considering the various and marvellous gifts displayed for the first
+time on our stage by the great poet, the great dramatist, the strong
+and subtle searcher of hearts, the just and merciful judge and painter
+of human passions, who gave this tragedy to the new-born literature
+of our drama ... I cannot but finally take heart to say, even in
+the absence of all external or traditional testimony, that it seems
+to me not pardonable merely or permissible, but simply logical and
+reasonable, to set down this poem, a young man’s work on the face of
+it, as the possible work of no man’s youthful hand but Shakespeare’s.’
+
+Mr. A. C. SWINBURNE.
+
+
+
+
+PREFACE
+
+
+~Early Editions.~ On 3rd April, 1592, ‘_The Tragedie of Arden of
+Feversham and Blackwall_’[A] was entered on the Stationers’ Registers
+to Edward White. In the same year appeared, ‘_The lamentable and true
+Tragedie of M. Arden of Feversham in Kent. Who was most wickedlye
+murdered, by the meanes of his disloyall and wanton wyfe, who for the
+love she bare to one Mosbie, hyred two desperat ruffins, Blackwill
+and Shakbag, to kill him. Wherin is shewed the great mallice and
+discimulation of a wicked woman, the unsatiable desire of filthie lust
+and the shamefull end of all murderers. Imprinted at London for Edward
+White, dwelling at the lyttle North dore of Paules Church at the signe
+of the Gun._ 1592.’ A second Quarto, with the same title, was printed
+in 1599. A third, ‘_by Eliz. Allde dwelling neere Christs Church_,’
+appeared in 1633. The second and third Quartos are founded textually
+upon the first, and their variations are of no value. The text of the
+first Quarto is unusually good even when prose and verse are mixed
+together, although the printer has apparently no scientific knowledge
+of the nature of metre.
+
+[Footnote A: A misprint for _Blackwill_.]
+
+
+~Place of the Play in the Elizabethan Drama.~ _Arden of Faversham_
+is the finest extant specimen of a kind of play which has been
+classified as Domestic Tragedy. A picturesque or sensational murder in
+the sixteenth century was given to the public first in popular ballads
+or pamphlets, and afterwards, if sufficiently notable, in the more
+serious Chronicle. From the popular pamphlet, or from the Chronicle,
+or from both together, it found its way on to the stage. Four of these
+‘murder-plays’ have come down to us, and the titles of many others.
+They form a minor section of the Chronicle plays or Histories. They did
+not attain any very striking literary development, owing perhaps to the
+necessary bondage of the poet to his facts. _Arden of Faversham_ is a
+remarkable instance of the possibilities of this class of play, but it
+is to be noted that the poet used the narrative of a Chronicler who
+wrote twenty-seven years after the date of the murder. _A Warning for
+Fair Women_ and Yarington’s _Two Tragedies in One_ are both inferior
+to _Arden_, though influenced by it. The fourth ‘murder-play’--_The
+Yorkshire Tragedy_--is distinct from the other three in style and
+method. Several famous dramatists produced ‘domestic’ tragedies, but
+none have survived. _A Late Murder of the Son upon the Mother_, in
+which Ford and Webster collaborated, must have been a notable piece of
+work.
+
+
+~Source of the Play.~ On Sunday, 15th February 1550-1, Thomas
+Ardern of Faversham, gentleman, ‘was heynously murdered in his own
+parlour, about seven of the clock in the night, by one Thomas Morsby, a
+taylor of London, late servant to sir Edward North, knight, chancellor
+of the augmentations, father-in-law unto Alice Ardern, wife of the
+said Thomas Ardern.’ Thomas Ardern was Mayor of Faversham in 1548,
+and his murder made such a stir that in 1577 the first edition of
+Holinshed’s _Chronicle_ devotes five pages (pp. 1703-8) to an elaborate
+account of it. The chronicler begins thus:--‘About this time there was
+at Faversham in Kent a Gentleman named Arden most cruelly murthered
+and slain by the procurement of his own wife. The which murder for
+the horribleness thereof, although otherwise it may seem to be but a
+private matter, and therefore as it were impertinent to this History,
+I have thought good to set it forth somewhat at large, having the
+instructions delivered to me by them that have used some diligence
+to gather the true understanding of the circumstances.’ Our first
+quotation was from the _Wardmote Book of Faversham_, and proves that
+Holinshed’s narrative is not minutely accurate. The _Wardmote Book_
+gives a curt account of the actual murder on the Sunday evening with
+the names and fate of the culprits. It tells us nothing of the previous
+failures of these culprits which give to Holinshed’s tale such a
+terrible and dramatic interest. We need not speculate on Holinshed’s
+sources. No doubt there were many contemporary pamphlets and ballads
+which recounted the murder. We know only of _The Complaint ... of
+Mistress Arden of Feversham_, preserved among the _Roxburghe Ballads_,
+and reprinted by Evans and in Miss De Vaynes’ _Kentish Garland_.
+But this is dated by Mr. Bullen about 1633, when the third Quarto
+of the play appeared, and was probably occasioned by that re-issue.
+The important point to bear in mind is the excellence of Holinshed’s
+narrative. To praise it adequately we must say that it is worthy of
+the fine play founded upon it, which probably had no other source.
+The play agrees always with Holinshed when Holinshed differs from the
+_Wardmote Book_. When the play differs from Holinshed it differs also
+from the _Wardmote Book_. To the dramatic instinct of the poet we must
+ascribe his suppression of the fact that Arden winked at his wife’s
+infidelity. Holinshed and the _Wardmote Book_ both explicitly assert
+this. Franklin, Arden’s friend, is also an invention of the dramatist.
+
+
+~Author of the Play.~ The three Quartos are all anonymous. We
+know of no other edition till 1770, when Edward Jacob, a Faversham
+antiquary, edited the first Quarto, and boldly claimed the play for
+Shakespeare. Ludwig Tieck published in 1823 an excellent German
+translation, accompanied by a discriminating statement of the case for
+the Shakesperean authorship. Delius, editing the play in 1855, agreed
+with Tieck, and was followed by the French translator, François Victor
+Hugo, and more recently by Professor Mézières. Owing to the supposed
+Shakespearean authorship there have been at least three translations
+into German, one into French, and one into Dutch. In England opinion
+has been more divided. Henry Tyrrell,[B] Charles Knight, and Mr.
+Swinburne[C] have supported the Shakespearean authorship. Professor
+Ward[D] and J. A. Symonds incline to reject it. Professor Saintsbury
+considers that ‘the only possible hypothesis on which it could be
+admitted as Shakespeare’s would be that of an early experiment thrown
+off while he was seeking his way in a direction where he found no
+thoroughfare.’[E] Mr. Bullen, who edited a careful reprint of the first
+Quarto in 1887, suspects ‘that _Arden_ in its present state has been
+retouched here and there by the master’s hand.’ The latest German
+editors, Warnke and Proescholt (1888), ‘are of opinion that Shakespeare
+had nothing to do with _Arden of Faversham_.’
+
+[Footnote B: _Doubtful Plays of Shakespeare._]
+
+[Footnote C: _Study of Shakespeare._]
+
+[Footnote D: _History of English Dramatic Literature._]
+
+[Footnote E: _History of Elizabethan Literature._]
+
+
+~The Question of Shakespeare’s Authorship.~ The only reason for
+ascribing the play to Shakespeare is its merit. It seems incredible
+that a drama so mature in its art should have been written in 1592
+by a writer otherwise unknown to us. In three directions the art of
+the writer is mature. First, the character of the base coward Mosbie,
+and of the ‘bourgeois Clytemnestra,’ Alice Arden, are drawn with an
+insight, delicacy, and sustained power new to English literature in
+1592, and not excelled till Shakespeare excelled them. The picture of
+Arden, as a man fascinated and bewitched by his wife and by his fate,
+might match that of Mosbie and Alice if the artist had not blurred his
+conception by the introduction of the jarring motives of avarice and
+sacrilege. But the poet’s aim is clear; it is his own, and it almost
+succeeds. Second, the picturesque ferocity and grim humour of Black
+Will and Shakebag are described with a firmness and ease and restraint
+of style which critics have not sufficiently noted. I can compare it
+only with the Jack Cade scenes of the _Contention_ (and _2 Henry VI._).
+The prose of our poet is excellent. His humour has a clearly defined
+character and style of its own. The character of Michael, so admired
+by Mr. Swinburne, is as subtle and well-sustained as Mosbie’s or Alice
+Arden’s, and it exhibits our poet’s special humorous gift. This gift,
+excellent as it is, seems to me very definitely not Shakespearean.
+But thirdly, the terrifying use of signs and omens and of an almost
+Shakespearean irony--_e.g._ Arden’s words, ‘I am almost stifled with
+this fog!’--combine to produce as the play proceeds an impressive sense
+of ‘the slow unerring tread of assassination, balked but persevering,
+marching like a fate to its accomplishment.’ But the special
+excellencies of the play are all against Shakespeare having written
+it by 1592. As Mr. Bullen insists, the weak point in Mr. Swinburne’s
+criticism is the phrase ‘a young man’s work.’ This play is not ‘a young
+man’s work.’ The copiousness of the young man Shakespeare’s work is
+the exact contrary of the deliberate anxious effort which marks the
+style of _Arden of Faversham_ except in the prose scenes. In none of
+Shakespeare’s plays can it be perceived that the poet has taken such
+pains as the poet of _Arden_ takes. Unless Shakespeare wrote this play
+as soon as he reached London, and then for a year or two wrote nothing
+else, it is impossible to fit it into his work. And if he wrote the
+play as soon as he reached London and then took up the studies which
+resulted in _Venus and Adonis_ and _Lucrece_, would he have written
+_Love’s Labour’s Lost_ and _Comedy of Errors_ on his way back to work
+like _Arden_? If Shakespeare wrote _Arden_ it is the most interesting
+fact in his literary development. To suggest that Shakespeare revised
+the play is to shirk the question. Its excellence is in its warp and
+woof, not in its ornaments.
+
+
+~Literature.~ Mr. Bullen’s _Introduction_ is the best monograph on
+the play. Warnke and Proescholt’s _Introduction_ should be consulted,
+but lacks the distinction of style and the critical insight of Mr.
+Bullen’s essay. Excellent analyses and criticisms of the play are in
+Charles Knight’s _Doubtful Plays_ (‘Pictorial Shakespere’); J. A.
+Symonds’ _Shakspere’s Predecessors_; Alfred Mézières’ _Prédécesseurs et
+Contemporains de Shakspeare_. Mr. Fleay in his _Biographical Chronicle
+of the English Drama_ (1891) has suggested Kyd as the author of _Arden_.
+
+[Illustration]
+
+
+
+
+ARDEN OF FEVERSHAM
+
+
+
+
+DRAMATIS PERSONÆ
+
+
+THOMAS ARDEN, Gentleman, of Feversham
+FRANKLIN, his Friend
+MOSBIE
+CLARKE, a Painter
+ADAM FOWLE, Landlord of the Flower-de-Luce
+BRADSHAW, a Goldsmith
+MICHAEL, Arden’s Servant
+GREENE
+RICHARD REEDE, a Sailor
+BLACK WILL } Murderers
+SHAKEBAG   }
+A PRENTICE
+A FERRYMAN
+LORD CHEINY, and his Men
+MAYOR OF FEVERSHAM, and Watch
+
+ALICE, Arden’s Wife
+SUSAN, Mosbie’s Sister
+
+
+
+
+ARDEN OF FEVERSHAM
+
+
+
+
+ACT I
+
+
+_A Room in Arden’s House._
+
+_Enter Arden and Franklin._
+
+_Franklin._ Arden, cheer up thy spirits, and droop no more!
+My gracious Lord, the Duke of Somerset,
+Hath freely given to thee and to thy heirs,
+By letters patents from his Majesty,
+All the lands of the Abbey of Feversham.
+Here are the deeds,      [_He hands them._
+Sealed and subscribed with his name and the king’s:
+Read them, and leave this melancholy mood.
+
+_Arden._ Franklin, thy love prolongs my weary life;
+And but for thee how odious were this life,      10
+That shows me nothing but torments my soul,
+And those foul objects that offend mine eyes!
+Which makes me wish that for this veil of heaven
+The earth hung over my head and covered me.
+Love-letters pass ’twixt Mosbie and my wife,
+And they have privy meetings in the town:
+Nay, on his finger did I spy the ring
+Which at our marriage-day the priest put on.
+Can any grief be half so great as this?
+
+_Franklin._ Comfort thyself, sweet friend; it is not strange      20
+That women will be false and wavering.
+
+_Arden._ Ay, but to dote on such a one as he
+Is monstrous, Franklin, and intolerable.
+
+_Franklin._ Why, what is he?
+
+_Arden._ A botcher, and no better at the first;
+Who, by base brokage getting some small stock,
+Crept into service of a nobleman,
+And by his servile flattery and fawning
+Is now become the steward of his house,
+And bravely jets it in his silken gown.      30
+
+_Franklin._ No nobleman will countenance such a peasant.
+
+_Arden._ Yes, the Lord Clifford, he that loves not me.
+But through his favour let him not grow proud;
+For were he by the Lord Protector backed,
+He should not make me to be pointed at.
+I am by birth a gentleman of blood,
+And that injurious ribald, that attempts
+To violate my dear wife’s chastity
+(For dear I hold her love, as dear as heaven)
+Shall on the bed which he thinks to defile      40
+See his dissevered joints and sinews torn,
+Whilst on the planchers pants his weary body,
+Smeared in the channels of his lustful blood.
+
+_Franklin._ Be patient, gentle friend, and learn of me
+To ease thy grief and save her chastity:
+Intreat her fair; sweet words are fittest engines
+To race the flint walls of a woman’s breast.
+In any case be not too jealous,
+Nor make no question of her love to thee;
+But, as securely, presently take horse,      50
+And lie with me at London all this term;
+For women, when they may, will not,
+But, being kept back, straight grow outrageous.
+
+_Arden._ Though this abhors from reason, yet I’ll try it,
+And call her forth and presently take leave.
+How! Alice!
+
+_Here enters Alice._
+
+_Alice._ Husband, what mean you to get up so early?
+Summer-nights are short, and yet you rise ere day.
+Had I been wake, you had not risen so soon.
+
+_Arden._ Sweet love, thou knowest that we two, Ovid-like,      60
+Have often chid the morning when it ’gan to peep,
+And often wished that dark night’s purblind steeds
+Would pull her by the purple mantle back,
+And cast her in the ocean to her love.
+But this night, sweet Alice, thou hast killed my heart:
+I heard thee call on Mosbie in thy sleep.
+
+_Alice._ ’Tis like I was asleep when I named him,
+For being awake he comes not in my thoughts.
+
+_Arden._ Ay, but you started up and suddenly,
+Instead of him, caught me about the neck.      70
+
+_Alice._ Instead of him? why, who was there but you?
+And where but one is, how can I mistake?
+
+_Franklin._ Arden, leave to urge her over-far.
+
+_Arden._ Nay, love, there is no credit in a dream;
+Let it suffice I know thou lovest me well.
+
+_Alice._ Now I remember whereupon it came:
+Had we no talk of Mosbie yesternight?
+
+_Franklin._ Mistress Alice, I heard you name him once or twice.
+
+_Alice._ And thereof came it, and therefore blame not me.
+
+_Arden._ I know it did, and therefore let it pass.      80
+I must to London, sweet Alice, presently.
+
+_Alice._ But tell me, do you mean to stay there long?
+
+_Arden._ No longer there till my affairs be done.
+
+_Franklin._ He will not stay above a month at most.
+
+_Alice._ A month? ay me! Sweet Arden, come again
+Within a day or two, or else I die.
+
+_Arden._ I cannot long be from thee, gentle Alice.
+Whilst Michael fetch our horses from the field,
+Franklin and I will down unto the quay;
+For I have certain goods there to unload.      90
+Meanwhile prepare our breakfast, gentle Alice;
+For yet ere noon we’ll take horse and away.
+
+      [_Exeunt Arden and Franklin._
+
+_Alice._ Ere noon he means to take horse and away!
+Sweet news is this. O that some airy spirit
+Would in the shape and likeness of a horse
+Gallop with Arden ’cross the Ocean,
+And throw him from his back into the waves!
+Sweet Mosbie is the man that hath my heart:
+And he usurps it, having nought but this,
+That I am tied to him by marriage.      100
+Love is a God, and marriage is but words;
+And therefore Mosbie’s title is the best.
+Tush! whether it be or no, he shall be mine,
+In spite of him, of Hymen, and of rites.
+
+_Here enters Adam of the Flower-de-luce._
+
+And here comes Adam of the Flower-de-luce;
+I hope he brings me tidings of my love.
+--How now, Adam, what is the news with you?
+Be not afraid; my husband is now from home.
+
+_Adam._ He whom you wot of, Mosbie, Mistress Alice,
+Is come to town, and sends you word by me      110
+In any case you may not visit him.
+
+_Alice._ Not visit him?
+
+_Adam._ No, nor take no knowledge of his being here.
+
+_Alice._ But tell me, is he angry or displeased?
+
+_Adam._ It should seem so, for he is wondrous sad.
+
+_Alice._ Were he as mad as raving Hercules,
+I’ll see him, I; and were thy house of force,
+These hands of mine should race it to the ground,
+Unless that thou wouldst bring me to my love.
+
+_Adam._ Nay, and you be so impatient, I’ll be gone.      120
+
+_Alice._ Stay, Adam, stay; thou wert wont to be my friend.
+Ask Mosbie how I have incurred his wrath;
+Bear him from me these pair of silver dice,
+With which we played for kisses many a time,
+And when I lost, I won, and so did he;--
+Such winning and such losing Jove send me!
+And bid him, if his love do not decline,
+To come this morning but along my door,
+And as a stranger but salute me there:
+This may he do without suspect or fear.      130
+
+_Adam._ I’ll tell him what you say, and so farewell.
+
+      [_Exit Adam._
+
+_Alice._ Do, and one day I’ll make amends for all.--
+I know he loves me well, but dares not come,
+Because my husband is so jealous,
+And these my narrow-prying neighbours blab,
+Hinder our meetings when we would confer.
+But, if I live, that block shall be removed,
+And, Mosbie, thou that comes to me by stealth,
+Shalt neither fear the biting speech of men,
+Nor Arden’s looks; as surely shall he die      140
+As I abhor him and love only thee.
+
+_Here enters Michael._
+
+How now, Michael, whither are you going?
+
+_Michael._ To fetch my master’s nag.
+I hope you’ll think on me.
+
+_Alice._ Ay; but, Michael, see you keep your oath,
+And be as secret as you are resolute.
+
+_Michael._ I’ll see he shall not live above a week.
+
+_Alice._ On that condition, Michael, here’s my hand:
+None shall have Mosbie’s sister but thyself.
+
+_Michael._ I understand the painter here hard by      150
+Hath made report that he and Sue is sure.
+
+_Alice._ There’s no such matter, Michael; believe it not.
+
+_Michael._ But he hath sent a dagger sticking in a heart,
+With a verse or two stolen from a painted cloth,
+The which I hear the wench keeps in her chest.
+Well, let her keep it! I shall find a fellow
+That can both write and read and make rhyme too.
+And if I do--well, I say no more:
+I’ll send from London such a taunting letter
+As she shall eat the heart he sent with salt      160
+And fling the dagger at the painter’s head.
+
+_Alice._ What needs all this? I say that Susan’s thine.
+
+_Michael._ Why, then I say that I will kill my master,
+Or anything that you will have me do.
+
+_Alice._ But, Michael, see you do it cunningly.
+
+_Michael._ Why, say I should be took, I’ll ne’er confess
+That you know anything; and Susan, being a maid,
+May beg me from the gallows of the sheriff.
+
+_Alice._ Trust not to that, Michael.
+
+_Michael._ You cannot tell me, I have seen it, I.      170
+But, mistress, tell her, whether I live or die,
+I’ll make her more worth than twenty painters can;
+For I will rid mine elder brother away,
+And then the farm of Bolton is mine own.
+Who would not venture upon house and land,
+When he may have it for a right down blow?
+
+_Here enters Mosbie._
+
+_Alice._ Yonder comes Mosbie. Michael, get thee gone,
+And let not him nor any know thy drifts.
+
+      [_Exit Michael._
+
+Mosbie, my love!
+
+_Mosbie._ Away, I say, and talk not to me now.      180
+
+_Alice._ A word or two, sweet heart, and then I will.
+’Tis yet but early days, thou needst not fear.
+
+_Mosbie._ Where is your husband?
+
+_Alice._ ’Tis now high water, and he is at the quay.
+
+_Mosbie._ There let him be; henceforward know me not.
+
+_Alice._ Is this the end of all thy solemn oaths?
+Is this the fruit thy reconcilement buds?
+Have I for this given thee so many favours,
+Incurred my husband’s hate, and, out alas!
+Made shipwreck of mine honour for thy sake?      190
+And dost thou say ‘henceforward know me not’?
+Remember, when I lock’d thee in my closet,
+What were thy words and mine; did we not both
+Decree to murder Arden in the night?
+The heavens can witness, and the world can tell,
+Before I saw that falsehood look of thine,
+’Fore I was tangled with thy ’ticing speech,
+Arden to me was dearer than my soul,--
+And shall be still: base peasant, get thee gone,
+And boast not of thy conquest over me,           200
+Gotten by witchcraft and mere sorcery!
+For what hast thou to countenance my love,
+Being descended of a noble house,
+And matched already with a gentleman
+Whose servant thou may’st be!--and so farewell.
+
+_Mosbie._ Ungentle and unkind Alice, now I see
+That which I ever feared, and find too true:
+A woman’s love is as the lightning-flame,
+Which even in bursting forth consumes itself.
+To try thy constancy have I been strange;      210
+Would I had never tried, but lived in hope!
+
+_Alice._ What need’st thou try me whom thou ne’er found false?
+
+_Mosbie._ Yet pardon me, for love is jealous.
+
+_Alice._ So lists the sailor to the mermaid’s song,
+So looks the traveller to the basilisk:
+I am content for to be reconciled,
+And that, I know, will be mine overthrow.
+
+_Mosbie._ Thine overthrow? first let the world dissolve.
+
+_Alice._ Nay, Mosbie, let me still enjoy thy love,
+And happen what will, I am resolute.           220
+My saving husband hoards up bags of gold
+To make our children rich, and now is he
+Gone to unload the goods that shall be thine,
+And he and Franklin will to London straight.
+
+_Mosbie._ To London, Alice? if thou’lt be ruled by me,
+We’ll make him sure enough for coming there.
+
+_Alice._ Ah, would we could!
+
+_Mosbie._ I happened on a painter yesternight,
+The only cunning man of Christendom;
+For he can temper poison with his oil,      230
+That whoso looks upon the work he draws
+Shall, with the beams that issue from his sight,
+Suck venom to his breast and slay himself.
+Sweet Alice, he shall draw thy counterfeit,
+That Arden may, by gazing on it, perish.
+
+_Alice._ Ay, but Mosbie, that is dangerous,
+For thou, or I, or any other else,
+Coming into the chamber where it hangs, may die.
+
+_Mosbie._ Ay, but we’ll have it covered with a cloth
+And hung up in the study for himself.      240
+
+_Alice._ It may not be, for when the picture’s drawn,
+Arden, I know, will come and show it me.
+
+_Mosbie._ Fear not; we’ll have that shall serve the turn.
+This is the painter’s house; I’ll call him forth.
+
+_Alice._ But Mosbie, I’ll have no such picture, I.
+
+_Mosbie._ I pray thee leave it to my discretion.
+How! Clarke!
+
+_Here enters Clarke._
+
+Oh, you are an honest man of your word! you served me well.
+
+_Clarke._ Why, sir, I’ll do it for you at any time,
+Provided, as you have given your word,      250
+I may have Susan Mosbie to my wife.
+For, as sharp-witted poets, whose sweet verse
+Make heavenly gods break off their nectar draughts
+And lay their ears down to the lowly earth,
+Use humble promise to their sacred Muse,
+So we that are the poets’ favourites
+Must have a love: ay, Love is the painter’s muse,
+That makes him frame a speaking countenance,
+A weeping eye that witnesses heart’s grief.
+Then tell me, Master Mosbie, shall I have her?      260
+
+_Alice._ ’Tis pity but he should; he’ll use her well.
+
+_Mosbie._ Clarke, here’s my hand: my sister shall be thine.
+
+_Clarke._ Then, brother, to requite this courtesy,
+You shall command my life, my skill, and all.
+
+_Alice._ Ah, that thou couldst be secret.
+
+_Mosbie._ Fear him not; leave; I have talked sufficient
+
+_Clarke._ You know not me that ask such questions.
+Let it suffice I know you love him well,
+And fain would have your husband made away:
+Wherein, trust me, you show a noble mind,      270
+That rather than you’ll live with him you hate,
+You’ll venture life, and die with him you love.
+The like will I do for my Susan’s sake.
+
+_Alice._ Yet nothing could inforce me to the deed
+But Mosbie’s love. Might I without control
+Enjoy thee still, then Arden should not die:
+But seeing I cannot, therefore let him die.
+
+_Mosbie._ Enough, sweet Alice; thy kind words makes me melt.
+Your trick of poisoned pictures we dislike;
+Some other poison would do better far.      280
+
+_Alice._ Ay, such as might be put into his broth,
+And yet in taste not to be found at all.
+
+_Clarke._ I know your mind, and here I have it for you.
+Put but a dram of this into his drink,
+Or any kind of broth that he shall eat,
+And he shall die within an hour after.
+
+_Alice._ As I am a gentlewoman, Clarke, next day
+Thou and Susan shall be married.
+
+_Mosbie._ And I’ll make her dowry more than I’ll talk of, Clarke.
+
+_Clarke._ Yonder’s your husband. Mosbie, I’ll be gone.      290
+
+_Here enters Arden and Franklin._
+
+_Alice._ In good time see where my husband comes.
+Master Mosbie, ask him the question yourself.
+
+      [_Exit Clarke._
+
+_Mosbie._ Master Arden, being at London yesternight,
+The Abbey lands, whereof you are now possessed,
+Were offered me on some occasion
+By Greene, one of Sir Antony Ager’s men:
+I pray you, sir, tell me, are not the lands yours?
+Hath any other interest herein?
+
+_Arden._ Mosbie, that question we’ll decide anon.
+Alice, make ready my breakfast, I must hence.      300
+
+      [_Exit Alice._
+
+As for the lands, Mosbie, they are mine
+By letters patents from his Majesty.
+But I must have a mandate for my wife;
+They say you seek to rob me of her love:
+Villain, what makes thou in her company?
+She’s no companion for so base a groom.
+
+_Mosbie._ Arden, I thought not on her, I came to thee;
+But rather than I pocket up this wrong----
+
+_Franklin._ What will you do, sir?
+
+_Mosbie._ Revenge it on the proudest of you both.      310
+
+      [_Then Arden draws forth Mosbie’s sword._
+
+_Arden._ So, sirrah; you may not wear a sword,
+The statute makes against artificers;
+I warrant that I do. Now use your bodkin,
+Your Spanish needle, and your pressing iron,
+For this shall go with me; and mark my words,
+You goodman botcher, ’tis to you I speak:
+The next time that I take thee near my house,
+Instead of legs I’ll make thee crawl on stumps.
+
+_Mosbie._ Ah, Master Arden, you have injured me:
+I do appeal to God and to the world.      320
+
+_Franklin._ Why, canst thou deny thou wert a botcher once?
+
+_Mosbie._ Measure me what I am, not what I was.
+
+_Arden._ Why, what art thou now but a velvet drudge,
+A cheating steward, and base-minded peasant?
+
+_Mosbie._ Arden, now thou hast belched and vomited
+The rancorous venom of thy mis-swoll’n heart,
+Hear me but speak: as I intend to live
+With God and his elected saints in heaven,
+I never meant more to solicit her;
+And that she knows, and all the world shall see.      330
+I loved her once;--sweet Arden, pardon me,
+I could not choose, her beauty fired my heart!
+But time hath quenched these over-raging coals;
+And, Arden, though I now frequent thy house,
+’Tis for my sister’s sake, her waiting-maid,
+And not for hers. Mayest thou enjoy her long:
+Hell-fire and wrathful vengeance light on me,
+If I dishonour her or injure thee.
+
+_Arden._ Mosbie, with these thy protestations
+The deadly hatred of my heart’s appeased,      340
+And thou and I’ll be friends, if this prove true.
+As for the base terms I gave thee late,
+Forget them, Mosbie: I had cause to speak,
+When all the knights and gentlemen of Kent
+Make common table-talk of her and thee.
+
+_Mosbie._ Who lives that is not touched with slanderous tongues?
+
+_Franklin._ Then, Mosbie, to eschew the speech of men,
+Upon whose general bruit all honour hangs,
+Forbear his house.
+
+_Arden._ Forbear it! nay, rather frequent it more:      350
+The world shall see that I distrust her not.
+To warn him on the sudden from my house
+Were to confirm the rumour that is grown.
+
+_Mosbie._ By my faith, sir, you say true,
+And therefore will I sojourn here a while,
+Until our enemies have talked their fill;
+And then, I hope, they’ll cease, and at last confess
+How causeless they have injured her and me.
+
+_Arden._ And I will lie at London all this term
+To let them see how light I weigh their words.      360
+
+_Here enters Alice._
+
+_Alice._ Husband, sit down; your breakfast will be cold.
+
+_Arden._ Come, Master Mosbie, will you sit with us?
+
+_Mosbie._ I cannot eat, but I’ll sit for company.
+
+_Arden._ Sirrah Michael, see our horse be ready.
+
+_Alice._ Husband, why pause ye? why eat you not?
+
+_Arden._ I am not well; there’s something in this broth
+That is not wholesome: didst thou make it, Alice?
+
+_Alice._ I did, and that’s the cause it likes not you.
+
+      [_Then she throws down the broth on the ground._
+
+There’s nothing that I do can please your taste;
+You were best to say I would have poisoned you.       370
+I cannot speak or cast aside my eye,
+But he imagines I have stepped awry.
+Here’s he that you cast in my teeth so oft:
+Now will I be convinced or purge myself.
+I charge thee speak to this mistrustful man,
+Thou that wouldst see me hang, thou, Mosbie, thou:
+What favour hast thou had more than a kiss
+At coming or departing from the town?
+
+_Mosbie._ You wrong yourself and me to cast these doubts:
+Your loving husband is not jealous.      380
+
+_Arden._ Why, gentle Mistress Alice, cannot I be ill
+But you’ll accuse yourself?
+Franklin, thou hast a box of mithridate;
+I’ll take a little to prevent the worst.
+
+_Franklin._ Do so, and let us presently take horse;
+My life for yours, ye shall do well enough.
+
+_Alice._ Give me a spoon, I’ll eat of it myself;
+Would it were full of poison to the brim,
+Then should my cares and troubles have an end.
+Was ever silly woman so tormented?      390
+
+_Arden._ Be patient, sweet love; I mistrust not thee.
+
+_Alice._ God will revenge it, Arden, if thou dost;
+For never woman loved her husband better
+Than I do thee.
+
+_Arden._ I know it, sweet Alice; cease to complain,
+Lest that in tears I answer thee again.
+
+_Franklin._ Come, leave this dallying, and let us away.
+
+_Alice._ Forbear to wound me with that bitter word;
+Arden shall go to London in my arms.
+
+_Arden._ Loth am I to depart, yet I must go.      400
+
+_Alice._ Wilt thou to London, then, and leave me here?
+Ah, if thou love me, gentle Arden, stay.
+Yet, if thy business be of great import
+Go, if thou wilt, I’ll bear it as I may;
+But write from London to me every week,
+Nay, every day, and stay no longer there
+Than thou must needs, lest that I die for sorrow.
+
+_Arden._ I’ll write unto thee every other tide,
+And so farewell, sweet Alice, till we meet next.
+
+_Alice._ Farewell, husband, seeing you’ll have it so;      410
+And, Master Franklin, seeing you take him hence,
+In hope you’ll hasten him home, I’ll give you this.
+
+      [_And then she kisseth him._
+
+_Franklin._ And if he stay, the fault shall not be mine.
+Mosbie, farewell, and see you keep your oath.
+
+_Mosbie._ I hope he is not jealous of me now.
+
+_Arden._ No, Mosbie, no; hereafter think of me
+As of your dearest friend, and so farewell.
+
+      [_Exeunt Arden, Franklin, and Michael._
+
+_Alice._ I am glad he is gone; he was about to stay,
+But did you mark me then how I brake off?
+
+_Mosbie._ Ay, Alice, and it was cunningly performed.      420
+But what a villain is that painter Clarke!
+
+_Alice._ Was it not a goodly poison that he gave?
+Why, he’s as well now as he was before.
+It should have been some fine confection
+That might have given the broth some dainty taste:
+This powder was too gross and populous.
+
+_Mosbie._ But had he eaten but three spoonfuls more,
+Then had he died and our love continued.
+
+_Alice._ Why, so it shall, Mosbie, albeit he live.
+
+_Mosbie._ It is unpossible, for I have sworn      430
+Never hereafter to solicit thee,
+Or, whilst he lives, once more importune thee.
+
+_Alice._ Thou shalt not need, I will importune thee.
+What? shall an oath make thee forsake my love?
+As if I have not sworn as much myself
+And given my hand unto him in the church!
+Tush, Mosbie; oaths are words, and words is wind,
+And wind is mutable: then, I conclude,
+’Tis childishness to stand upon an oath.
+
+_Mosbie._ Well proved, Mistress Alice; yet by your leave      440
+I’ll keep mine unbroken whilst he lives.
+
+_Alice._ Ay, do, and spare not, his time is but short;
+For if thou beest as resolute as I,
+We’ll have him murdered as he walks the streets.
+In London many alehouse ruffians keep,
+Which, as I hear, will murder men for gold.
+They shall be soundly fee’d to pay him home.
+
+_Here enters Greene._
+
+_Mosbie._ Alice, what’s he that comes yonder? knowest thou him?
+
+_Alice._ Mosbie, be gone: I hope ’tis one that comes
+To put in practice our intended drifts.      450
+
+      [_Exit Mosbie_
+
+_Greene._ Mistress Arden, you are well met.
+I am sorry that your husband is from home,
+Whenas my purposed journey was to him:
+Yet all my labour is not spent in vain,
+For I suppose that you can full discourse
+And flat resolve me of the thing I seek.
+
+_Alice._ What is it, Master Greene? If that I may
+Or can with safety, I will answer you.
+
+_Greene._ I heard your husband hath the grant of late,
+Confirmed by letters patents from the king,      460
+Of all the lands of the Abbey of Feversham,
+Generally intitled, so that all former grants
+Are cut off; whereof I myself had one;
+But now my interest by that is void.
+This is all, Mistress Arden; is it true or no?
+
+_Alice._ True, Master Greene; the lands are his in state,
+And whatsoever leases were before
+Are void for term of Master Arden’s life;
+He hath the grant under the Chancery seal.
+
+_Greene._ Pardon me, Mistress Arden, I must speak,      470
+For I am touched. Your husband doth me wrong
+To wring me from the little land I have.
+My living is my life, and only that
+Resteth remainder of my portion.
+Desire of wealth is endless in his mind,
+And he is greedy-gaping still for gain;
+Nor cares he though young gentlemen do beg,
+So he may scrape and hoard up in his pouch.
+But, seeing he hath ta’en my lands, I’ll value life
+As careless as he is careful for to get:      480
+And tell him this from me, I’ll be revenged,
+And so as he shall wish the Abbey lands
+Had rested still within their former state.
+
+_Alice._ Alas, poor gentleman, I pity you,
+And woe is me that any man should want!
+God knows ’tis not my fault; but wonder not
+Though he be hard to others, when to me,--
+Ah, Master Greene, God knows how I am used.
+
+_Greene._ Why, Mistress Arden, can the crabbed churl
+Use you unkindly? respects he not your birth,      490
+Your honourable friends, nor what you brought?
+Why, all Kent knows your parentage and what you are.
+
+_Alice._ Ah, Master Greene, be it spoken in secret here,
+I never live good day with him alone:
+When he’s at home, then have I froward looks,
+Hard words and blows to mend the match withal;
+And though I might content as good a man,
+Yet doth he keep in every corner trulls;
+And when he’s weary with his trugs at home,
+Then rides he straight to London; there, forsooth,      500
+He revels it among such filthy ones
+As counsels him to make away his wife.
+Thus live I daily in continual fear,
+In sorrow; so despairing of redress
+As every day I wish with hearty prayer
+That he or I were taken forth the world.
+
+_Greene._ Now trust me, Mistress Alice, it grieveth me
+So fair a creature should be so abused.
+Why, who would have thought the civil sir so sullen?
+He looks so smoothly. Now, fie upon him, churl!       510
+And if he live a day, he lives too long.
+But frolic, woman! I shall be the man
+Shall set you free from all this discontent;
+And if the churl deny my interest
+And will not yield my lease into my hand,
+I’ll pay him home, whatever hap to me.
+
+_Alice._ But speak you as you think?
+
+_Greene._ Ay, God’s my witness, I mean plain dealing,
+For I had rather die than lose my land.
+
+_Alice._ Then, Master Greene, be counsellèd by me:      520
+Indanger not yourself for such a churl,
+But hire some cutter for to cut him short,
+And here’s ten pound to wager them withal;
+When he is dead, you shall have twenty more,
+And the lands whereof my husband is possess’d
+Shall be intitled as they were before.
+
+_Greene._ Will you keep promise with me?
+
+_Alice._ Or count me false and perjured whilst I live.
+
+_Greene._ Then here’s my hand, I’ll have him so dispatched.
+I’ll up to London straight, I’ll thither post,      530
+And never rest till I have compassed it.
+Till then farewell.
+
+_Alice._ Good fortune follow all your forward thoughts.
+
+      [_Exit Greene._
+
+And whosoever doth attempt the deed,
+A happy hand I wish, and so farewell.--
+All this goes well: Mosbie, I long for thee
+To let thee know all that I have contrived.
+
+_Here enters Mosbie and Clarke._
+
+_Mosbie._ How, now, Alice, what’s the news?
+
+_Alice._ Such as will content thee well, sweetheart.
+
+_Mosbie._ Well, let them pass a while, and tell me, Alice,
+How have you dealt and tempered with my sister?
+What, will she have my neighbour Clarke, or no?
+
+_Alice._ What, Master Mosbie! let him woo himself!
+Think you that maids look not for fair words?
+Go to her, Clarke; she’s all alone within;
+Michael my man is clean out of her books.
+
+_Clarke._ I thank you, Mistress Arden, I will in;
+And if fair Susan and I can make a gree,
+You shall command me to the uttermost,
+As far as either goods or life may stretch.      550
+
+      [_Exit Clarke._
+
+_Mosbie._ Now, Alice, let’s hear thy news.
+
+_Alice._ They be so good that I must laugh for joy,
+Before I can begin to tell my tale.
+
+_Mosbie._ Let’s hear them, that I may laugh for company.
+
+_Alice._ This morning, Master Greene, Dick Greene I mean,
+From whom my husband had the Abbey land,
+Came hither, railing, for to know the truth
+Whether my husband had the lands by grant.
+I told him all, whereat he stormed amain
+And swore he would cry quittance with the churl,      560
+And, if he did deny his interest,
+Stab him, whatsoever did befall himself.
+Whenas I saw his choler thus to rise,
+I whetted on the gentleman with words;
+And, to conclude, Mosbie, at last we grew
+To composition for my husband’s death.
+I gave him ten pound for to hire knaves,
+By some device to make away the churl;
+When he is dead, he should have twenty more
+And repossess his former lands again.      570
+On this we ’greed, and he is ridden straight
+To London, for to bring his death about.
+
+_Mosbie._ But call you this good news?
+
+_Alice._ Ay, sweetheart, be they not?
+
+_Mosbie._ ’Twere cheerful news to hear the churl were dead;
+But trust me, Alice, I take it passing ill
+You would be so forgetful of our state
+To make recount of it to every groom.
+What! to acquaint each stranger with our drifts,
+Chiefly in case of murder, why, ’tis the way      580
+To make it open unto Arden’s self
+And bring thyself and me to ruin both.
+Forewarned, forearmed; who threats his enemy,
+Lends him a sword to guard himself withal.
+
+_Alice._ I did it for the best.
+
+_Mosbie._ Well, seeing ’tis done, cheerly let it pass.
+You know this Greene; is he not religious?
+A man, I guess, of great devotion?
+
+_Alice._ He is.
+
+_Mosbie._ Then, sweet Alice, let it pass: I have a drift      590
+Will quiet all, whatever is amiss.
+
+_Here enters Clarke and Susan._
+
+_Alice._ How now, Clarke? have you found me false?
+Did I not plead the matter hard for you?
+
+_Clarke._ You did.
+
+_Mosbie._ And what? wilt be a match?
+
+_Clarke._ A match, i’ faith, sir: ay, the day is mine.
+The painter lays his colours to the life,
+His pencil draws no shadows in his love.
+Susan is mine.
+
+_Alice._ You make her blush.      600
+
+_Mosbie._ What, sister, is it Clarke must be the man?
+
+_Susan._ It resteth in your grant; some words are past,
+And haply we be grown unto a match,
+If you be willing that it shall be so.
+
+_Mosbie._ Ah, Master Clarke, it resteth at my grant:
+You see my sister’s yet at my dispose,
+But, so you’ll grant me one thing I shall ask,
+I am content my sister shall be yours.
+
+_Clarke._ What is it, Master Mosbie?
+
+_Mosbie._ I do remember once in secret talk      610
+You told me how you could compound by art
+A crucifix impoisoned,
+That whoso look upon it should wax blind
+And with the scent be stifled, that ere long
+He should die poisoned that did view it well.
+I would have you make me such a crucifix.
+And then I’ll grant my sister shall be yours.
+
+_Clarke._ Though I am loth, because it toucheth life,
+Yet, rather or I’ll leave sweet Susan’s love,
+I’ll do it, and with all the haste I may.      620
+But for whom is it?
+
+_Alice._ Leave that to us. Why, Clarke, is it possible
+That you should paint and draw it out yourself,
+The colours being baleful and impoisoned,
+And no ways prejudice yourself withal?
+
+_Mosbie._ Well questioned, Alice; Clarke, how answer you that?
+
+_Clarke._ Very easily: I’ll tell you straight
+How I do work of these impoisoned drugs.
+I fasten on my spectacles so close
+As nothing can any way offend my sight;      630
+Then, as I put a leaf within my nose,
+So put I rhubarb to avoid the smell,
+And softly as another work I paint.
+
+_Mosbie._ ’Tis very well; but against when shall I have it?
+
+_Clarke._ Within this ten days.
+
+_Mosbie._                       ’Twill serve the turn.
+Now, Alice, let’s in and see what cheer you keep.
+I hope, now Master Arden is from home,
+You’ll give me leave to play your husband’s part.
+
+_Alice._ Mosbie, you know, who’s master of my heart,
+He well may be the master of the house.      640
+
+      [_Exeunt._
+
+I. i. 4. _Patents_; the plural is always used in A, cf. _Richard II._
+II. i. 202; II. iii. 130.
+
+I. i. 14. Contrast Holinshed:--‘He, _i.e._ Arden, was contented
+to wink at her filthy disorder,’ and _Wardmote Book_:--‘All which
+things the said Ardern did well know and wilfully did permit and
+suffer the same.’ He was afraid to offend Lord North, ‘father-in-law
+unto Alice Ardern,’ whose servant Mosbie had been. This
+North was the father of the translator of Plutarch.
+
+I. i. 15. _Pass_; so Bullen for _past_, A, B, C.
+
+I. i. 25. _Botcher_, is not ‘butcher,’ but a mender of old clothes.
+
+I. i. 48. _Jealous_: spelt _jelyouse_, and pronounced so throughout
+the play.
+
+I. i. 60. The reference is to Ovid’s _Elegy_, ‘Ad Auroram ne
+properet.’--_Amor._ i. 13.
+
+I. i. 61. Most editions reject _often_. If we retain it the line is an
+Alexandrine. Cf. i. 153, 167, 238, 479; III. v. 73, etc.
+
+I. i. 105. _Flower-de-luce._ ‘An inn, formerly situated in Abbey
+Street, nearly opposite Arden’s house.’ C. E. Donne, _An Essay
+on the Tragedy of Arden of Faversham_, 1873.
+
+I. i. 117. _thy house of force_, _i.e._ ‘fortified house.’
+
+I. i. 135. _narrow_: so all editors; but the _marrow-prying_ of A
+may be correct. _Blab_ is either a verb with _and_ omitted after it,
+or a noun, the subject of _hinder_.
+
+I. i. 154. An allusion to verses or inscriptions on tapestry hangings.
+
+I. i. 159. Cf. ‘I’ll write to him a very taunting letter.’--_As You
+Like It_, III. v. 134.
+
+I. i. 167. ‘It was popularly supposed that a virgin might save a
+criminal from the gallows by offering to marry him.--See note to
+my edition of Marston, III. 190-1.’--Bullen.
+
+I. i. 172. Perhaps _worth_ should be omitted.
+
+I. i. 174. _Bolton_ is ‘Boughton, looking down on Canterbury.’--Donne.
+
+I. i. 247. The name ‘Clarke’ is apparently our author’s invention,
+like the name and character of Franklin. The painter’s name was
+William Blackburn.
+
+I. i. 266. _Leave_; Tyrrell reads _love_.
+
+I. i. 278. _makes_: this singular with a plural subject is frequent in
+our play; cf. _Enters_ in the stage directions with a plural, and
+I. 151, 437, 502; II. i. 1; III. i. 43 and 83; V. 38, etc. Consult
+Mr. Verity’s note on _Edward II._, I. iv. 362, Temple Dramatists.
+
+I. i. 312. The statute in question was 37 Edward III. c. 9.
+
+I. i. 314. ‘The making of Spanish needles was first taught in
+England by Elias Crowse a Germane about the eight yeere of
+Queene Elizabeth, and in Queen Marie’s time there was a Negro
+made fine Spanish needles in Cheapeside, but would never teach
+his art to any.’ Quoted by Bullen from _Stowe_, edition 1631,
+p. 1038.
+
+I. i. 314. ‘Then Mosby having at his girdle a pressing iron of
+14 pound weight stroke him on the head with the same so that
+he fell down and gave a great groan.’--Holinshed. Cf V. i. 241.
+
+I. i. 323. _Velvet drudge_: an allusion to Mosbie’s tailoring.
+
+I. i. 426. _Populous_: ‘perhaps used in the sense of _thick_,
+_compact_.’--Bullen. Webster quotes this passage and explains,
+‘suitable to common people: hence common, inferior, vulgar.’
+Delius proposes _palpable_.
+
+I. i. 466. _His in state_, _i.e._ ‘his legally.’
+
+I. i. 472. Cf. ‘To wring the widow from her customed right.’--2
+_Henry VI._, V. i. 188.
+
+I. i. 537. Tyrrell begins Act II. here.
+
+I. i. 546. ‘The gentleman is not in your books.’--_Much Ado_,
+I. i. 79.
+
+I. i. 548. _make a gree_, come to an agreement. _Agree_ was used
+adverbially for _at gree_.
+
+
+
+
+ACT II
+
+
+SCENE I
+
+_Country between Feversham and London._
+
+_Enter Greene and Bradshaw._
+
+_Bradshaw._ See you them that comes yonder, Master Greene?
+
+_Greene._ Ay, very well: do you know them?
+
+_Here enters Black Will and Shakebag._
+
+_Bradshaw._ The one I know not, but he seems a knave
+Chiefly for bearing the other company;
+For such a slave, so vile a rogue as he,
+Lives not again upon the earth.
+Black Will is his name. I tell you, Master Greene,
+At Boulogne he and I were fellow-soldiers,
+Where he played such pranks
+As all the camp feared him for his villainy      10
+I warrant you he bears so bad a mind
+That for a crown he’ll murder any man.
+
+_Greene._ The fitter is he for my purpose, marry!
+
+_Will._ How now, fellow Bradshaw? Whither away so early?
+
+_Bradshaw._ O Will, times are changed: no fellows now,
+Though we were once together in the field;
+Yet thy friend to do thee any good I can.
+
+_Will._ Why, Bradshaw, was not thou and I fellow-soldiers
+at Boulogne, where I was a corporal, and
+thou but a base mercenary groom? No fellows
+now! because you are a goldsmith and have a little
+plate in your shop! You were glad to call me
+‘fellow Will,’ and with a curtsey to the earth, ‘One
+snatch, good corporal,’ when I stole the half ox
+from John the victualer, and domineer’d with it
+amongst good fellows in one night.
+
+_Bradshaw._ Ay, Will, those days are past with me.      27
+
+_Will._ Ay, but they be not past with me, for I keep that
+same honourable mind still. Good neighbour Bradshaw,
+you are too proud to be my fellow; but were
+it not that I see more company coming down the
+hill, I would be fellows with you once more, and
+share crowns with you too. But let that pass, and
+tell me whither you go.
+
+_Bradshaw._ To London, Will, about a piece of service,
+Wherein haply thou mayest pleasure me.
+
+_Will._ What is it?
+
+_Bradshaw._ Of late Lord Cheiny lost some plate,
+Which one did bring and sold it at my shop,
+Saying he served Sir Antony Cooke.      40
+A search was made, the plate was found with me,
+And I am bound to answer at the ’size.
+Now, Lord Cheiny solemnly vows, if law
+Will serve him, he’ll hang me for his plate.
+Now I am going to London upon hope
+To find the fellow. Now, Will, I know
+Thou art acquainted with such companions.
+
+_Will._ What manner of man was he?
+
+_Bradshaw._ A lean-faced writhen knave,
+Hawk-nosed and very hollow-eyed,      50
+With mighty furrows in his stormy brows;
+Long hair down his shoulders curled;
+His chin was bare, but on his upper lip
+A mutchado, which he wound about his ear.
+
+_Will._ What apparel had he?
+
+_Bradshaw._ A watchet satin doublet all-to torn,
+The inner side did bear the greater show;
+A pair of thread-bare velvet hose, seam rent,
+A worsted stocking rent above the shoe,
+A livery cloak, but all the lace was off;      60
+’Twas bad, but yet it served to hide the plate.
+
+_Will._ Sirrah Shakebag, canst thou remember since we
+trolled the bowl at Sittingburgh, where I broke the
+tapster’s head of the Lion with a cudgel-stick?
+
+_Shakebag._ Ay, very well, Will.
+
+_Will._ Why, it was with the money that the plate was
+sold for. Sirrah Bradshaw, what wilt thou give him
+that can tell thee who sold thy plate?
+
+_Bradshaw._ Who, I pray thee, good Will?
+
+_Will._ Why, ’twas one Jack Fitten. He’s now in Newgate
+for stealing a horse, and shall be arraigned the next ’size.      72
+
+_Bradshaw._ Why, then let Lord Cheiny seek Jack Fitten forth,
+For I’ll back and tell him who robbed him of his plate.
+This cheers my heart; Master Greene, I’ll leave you,
+For I must to the Isle of Sheppy with speed.
+
+_Greene._ Before you go, let me intreat you
+To carry this letter to Mistress Arden of Feversham
+And humbly recommend me to herself.
+
+_Bradshaw._ That will I, Master Greene, and so farewell.      80
+Here, Will, there’s a crown for thy good news.
+
+      [_Exit Bradshaw._
+
+_Will._ Farewell, Bradshaw; I’ll drink no water for thy
+sake whilst this lasts.--Now, gentleman, shall we
+have your company to London?
+
+_Greene._ Nay, stay, sirs:
+A little more I needs must use your help,
+And in a matter of great consequence,
+Wherein if you’ll be secret and profound,
+I’ll give you twenty angels for your pains.      89
+
+_Will._ How? twenty angels? give my fellow George
+Shakebag and me twenty angels? And if thou’lt
+have thy own father slain, that thou may’st inherit
+his land, we’ll kill him.      93
+
+_Shakebag._ Ay, thy mother, thy sister, thy brother,
+or all thy kin.
+
+_Greene._ Well, this it is: Arden of Feversham
+Hath highly wronged me about the Abbey land,
+That no revenge but death will serve the turn.
+Will you two kill him? here’s the angels down,
+And I will lay the platform of his death.       100
+
+_Will._ Plat me no platforms; give me the money, and
+I’ll stab him as he stands pissing against a wall, but
+I’ll kill him.
+
+_Shakebag._ Where is he?
+
+_Greene._ He is now at London, in Aldersgate Street.
+
+_Shakebag._ He’s dead as if he had been condemned by
+an Act of Parliament, if once Black Will and I
+swear his death.
+
+_Greene_. Here is ten pound, and when he is dead,
+Ye shall have twenty more.      110
+
+_Will._ My fingers itches to be at the peasant. Ah, that
+I might be set a work thus through the year, and
+that murder would grow to an occupation, that a
+man might follow without danger of law:--zounds, I
+warrant I should be warden of the company! Come,
+let us be going, and we’ll bait at Rochester, where
+I’ll give thee a gallon of sack to handsel the match
+withal.
+
+      [_Exeunt._
+
+II. i. 51. Mr. Bullen says that such a line as this ‘might have
+come straight out of _Tamburlaine_.’ He goes on, ‘but in no other
+part of the play can we find a trace of Marlowe’s influence.’ Cf.--
+
+‘He sent a shaggy tottered staring slave,
+That when he speaks draws out his grisly beard,
+And winds it twice or thrice about his ear;
+Whose face has been a grindstone for men’s swords.’
+
+_Jew of Malta_, IV. v. 6.
+
+and Shakespeare’s--
+
+‘They brought one Pinch, a hungry lean-faced villain ...
+A needy hollow-ey’d, sharp-looking wretch,
+A living dead man.’
+
+_Com. of Errors_, V. i. 237.
+
+II. i. 56. _all to torn_; ‘entirely torn.’ _To_ in the sense of
+‘asunder’ was commonly emphasised by _all_. Cf. ‘Her wings ...
+were all to ruffled.’--_Comus_, 380.
+
+II. i. 58. _seam rent_: torn at the seams; ‘Seam rent fellows,’--Ben
+Jonson.
+
+II. i. 101. Imitated in Yarington’s _Two Tragedies_ (iii. 2):--
+
+‘Grace me no graces, I respect no grace,
+But with a grace to give a graceless stab.’
+
+II. i. 114. I have inserted _follow_.
+
+
+SCENE II
+
+_London. A Street near St. Paul’s._
+
+_Enter Michael._
+
+_Michael._ I have gotten such a letter as will touch the
+painter: And thus it is:
+
+_Here enters Arden and Franklin and hears Michael
+read this letter._
+
+‘My duty remembered, Mistress Susan, hoping in God
+you be in good health, as I Michael was at the
+making hereof. This is to certify you that as the
+turtle true, when she hath lost her mate, sitteth
+alone, so I, mourning for your absence, do walk
+up and down Paul’s till one day I fell asleep and
+lost my master’s pantofles. Ah, Mistress Susan,
+abolish that paltry painter, cut him off by the
+shins with a frowning look of your crabbed countenance,
+and think upon Michael, who, drunk with
+the dregs of your favour, will cleave as fast to your
+love as a plaster of pitch to a galled horse-back.
+Thus hoping you will let my passions penetrate, or
+rather impetrate mercy of your meek hands, I end.
+
+    ‘Yours, Michael, or else not Michael.’
+
+_Arden._ Why, you paltry knave,
+Stand you here loitering, knowing my affairs,
+What haste my business craves to send to Kent?      20
+
+_Franklin._ Faith, friend Michael, this is very ill,
+Knowing your master hath no more but you,
+And do ye slack his business for your own?
+
+_Arden._ Where is the letter, sirrah? let me see it.
+
+      [_Then he gives him the letter._
+
+See, Master Franklin, here’s proper stuff:
+Susan my maid, the painter, and my man,
+A crew of harlots, all in love, forsooth;
+Sirrah, let me hear no more of this,
+Nor for thy life once write to her a word.
+
+_Here enters Greene, Will, and Shakebag._
+
+Wilt thou be married to so base a trull?      30
+’Tis Mosbie’s sister: come I once at home,
+I’ll rouse her from remaining in my house.
+Now, Master Franklin, let us go walk in Paul’s;
+Come but a turn or two, and then away.
+
+      [_Exeunt._
+
+_Greene._ The first is Arden, and that’s his man,
+The other is Franklin, Arden’s dearest friend.
+
+_Will._ Zounds, I’ll kill them all three.
+
+_Greene._ Nay, sirs, touch not his man in any case;
+But stand close, and take you fittest standing,
+And at his coming forth speed him:      40
+To the Nag’s Head, there is this coward’s haunt.
+But now I’ll leave you till the deed be done.
+
+      [_Exit Greene._
+
+_Shakebag._ If he be not paid his own, ne’er trust Shakebag.
+
+_Will._ Sirrah Shakebag, at his coming forth I’ll run him
+through, and then to the Blackfriars, and there
+take water and away.
+
+_Shakebag._ Why, that’s the best; but see thou miss him not.
+
+_Will._ How can I miss him, when I think on the forty
+angels I must have more?
+
+_Here enters Prentice._
+
+_Prentice._ ’Tis very late; I were best shut up my stall,
+for here will be old filching, when the press comes
+forth of Paul’s.      52
+
+      [_Then lets he down his window, and it breaks Black Will’s head._
+
+_Will._ Zounds, draw, Shakebag, I am almost killed.
+
+_Prentice._ We’ll tame you, I warrant.
+
+_Will._ Zounds, I am tame enough already.
+
+_Here enters Arden, Franklin, and Michael._
+
+_Arden._ What troublesome fray or mutiny is this?
+
+_Franklin._ ’Tis nothing but some brabling paltry fray,
+Devised to pick men’s pockets in the throng.
+
+_Arden._ Is’t nothing else? come, Franklin, let’s away.
+
+      [_Exeunt._
+
+_Will._ What ’mends shall I have for my broken head?      60
+
+_Prentice._ Marry, this ’mends, that if you get you not
+away all the sooner, you shall be well beaten and
+sent to the Counter.      [_Exit Prentice._
+
+_Will._ Well, I’ll be gone, but look to your signs, for I’ll
+pull them down all. Shakebag, my broken head
+grieves me not so much as by this means Arden
+hath escaped.
+
+_Here enters Greene._
+
+I had a glimpse of him and his companion.
+
+_Greene._ Why, sirs, Arden’s as well as I; I met him and
+Franklin going merrily to the ordinary. What, dare
+you not do it?      71
+
+_Will._ Yes, sir, we dare do it; but, were my consent to
+give again, we would not do it under ten pound
+more. I value every drop of my blood at a French
+crown. I have had ten pound to steal a dog, and we
+have no more here to kill a man; but that a bargain
+is a bargain, and so forth, you should do it yourself.
+
+_Greene._ I pray thee, how came thy head broke?
+
+_Will._ Why, thou seest it is broke, dost thou not?      79
+
+_Shakebag._ Standing against a stall, watching Arden’s
+coming, a boy let down his shop-window and broke
+his head; whereupon arose a brawl, and in the
+tumult Arden escaped us and passed by unthought
+on. But forbearance is no acquittance; another
+time we’ll do it, I warrant thee.
+
+_Greene._ I pray thee, Will, make clean thy bloody brow,
+And let us bethink us on some other place
+Where Arden may be met with handsomely.
+Remember how devoutly thou hast sworn
+To kill the villain; think upon thine oath.      90
+
+_Will._ Tush, I have broken five hundred oaths!
+But wouldst thou charm me to effect this deed,
+Tell me of gold, my resolution’s fee;
+Say thou seest Mosbie kneeling at my knees,
+Offering me service for my high attempt,
+And sweet Alice Arden, with a lap of crowns,
+Comes with a lowly curtsey to the earth,
+Saying ‘Take this but for thy quarterage,
+Such yearly tribute will I answer thee.’
+Why, this would steel soft-mettled cowardice,      100
+With which Black Will was never tainted yet.
+I tell thee, Greene, the forlorn traveller,
+Whose lips are glued with summer’s parching heat,
+Ne’er longed so much to see a running brook
+As I to finish Arden’s tragedy.
+Seest thou this gore that cleaveth to my face?
+From hence ne’er will I wash this bloody stain,
+Till Arden’s heart be panting in my hand.
+
+_Greene._ Why, that’s well said; but what saith Shakebag?
+
+_Shakebag._ I cannot paint my valour out with words:      110
+But, give me place and opportunity,
+Such mercy as the starven lioness,
+When she is dry sucked of her eager young,
+Shows to the prey that next encounters her,
+On Arden so much pity would I take.
+
+_Greene._ So should it fare with men of firm resolve.
+And now, sirs, seeing that this accident
+Of meeting him in Paul’s hath no success,
+Let us bethink us of some other place
+Whose earth may swallow up this Arden’s blood.
+
+_Here enters Michael._
+
+See, yonder comes his man: and wot you what?      121
+The foolish knave’s in love with Mosbie’s sister,
+And for her sake, whose love he cannot get
+Unless Mosbie solicit his suit,
+The villain hath sworn the slaughter of his master.
+We’ll question him, for he may stead us much,--
+How now, Michael, whither are you going?
+
+_Michael._ My master hath new supped,
+And I am going to prepare his chamber.
+
+_Greene._ Where supped Master Arden?      130
+
+_Michael._ At the Nag’s Head, at the eighteen pence
+ordinary. How now, Master Shakebag? what,
+Black Will! God’s dear lady, how chance your
+face is so bloody?
+
+_Will._ Go to, sirrah, there is a chance in it; this sauciness
+in you will make you be knocked.
+
+_Michael._ Nay, an you be offended, I’ll be gone.
+
+_Greene._ Stay, Michael, you may not escape us so.
+Michael, I know you love your master well.
+
+_Michael._ Why, so I do; but wherefore urge you that?
+
+_Greene._ Because I think you love your mistress better.
+
+_Michael._ So think not I; but say, i’ faith, what, if I should?
+
+_Shakebag._ Come to the purpose, Michael; we hear      143
+You have a pretty love in Feversham.
+
+_Michael._ Why, have I two or three, what’s that to thee!
+
+_Will._ You deal too mildly with the peasant. Thus it is:
+’Tis known to us that you love Mosbie’s sister;
+We know besides that you have ta’en your oath
+To further Mosbie to your mistress’ bed,
+And kill your master for his sister’s sake.
+Now, sir, a poorer coward than yourself      150
+Was never fostered in the coast of Kent:
+How comes it then that such a knave as you
+Dare swear a matter of such consequence?
+
+_Greene._ Ah, Will----
+
+_Will._ Tush, give me leave, there’s no more but this:
+Sith thou hast sworn, we dare discover all;
+And hadst thou or should’st thou utter it,
+We have devised a complat under hand,
+Whatever shall betide to any of us,
+To send thee roundly to the devil of hell.      160
+And therefore thus: I am the very man,
+Marked in my birth-hour by the destinies,
+To give an end to Arden’s life on earth;
+Thou but a member but to whet the knife
+Whose edge must search the closet of his breast:
+Thy office is but to appoint the place,
+And train thy master to his tragedy;
+Mine to perform it when occasion serves.
+Then be not nice, but here devise with us
+How and what way we may conclude his death.      170
+
+_Shakebag._ So shalt thou purchase Mosbie for thy friend,
+And by his friendship gain his sister’s love.
+
+_Greene._ So shall thy mistress be thy favourer,
+And thou disburdened of the oath thou made.
+
+_Michael._ Well, gentlemen, I cannot but confess,
+Sith you have urged me so apparently,
+That I have vowed my master Arden’s death;
+And he whose kindly love and liberal hand
+Doth challenge nought but good deserts of me,
+I will deliver over to your hands.       180
+This night come to his house at Aldersgate:
+The doors I’ll leave unlock’d against you come.
+No sooner shall ye enter through the latch,
+Over the threshold to the inner court,
+But on your left hand shall you see the stairs
+That leads directly to my master’s chamber:
+There take him and dispose him as ye please.
+Now it were good we parted company;
+What I have promised, I will perform.
+
+_Will._ Should you deceive us, ’twould go wrong with you.      190
+
+_Michael._ I will accomplish all I have revealed.
+
+_Will._ Come, let’s go drink: choler makes me as dry as a dog.      190
+
+      [_Exeunt Will, Greene, and Shakebag._
+      _Manet Michael._
+
+_Michael._ Thus feeds the lamb securely on the down,
+Whilst through the thicket of an arbour brake
+The hunger-bitten wolf o’erpries his haunt
+And takes advantage for to eat him up.
+Ah, harmless Arden, how hast thou misdone,
+That thus thy gentle life is levelled at?
+The many good turns that thou hast done to me.      200
+Now must I quittance with betraying thee.
+I that should take the weapon in my hand
+And buckler thee from ill-intending foes,
+Do lead thee with a wicked fraudful smile,
+As unsuspected, to the slaughter-house.
+So have I sworn to Mosbie and my mistress,
+So have I promised to the slaughtermen;
+And should I not deal currently with them,
+Their lawless rage would take revenge on me.
+Tush, I will spurn at mercy for this once:      210
+Let pity lodge where feeble women lie,
+I am resolved, and Arden needs must die.
+
+      [_Exit Michael._
+
+II. ii. 3. Michael’s letter is a curious effort at euphuism which
+calls to mind ‘Love’s Labour’s Lost.’ Note the fabulous natural
+history, the alliteration, and the alliterative proverb.
+
+II. ii. 51. _old filching_ = ‘rare filching.’ Cf. ‘Yonder’s old coil at
+hand.’--_Much Ado_, V. ii. 98.
+
+II. ii. 63. The Counter was a London prison.

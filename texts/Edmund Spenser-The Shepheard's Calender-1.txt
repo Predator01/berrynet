@@ -1,0 +1,1740 @@
+The Project Gutenberg EBook of The Shepheard's Calender, by Edmund Spenser
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: The Shepheard's Calender
+       Twelve Aeglogues Proportional to the Twelve Monethes
+
+Author: Edmund Spenser
+
+Illustrator: Walter Crane
+
+Release Date: April 27, 2013 [EBook #42607]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE SHEPHEARD'S CALENDER ***
+
+
+
+
+Produced by Chris Curnow, Nicole Henn-Kneif and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
+
+
+
+
+
+
+
+    THE SHEPHEARD'S
+    CALENDER:
+    TWELVE AEGLOGUES
+    PROPORTIONABLE TO
+    THE TWELVE MONETHES
+    ENTITLED TO THE NOBLE
+    AND VERTUOUS GENTLEMAN
+    MOST WORTHY
+    OF ALL TITLES BOTH OF
+    LEARNING & CHIVALRY,
+    MAISTER PHILIP SIDNEY.
+
+    BY EDMUND
+    SPENSER:
+    NEWLY ADORNED
+    WITH TWELVE PICTURES
+    AND OTHER
+    DEVICES BY
+    WALTER CRANE.
+
+    LONDON & NEW YORK
+    HARPER & BROTHERS
+    MDCCCXCVIII
+
+
+
+
+    TO HIS BOOK.
+
+
+    Go, little Book! thyself present,
+    As child whose parent is unkent,
+    To him that is the President
+    Of Nobleness and Chivalry:
+    And if that Envy bark at thee,
+    As sure it will, for succour flee
+    Under the shadow of his wing.
+    And, asked who thee forth did bring,
+    A shepheard's swain, say, did thee sing,
+    All as his straying flock he fed:
+    And, when his Honour has thee read,
+    Crave pardon for thy hardyhed.
+    But, if that any ask thy name,
+    Say, thou wert base-begot with blame;
+    Forthy thereof thou takest shame.
+    And, when thou art past jeopardy,
+    Come tell me what was said of me,
+    And I will send more after thee.
+
+    IMMERITO.
+
+
+
+
+    TABLE OF CONTENTS.
+
+
+                                                                   PAGE
+    THE EPISTLE                                                      ix
+    THE GENERAL ARGUMENT                                            xix
+    JANUARIE. Ægloga Prima                                            1
+    FEBRUARIE. Ægloga Secunda                                         7
+    MARCH. Ægloga Tertia                                             17
+    APRIL. Ægloga Quarta                                             23
+    MAY. Ægloga Quinta                                               31
+    JUNE. Ægloga Sexta                                               43
+    JULY. Ægloga Septima                                             51
+    AUGUST. Ægloga Octava                                            61
+    SEPTEMBER. Ægloga Nona                                           71
+    OCTOBER. Ægloga Decima                                           81
+    NOVEMBER. Ægloga Undecima                                        89
+    DECEMBER. Ægloga Duodecima                                       99
+    EPILOGUE                                                        107
+    NOTES                                                           109
+    GLOSSARY                                                        113
+
+
+
+
+    TO THE MOST EXCELLENT AND LEARNED
+    BOTH ORATOR AND POET,
+    MAISTER GABRIEL HARVEY,
+
+His very special and singular good friend E. K. commendeth the good
+liking of this his good labour, and the patronage of the new Poet.
+
+
+Uncouth, unkiss'd, said the old famous poet Chaucer: whom for his
+excellency and wonderful skill in making, his scholar Lidgate, a worthy
+scholar of so excellent a maister, calleth the loadstar of our language:
+and whom our Colin Clout in his Æglogue, calleth Tityrus the god of
+shepheards, comparing him to the worthiness of the Roman Tityrus,
+Virgil. Which proverb, mine own good friend M. Harvey, as in that good
+old poet it served well Pandar's purpose for the bolstering of his bawdy
+brocage, so very well taketh place in this our new Poet, who for that he
+is uncouth (as said Chaucer) is unkiss'd, and unknown to most men, is
+regarded but of a few. But I doubt not, so soon as his name shall come
+into the knowledge of men, and his worthiness be sounded in the trump of
+Fame, but that he shall be not only kiss'd, but also beloved of all,
+embraced of the most, and wonder'd at of the best. No less, I think,
+deserveth his wittiness in devising, his pithiness in uttering, his
+complaints of love so lovely, his discourses of pleasure so pleasantly,
+his pastoral rudeness, his moral wiseness, his due observing of decorum
+every where, in personages, in seasons, in matter, in speech; and
+generally, in all seemly simplicity of handling his matters, and framing
+his words: the which of many things which in him be strange, I know will
+seem the strangest, and words themselves being so ancient, the knitting
+of them so short and intricate, and the whole period and compass of
+speech so delightsome for the roundness, and so grave for the
+strangeness. And first of the words to speak, I grant they be something
+hard, and of most men unused, yet both English, and also used of most
+excellent authors, and most famous poets. In whom, when as this our Poet
+hath been much travailed and throughly read, how could it be, (as that
+worthy orator said) but that walking in the sun, although for other
+cause he walked, yet needs he must be sunburnt; and, having the sound of
+those ancient poets still ringing in his ears, he must needs, in
+singing, hit out some of their tunes. But whether he useth them by such
+casualty and custom, or of set purpose and choice, as thinking them
+fittest for such rustical rudeness of shepheards, either for that their
+rough sound would make his rhymes more ragged and rustical; or else
+because such old and obsolete words are most used of country folk, sure
+I think, and think I think not amiss, that they bring great grace, and,
+as one would say, authority to the verse. For albe, amongst many other
+faults, it specially be objected of Valla against Livy, and of other
+against Sallust, that with over much study they affect antiquity, as
+covering thereby credence and honour of elder years; yet I am of
+opinion, and eke the best learned are of the like, that those ancient
+solemn words are a great ornament, both in the one, and in the other:
+the one labouring to set forth in his work an eternal image of
+antiquity, and the other carefully discoursing matters of gravity and
+importance. For, if my memory fail not, Tully in that book, wherein he
+endeavoureth to set forth the pattern of a perfect orator, saith that
+ofttimes an ancient word maketh the style seem grave, and as it were
+reverend, no otherwise than we honour and reverence gray hairs for a
+certain religious regard, which we have of old age. Yet neither every
+where must old words be stuffed in, nor the common dialect and manner of
+speaking so corrupted thereby, that, as in old buildings, it seem
+disorderly and ruinous. But all as in most exquisite pictures they use
+to blaze and pourtray not only the dainty lineaments of beauty, but also
+round about it to shadow the rude thickets and craggy clifts, that, by
+the baseness of such parts, more excellency may accrue to the
+principal: for oftentimes we find ourselves, I know not how, singularly
+delighted with the shew of such natural rudeness, and take great
+pleasure in that disorderly order. Even so do those rough and harsh
+terms enlumine, and make more clearly to appear, the brightness of brave
+and glorious words. So oftentimes a discord in music maketh a comely
+concordance: so great delight took the worthy poet Alceus to behold a
+blemish in the joint of a well-shaped body. But, if any will rashly
+blame such his purpose in choice of old and unwonted words, him may I
+more justly blame and condemn, or of witless headiness in judging, or of
+heedless hardiness in condemning: for, not marking the compass of his
+bent, he will judge of the length of his cast: for in my opinion it is
+one especial praise of many, which are due to this Poet, that he hath
+laboured to restore, as to their rightful heritage, such good and
+natural English words, as have been long time out of use, and almost
+clean disherited. Which is the only cause, that our mother tongue, which
+truly of itself is both full enough for prose, and stately enough for
+verse, hath long time been counted most bare and barren of both. Which
+default when as some endeavoured to salve and recure, they patched up
+the holes with pieces and rags of other languages, borrowing here of
+the French, there of the Italian, every where of the Latin; not
+weighing how ill those tongues accord with themselves, but much worse
+with ours: So now they have made our English tongue a gallimaufrey, or
+hodgepodge of all other speeches. Other some not so well seen in the
+English tongue, as perhaps in other languages, if they happen to hear an
+old word, albeit very natural and significant, cry out straightway, that
+we speak no English, but gibberish, or rather such as in old time
+Evander's mother spake: whose first shame is, that they are not ashamed,
+in their own mother tongue, to be counted strangers and aliens. The
+second shame no less than the first, that what so they understand not,
+they straightway deem to be senseless, and not at all to be understood.
+Much like to the mole in Æsop's fable, that, being blind herself, would
+in no wise be persuaded that any beast could see. The last, more
+shameful than both, that of their own country and natural speech, which
+together with their nurse's milk they sucked, they have so base regard
+and bastard judgment, that they will not only themselves not labour to
+garnish and beautify it, but also repine, that of other it should be
+embellished. Like to the dog in the manger, that himself can eat no hay,
+and yet barketh at the hungry bullock, that so fain would feed: whose
+currish kind, though it cannot be kept from barking, yet I conne them
+thank that they refrain from biting.
+
+Now, for the knitting of sentences, which they call the joints and
+members thereof, and for all the compass of the speech, it is round
+without roughness, and learned without hardness, such indeed as may be
+perceived of the least, understood of the most, but judged only of the
+learned. For what in most English writers useth to be loose, and as it
+were unright, in this Author is well grounded, finely framed, and
+strongly trussed up together. In regard whereof, I scorn and spue out
+the rakehelly rout of our ragged rhymers (for so themselves use to hunt
+the letter) which without learning boast, without judgment jangle,
+without reason rage and foam, as if some instinct of poetical spirit had
+newly ravished them above the meanness of common capacity. And being, in
+the midst of all their bravery, suddenly, either for want of matter, or
+rhyme; or having forgotten their former conceit; they seem to be so
+pained and travailed in their remembrance, as it were a woman in
+childbirth, or as that same Pythia, when the trance came upon her. "_Os
+rabidum fera corda domans_," etc.
+
+Nathless, let them a God's name feed on their own folly, so they seek
+not to darken the beams of others' glory. As for Colin, under whose
+person the Author's self is shadowed, how far he is from such vaunted
+titles and glorious shews, both himself sheweth, where he saith:
+
+     "Of Muses, Hobbin, I conne no skill."
+
+And,
+
+     "Enough is me to paint out my unrest," etc.
+
+And also appeareth by the baseness of the name, wherein it seemeth he
+chose rather to unfold great matter of argument covertly than,
+professing it, not suffice thereto accordingly. Which moved him rather
+in Æglogues than otherwise to write, doubting perhaps his ability, which
+he little needed, or minding to furnish our tongue with this kind,
+wherein it faulteth; or following the example of the best and most
+ancient poets, which devised this kind of writing, being both so base
+for the matter, and homely for the manner, at the first to try their
+abilities; and as young birds, that be newly crept out of the nest, by
+little first prove their tender wings, before they make a greater
+flight. So flew Theocritus, as you may perceive he was already full
+fledged. So flew Virgil, as not yet well feeling his wings. So flew
+Mantuane, as not being full somm'd. So Petrarch. So Boccace. So Marot,
+Sanazarius, and also divers other excellent both Italian and French
+poets, whose footing this author every where followeth: yet so as few,
+but they be well scented, can trace him out. So finally flieth this our
+new Poet as a bird whose principals be scarce grown out, but yet as one
+that in time shall be able to keep wing with the best. Now, as touching
+the general drift and purpose of his Æglogues, I mind not to say much,
+himself labouring to conceal it. Only this appeareth, that his unstayed
+youth had long wander'd in the common labyrinth of love, in which time
+to mitigate and allay the heat of his passion, or else to warn (as he
+saith) the young shepheards, his equals and companions, of his
+unfortunate folly, he compiled these twelve Æglogues, which, for that
+they be proportioned to the state of the twelve monethes, he termeth it
+the _Shepheard's Calender_, applying an old name to a new work. Hereunto
+have I added a certain gloss, or scholion, for the exposition of old
+words and harder phrases; which manner of glossing and commenting, well
+I wot, will seem strange and rare in our tongue: yet, for so much as I
+knew many excellent and proper devices, both in words and matter, would
+pass in the speedy course of reading either as unknown, or as not
+marked; and that in this kind, as in other, we might be equal to the
+learned of other nations; I thought good to take the pains upon me, the
+rather for that by means of some familiar acquaintance I was made privy
+to his counsel and secret meaning in them, as also in sundry other
+works of his. Which albeit I know he nothing so much hateth, as to
+promulgate, yet thus much have I adventured upon his friendship, himself
+being for long time far estranged; hoping that this will the rather
+occasion him to put forth divers other excellent works of his, which
+sleep in silence; as his _Dreams_, his _Legends_, his _Court of Cupid_,
+and sundry others, whose commendation to set out were very vain, the
+things though worthy of many, yet being known to few. These my present
+pains, if to any they be pleasurable or profitable, be you judge, mine
+own Maister Harvey, to whom I have both in respect of your worthiness
+generally, and otherwise upon some particular and special
+considerations, vowed this my labour, and the maidenhead of this our
+common friend's poetry; himself having already in the beginning
+dedicated it to the noble and worthy gentleman, the right worshipful
+Maister Philip Sidney, a special favourer and maintainer of all kind of
+learning. Whose cause, I pray you, sir, if envy shall stir up any
+wrongful accusation, defend with your mighty rhetoric and other your
+rathe gifts of learning, as you can, and shield with your good will, as
+you ought, against the malice and outrage of so many enemies, as I know
+will be set on fire with the sparks of his kindled glory. And thus
+recommending the Author unto you, as unto his most special good friend,
+and myself unto you both, as one making singular account of two so very
+good and so choice friends, I bid you both most heartily farewell, and
+commit you and your commendable studies to the tuition of the Greatest.
+
+   Your own assuredly to be commanded,
+     E. K.[1]
+
+P.S.--Now I trust, M. Harvey, that upon sight of your special friend's
+and fellow poet's doings, or else for envy of so many unworthy Quidams,
+which catch at the garland which to you alone is due, you will be
+persuaded to pluck out of the hateful darkness those so many excellent
+English poems of yours which lie hid, and bring them forth to eternal
+light. Trust me, you do both them great wrong, in depriving them of the
+desired sun; and also yourself, in smothering your deserved praises; and
+all men generally, in withholding from them so divine pleasures, which
+they might conceive of your gallant English verses, as they have already
+done of your Latin poems, which, in my opinion, both for invention and
+elocution are very delicate and super-excellent. And thus again I take
+my leave of my good M. Harvey. From my lodging at London this tenth of
+April 1579.
+
+
+
+
+    THE
+    GENERAL ARGUMENT OF
+    THE WHOLE BOOK.
+
+
+Little, I hope, needeth me at large to discourse the first original of
+Æglogues, having already touched the same. But, for the word Æglogues I
+know is unknown to most, and also mistaken of some of the best learned,
+(as they think,) I will say somewhat thereof, being not at all
+impertinent to my present purpose.
+
+They were first of the Greeks, the inventors of them, called _Aeglogai,
+as it were Aegon, or Aeginomon logi_, that is, Goatherds' tales. For
+although in Virgil and others the speakers be more shepheards than
+goatherds, yet Theocritus, in whom is more ground of authority than in
+Virgil, this specially from that deriving, as from the first head and
+wellspring, the whole invention of these Æglogues maketh goatherds the
+persons and authors of his tales. This being, who seeth not the
+grossness of such as by colour of learning would make us believe, that
+they are more rightly termed _Eclogai_, as they would say, extraordinary
+discourses of unnecessary matter: which definition albe in substance and
+meaning it agree with the nature of the thing, yet no whit answereth
+with the analysis and interpretation of the word. For they be not termed
+_Eclogues_, but _Æglogues_; which sentence this Author very well
+observing, upon good judgment, though indeed few goatherds have to do
+herein, nevertheless doubteth not to call them by the used and best
+known name. Other curious discourses hereof I reserve to greater
+occasion.
+
+These twelve Æglogues, every where answering to the seasons of the
+twelve monethes, may be well divided into three forms or ranks. For
+either they be plaintive, as the first, the sixth, the eleventh, and the
+twelfth; or recreative, such as all those be, which contain matter of
+love, or commendation of special personages; or moral, which for the
+most part be mixed with some satyrical bitterness; namely, the second,
+of reverence due to old age; the fifth, of coloured deceit; the seventh
+and ninth, of dissolute shepheards and pastors; the tenth, of contempt
+of Poetry and pleasant Wits. And to this division may every thing herein
+be reasonably applied; a few only except, whose special purpose and
+meaning I am not privy to. And thus much generally of these twelve
+Æglogues. Now will we speak particularly of all, and first of the first,
+which he calleth by the first moneth's name, Januarie: wherein to some
+he may seem foully to have faulted, in that he erroneously beginneth
+with that moneth, which beginneth not the year. For it is well known,
+and stoutly maintained with strong reasons of the learned, that the year
+beginneth in March; for then the sun reneweth his finished course, and
+the seasonable spring refresheth the earth, and the pleasance thereof,
+being buried in the sadness of the dead winter now worn away, reliveth.
+
+This opinion maintain the old Astrologers and Philosophers, namely, the
+reverend Andalo, and Macrobius in his _Holy Days of Saturn_; which
+account also was generally observed both of Grecians and Romans. But,
+saving the leave of such learned heads, we maintain a custom of counting
+the seasons from the moneth Januarie, upon a more special cause than the
+heathen Philosophers ever could conceive, that is, for the Incarnation
+of our mighty Saviour, and Eternal Redeemer the Lord Christ, who as then
+renewing the state of the decayed world, and returning the compass of
+expired years to their former date and first commencement, left to us
+his heirs a memorial of his birth in the end of the last year and
+beginning of the next. Which reckoning, beside that eternal monument of
+our salvation, leaneth also upon good proof of special judgment.
+
+For albeit that in elder times, when as yet the count of the year was
+not perfected, as afterward it was by Julius Cæsar, they began to tell
+the monethes from March's beginning, and according to the same, God (as
+is said in Scripture) commanded the people of the Jews, to count the
+moneth _Abib_, that which we call March, for the first moneth, in
+remembrance that in that moneth he brought them out of the land of
+Egypt: yet, according to tradition of latter times it hath been
+otherwise observed, both in government of the Church and rule of
+mightiest realms. For from Julius Cæsar who first observed the leap
+year, which he called _Bissextilem Annum_, and brought into a more
+certain course the odd wand'ring days which of the Greeks were called
+_Hyperbainontes_, of the Romans _Intercalares_, (for in such matter of
+learning I am forced to use the terms of the learned,) the monethes have
+been numbered twelve, which in the first ordinance of Romulus were but
+ten, counting but 304 days in every year, and beginning with March. But
+Numa Pompilius, who was the father of all the Roman ceremonies and
+religion, seeing that reckoning to agree neither with the course of the
+sun nor the moon, thereunto added two monethes, Januarie and Februarie;
+wherein it seemeth, that wise king minded upon good reason to begin the
+year at Januarie, of him therefore so called _tanquam janua anni_, the
+gate and entrance of the year; or of the name of the god _Janus_, to
+which god for that the old Paynims attributed the birth and beginning of
+all creatures new coming into the world, it seemeth that he _therefore_
+to him assigned the beginning and first entrance of the year. Which
+account for the most part hath hitherto continued: notwithstanding that
+the Egyptians begin their year at September; for that, according to the
+opinion of the best Rabbins and very purpose of the Scripture itself,
+God made the world in that moneth, that is called of them _Tisri_. And
+therefore he commanded them to keep the feast of Pavilions in the end of
+the year, in the xv. day of the seventh moneth, which before that time
+was the first.
+
+But our author, respecting neither the subtilty of the one part, nor the
+antiquity of the other, thinketh it fittest, according to the simplicity
+of common understanding, to begin with Januarie; weening it perhaps no
+_decorum_ that shepheards should be seen in matter of so deep insight,
+or canvass a case of so doubtful judgment. So therefore beginneth he,
+and so continueth he throughout.
+
+
+
+
+    [Illustration: JANUARIE
+    AEGLOGA
+    PRIMA
+
+    EMBLEME]
+
+
+
+
+    THE SHEPHEARD'S
+    CALENDER:
+
+    JANUARIE. ÆGLOGA PRIMA. ARGUMENT.
+
+
+In this first Æglogue Colin Clout, a shepheard's boy, complaineth
+himself of his unfortunate love, being but newly (as seemeth) enamoured
+of a country lass called Rosalind: with which strong affection being
+very sore travailed, he compareth his careful case to the sad season of
+the year, to the frosty ground, to the frozen trees, and to his own
+winter-beaten flock. And lastly, finding himself robbed of all former
+pleasance and delight, he breaketh his pipe in pieces, and casteth
+himself to the ground.
+
+
+    COLIN CLOUT.
+
+    A shepheard's boy, (no better do him call,)
+    When winter's wasteful spite was almost spent,
+    All in a sunshine day, as did befall,
+    Led forth his flock, that had been long ypent:
+    So faint they wox, and feeble in the fold,
+    That now unnethes their feet could them uphold.
+
+    All as the sheep, such was the shepheard's look,
+    For pale and wan he was, (alas the while!)
+    May seem he lov'd, or else some care he took;
+    Well couth he tune his pipe and frame his style:
+    Then to a hill his fainting flock he led,
+    And thus him plain'd, the while his sheep there fed:
+
+    "Ye gods of love! that pity lovers' pain,
+    (If any gods the pain of lovers pity,)
+    Look from above, where you in joys remain,
+    And bow your ears unto my doleful ditty.
+    And, Pan! thou shepheards' god, that once didst love,
+    Pity the pains that thou thyself didst prove.
+
+    "Thou barren ground, whom winter's wrath hath wasted,
+    Art made a mirror to behold my plight:
+    Whilome thy fresh spring flower'd, and after hasted
+    Thy summer proud, with daffodillies dight;
+    And now is come thy winter's stormy state,
+    Thy mantle marr'd wherein thou maskedst late.
+
+    "Such rage as winter's reigneth in my heart,
+    My life-blood freezing with unkindly cold;
+    Such stormy stoures do breed my baleful smart,
+    As if my year were waste and waxen old;
+    And yet, alas! but now my spring begun,
+    And yet, alas! it is already done.
+
+    "You naked trees, whose shady leaves are lost,
+    Wherein the birds were wont to build their bower,
+    And now are cloth'd with moss and hoary frost,
+    Instead of blossoms, wherewith your buds did flower;
+    I see your tears that from your boughs do rain,
+    Whose drops in dreary icicles remain.
+
+    "All so my lustful leaf is dry and sere,
+    My timely buds with wailing all are wasted;
+    The blossom which my branch of youth did bear,
+    With breathed sighs is blown away and blasted;
+    And from mine eyes the drizzling tears descend,
+    As on your boughs the icicles depend.
+
+    "Thou feeble flock! whose fleece is rough and rent,
+    Whose knees are weak through fast and evil fare,
+    Mayst witness well, by thy ill government,
+    Thy master's mind is overcome with care:
+    Thou weak, I wan; thou lean, I quite forlorn:
+    With mourning pine I; you with pining mourn.
+
+    "A thousand siths I curse that careful hour
+    Wherein I long'd the neighbour town to see,
+    And eke ten thousand siths I bless the stoure
+    Wherein I saw so fair a sight as she:
+    Yet all for naught: such sight hath bred my bane.
+    Ah, God! that love should breed both joy and pain!
+
+    "It is not Hobbinol[2] wherefore I plain,
+    Albe my love he seek with daily suit;
+    His clownish gifts and court'sies I disdain,
+    His kids, his cracknels, and his early fruit.
+    Ah, foolish Hobbinol! thy gifts be vain;
+    Colin them gives to Rosalind again.
+
+    "I love thilk lass, (alas! why do I love?)
+    And am forlorn, (alas! why am I lorn?)
+    She deigns not my good will, but doth reprove,
+    And of my rural music holdeth scorn.
+    Shepheard's device she hateth as the snake,
+    And laughs the songs that Colin Clout doth make.
+
+    "Wherefore, my pipe, albe rude Pan thou please,
+    Yet for thou pleasest not where most I would;
+    And thou, unlucky Muse, that wont'st to ease
+    My musing mind, yet canst not when thou should;
+    Both Pipe and Muse shall sore the while abye."
+    So broke his oaten pipe, and down did lie.
+
+    By that, the welked Phœbus gan availe
+    His weary wain; and now the frosty Night
+    Her mantle black through heaven gan overhale:
+    Which seen, the pensive boy, half in despite,
+    Arose, and homeward drove his sunned sheep,
+    Whose hanging heads did seem his careful case to weep.
+
+    COLIN'S EMBLEME.
+    _Ancora speme._
+    (Hope is my anchor.)
+
+
+
+
+    [Illustration: FEBRUARIE
+    AEGLOGA
+    SECUNDA
+
+    EMBLEMES]
+
+
+
+
+FEBRUARIE. ÆGLOGA SECUNDA. ARGUMENT.
+
+
+This Æglogue is rather moral and general than bent to any secret or
+particular purpose. It specially containeth a discourse of old age, in
+the person of Thenot, an old shepheard, who, for his crookedness and
+unlustiness, is scorned of Cuddie, an unhappy herdman's boy. The matter
+very well accordeth with the season of the moneth, the year now
+drooping, and as it were drawing to his last age. For as in this time of
+year, so then in our bodies, there is a dry and withering cold, which
+congealeth the curdled blood, and freezeth the weather-beaten flesh,
+with storms of Fortune and hoar-frosts of Care. To which purpose the old
+man telleth a tale of the Oak and the Brier, so lively, and so
+feelingly, as, if the thing were set forth in some picture before our
+eyes, more plainly could not appear.
+
+
+    CUDDIE. THENOT.
+
+    CUDDIE.
+    Ah for pity! will rank winter's rage
+    These bitter blasts never gin t'assuage?
+    The keen cold blows through my beaten hide,
+    All as I were through the body gride:
+    My ragged ronts all shiver and shake,
+    As doen high towers in an earthquake:
+    They wont in the wind wag their wriggle tails
+    Perk as a peacock; but now it availes.
+    THE. Lewdly complainest, thou lazy lad,
+    Of winter's wrack for making thee sad.
+    Must not the world wend in his common course,
+    From good to bad, and from bad to worse,
+    From worse unto that is worst of all,
+    And then return to his former fall?
+    Who will not suffer the stormy time,
+    Where will he live till the lusty prime?
+    Self have I worn out thrice thirty years,
+    Some in much joy, many in many tears,
+    Yet never complained of cold nor heat,
+    Of summer's flame, nor of winter's threat,
+    Ne ever was to Fortune foeman,
+    But gently took that ungently came;
+    And ever my flock was my chief care;
+    Winter or summer they might well fare.
+    CUD. No marvel, Thenot, if thou can bear
+    Cheerfully the winter's wrathful cheer;
+    For age and winter accord full nigh,
+    This chill, that cold; this crooked, that wry;
+    And as the louring weather looks down,
+    So seemest thou like Good Friday[3] to frown:
+    But my flow'ring youth is foe to frost,
+    My ship unwont in storms to be tost.
+    THE. The sovereign of seas he blames in vain,
+    That, once sea-beat, will to sea again:
+    So loit'ring live you little herdgrooms,
+    Keeping your beasts in the budded brooms;
+    And, when the shining sun laugheth once,
+    You deemen, the spring is come at once;
+    Then gin you, fond flies! the cold to scorn,
+    And, crowing in pipes made of green corn,
+    You thinken to be lords of the year;
+    But eft, when ye count you freed from fear,
+    Comes the breme Winter with chamfred brows,
+    Full of wrinkles and frosty furrows,
+    Drearily shooting his stormy dart,
+    Which curdles the blood and pricks the heart:
+    Then is your careless courage accoyed,
+    Your careful herds with cold be annoyed:
+    Then pay you the price of your surquedry,
+    With weeping, and wailing, and misery.
+    CUD. Ah! foolish old man! I scorn thy skill,
+    That wouldst me my springing youth to spill:
+    I deem thy brain emperished be
+    Through rusty eld, that hath rotted thee;
+    Or sicker thy head very totty is,
+    So on thy corb shoulder it leans amiss.
+    Now thyself hath lost both lop and top,
+    Als my budding branch thou wouldest crop;
+    But were thy years green, as now be mine,
+    To other delights they would incline:
+    Then wouldest thou learn to carol of love,
+    And hery with hymns thy lass's glove;
+    Then wouldest thou pipe of Phillis' praise;
+    But Phillis is mine for many days;
+    I won her with a girdle of gelt,
+    Embost with bugle about the belt:
+    Such an one shepheards would make full fain;
+    Such an one would make thee young again.
+    THE. Thou art a fon, of thy love to boast;
+    All that is lent to love will be lost.
+    CUD. Seest how brag yond bullock bears,
+    So smirk, so smooth, his pricked ears?
+    His horns be as broad as rainbow bent,
+    His dewlap as lithe as lass of Kent:
+    See how he venteth into the wind;
+    Weenest of love is not his mind?
+    Seemeth thy flock thy counsel can,
+    So lustless be they, so weak, so wan;
+    Clothed with cold, and hoary with frost,
+    Thy flock's father his courage hath lost.
+    Thy ewes, that wont to have blowen bags,
+    Like wailful widows hangen their crags;
+    The rather lambs be starved with cold,
+    All for their master is lustless and old.
+    THE. Cuddie, I wot thou kenst little good,
+    So vainly to advance thy heedlesshood;
+    For youth is a bubble blown up with breath,
+    Whose wit is weakness, whose wage is death,
+    Whose way is wilderness, whose inn penance,
+    And stoop-gallant Age, the host of Grievance.
+    But shall I tell thee a tale of truth,
+    Which I cond of Tityrus in my youth,
+    Keeping his sheep on the hills of Kent?
+    CUD. To nought more, Thenot, my mind is bent
+    Than to hear novels of his devise;
+    They be so well thewed, and so wise,
+    Whatever that good old man bespake.
+    THE. Many meet tales of youth did he make,
+    And some of love, and some of chivalry;
+    But none fitter than this to apply.
+    Now listen a while and hearken the end.
+      "There grew an aged tree on the green,
+    A goodly Oak sometime had it been,
+    With arms full strong and largely display'd,
+    But of their leaves they were disarray'd:
+    The body big, and mightily pight,
+    Throughly rooted, and of wondrous height;
+    Whilome had been the king of the field,
+    And mochell mast to the husband did yield,
+    And with his nuts larded many swine:
+    But now the gray moss marred his rine;
+    His bared boughs were beaten with storms,
+    His top was bald, and wasted with worms,
+    His honour decayed, his branches sere.
+      "Hard by his side grew a bragging Brere,
+    Which proudly thrust into th' element,
+    And seemed to threat the firmament:
+    It was embellish'd with blossoms fair,
+    And thereto aye wonted to repair
+    The shepheards' daughters to gather flowers,
+    To paint their garlands with his colours;
+    And in his small bushes used to shroud
+    The sweet nightingale singing so loud;
+    Which made this foolish Brere wax so bold,
+    That on a time he cast him to scold
+    And snebbe the good Oak, for he was old.
+      "'Why standst there (quoth he) thou brutish block?
+    Nor for fruit nor for shadow serves thy stock;
+    Seest how fresh my flowers be spread,
+    Dyed in lily white and crimson red,
+    With leaves engrained in lusty green;
+    Colours meet to clothe a maiden queen?
+    Thy waste bigness but cumbers the ground,
+    And dirks the beauty of my blossoms round:
+    The mouldy moss, which thee accloyeth,
+    My cinnamon smell too much annoyeth:
+    Wherefore soon I rede thee hence remove,
+    Lest thou the price of my displeasure prove.'
+    So spake this bold Brere with great disdain:
+    Little him answered the Oak again,
+    But yielded, with shame and grief adawed,
+    That of a weed he was overcrawed.
+      "It chanced after upon a day,
+    The husbandman self to come that way,
+    Of custom for to surview his ground,
+    And his trees of state in compass round:
+    Him when the spiteful Brere had espied,
+    Causeless complained, and loudly cried
+    Unto his lord, stirring up stern strife:
+      "'O my liege lord! the god of my life,
+    Pleaseth you ponder your suppliant's plaint,
+    Caused of wrong and cruel constraint,
+    Which I your poor vassal daily endure;
+    And, but your goodness the same recure,
+    Am like for desperate dool to die,
+    Through felonous force of mine enemy.'
+      "Greatly aghast with this piteous plea,
+    Him rested the goodman on the lea,
+    And bade the Brere in his plaint proceed.
+    With painted words then gan this proud weed
+    (As most usen ambitious folk)
+    His coloured crime with craft to cloak.
+      "'Ah, my sovereign! lord of creatures all,
+    Thou placer of plants both humble and tall,
+    Was not I planted of thine own hand,
+    To be the primrose of all thy land;
+    With flow'ring blossoms to furnish the prime,
+    And scarlet berries in summer time?
+    How falls it then that this faded Oak,
+    Whose body is sere, whose branches broke,
+    Whose naked arms stretch unto the fire,
+    Unto such tyranny doth aspire;
+    Hindering with his shade my lovely light,
+    And robbing me of the sweet sun's sight?
+    So beat his old boughs my tender side,
+    That oft the blood springeth from woundës wide;
+    Untimely my flowers forced to fall,
+    That be the honour of your coronal:
+    And oft he lets his canker-worms light
+    Upon my branches, to work me more spite;
+    And oft his hoary locks down doth cast,
+    Wherewith my fresh flow'rets be defast:
+    For this, and many more such outrage,
+    Craving your goodlyhead to assuage
+    The rancorous rigour of his might;
+    Nought ask I, but only to hold my right;
+    Submitting me to your good sufferance,
+    And praying to be guarded from grievance.'
+      "To this this Oak cast him to reply
+    Well as he couth; but his enemy
+    Had kindled such coals of displeasure,
+    That the goodman nould stay his leisure,
+    But home him hasted with furious heat,
+    Increasing his wrath with many a threat:
+    His harmful hatchet he hent in hand,
+    (Alas! that it so ready should stand!)
+    And to the field alone he speedeth,
+    (Aye little help to harm there needeth!)
+    Anger nould let him speak to the tree,
+    Enaunter his rage might cooled be;
+    But to the root bent his sturdy stroke,
+    And made many wounds in the waste Oak.
+    The axe's edge did oft turn again,
+    As half unwilling to cut the grain;
+    Seemed, the senseless iron did fear,
+    Or to wrong holy eld did forbear;
+    For it had been an ancient tree,
+    Sacred with many a mystery,
+    And often cross'd with the priests' crew,
+    And often hallowed with holy-water dew:
+    But sike fancies weren foolery,
+    And broughten this Oak to this misery;
+    For nought might they quitten him from decay,
+    For fiercely the goodman at him did lay.
+    The block oft groaned under the blow,
+    And sighed to see his near overthrow.
+    In fine, the steel had pierced his pith,
+    Then down to the earth he fell forthwith.
+    His wondrous weight made the ground to quake,
+    Th' earth shrunk under him, and seemed to shake:--
+    There lieth the Oak, pitied of none!
+      "Now stands the Brere like a lord alone,
+    Puffed up with pride and vain pleasance;
+    But all this glee had no continuance:
+    For eftsoons winter gan to approach;
+    The blust'ring Boreas did encroach,
+    And beat upon the solitary Brere;
+    For now no succour was seen him near.
+    Now gan he repent his pride too late;
+    For, naked left and disconsolate,
+    The biting frost nipt his stalk dead,
+    The watry wet weighed down his head,
+    And heaped snow burden'd him so sore,
+    That now upright he can stand no more;
+    And, being down, is trod in the durt
+    Of cattle, and broused, and sorely hurt.
+    Such was th' end of this ambitious Brere,
+    For scorning eld--"
+    CUD. Now I pray thee, shepheard, tell it not forth:
+    Here is a long tale, and little worth.
+    So long have I listened to thy speech,
+    That graffed to the ground is my breech;
+    My heartblood is well nigh frorne I feel,
+    And my galage grown fast to my heel;
+    But little ease of thy lewd tale I tasted:
+    Hie thee home, shepheard, the day is nigh wasted.
+
+    THENOT'S EMBLEME.[4]
+    _Iddio, perche é vecchio,
+    Fa suoi al suo essempio._
+
+    CUDDIE'S EMBLEME.[4]
+    _Niuno vecchio
+    Spaventa Iddio._
+
+
+
+
+    [Illustration: MARCH
+    AEGLOGA
+    TERTIA
+
+    EMBLEMES]
+
+
+
+
+MARCH. ÆGLOGA TERTIA. ARGUMENT.
+
+
+In this Æglogue two Shepheards' Boys, taking occasion of the season,
+begin to make purpose of love, and other pleasance which to springtime
+is most agreeable. The special meaning hereof is, to give certain marks
+and tokens, to know Cupid the poets' god of Love. But more particularly,
+I think, in the person of Thomalin, is meant some secret friend, who
+scorned Love and his knights so long, till at length himself was
+entangled, and unwares wounded with the dart of some beautiful regard,
+which is Cupid's arrow.
+
+
+    WILLY. THOMALIN.
+
+    WILLY.
+    Thomalin, why sitten we so,
+    As weren overwent with woe,
+      Upon so fair a morrow?
+    The joyous time now nigheth fast,
+    That shall alegge this bitter blast,
+      And slake the winter sorrow.
+    THO. Sicker, Willy, thou warnest well;
+    For winter's wrath begins to quell,
+      And pleasant spring appeareth:
+    The grass now gins to be refresht,
+    The swallow peeps out of her nest,
+      And cloudy welkin cleareth.
+    WIL. Seest not thilk same hawthorn stud,
+    How bragly it begins to bud,
+      And utter his tender head?
+    Flora now calleth forth each flower,
+    And bids make ready Maia's bower
+      That new is uprist from bed:
+    Then shall we sporten in delight,
+    And learn with Lettice to wax light,
+      That scornfully looks askance;
+    Then will we little Love awake,
+    That now sleepeth in Lethe lake,
+      And pray him leaden our dance.
+    THO. Willy, I ween thou be assot;
+    For lusty Love still sleepeth not,
+      But is abroad at his game.
+    WIL. How kenst thou that he is awoke?
+    Or hast thyself his slumber broke?
+      Or made privy to the same?
+    THO. No; but happily I him spied,
+    Where in a bush he did him hide,
+      With wings of purple and blue;
+    And, were not that my sheep would stray,
+    The privy marks I would bewray,
+      Whereby by chance I him knew.
+    WIL. Thomalin, have no care forthy;
+    Myself will have a double eye,
+      Alike to my flock and thine;
+    For, alas! at home I have a sire,
+    A stepdame eke, as hot as fire,
+      That duly adays counts mine.
+    THO. Nay, but thy seeing will not serve,
+    My sheep for that may chance to swerve,
+      And fall into some mischief:
+    For sithens is but the third morrow
+    That I chanc'd to fall asleep with sorrow,
+      And waked again with grief;
+    The while thilk same unhappy ewe,
+    Whose clouted leg her hurt doth shew,
+      Fell headlong into a dell,
+    And there unjointed both her bones:
+    Might her neck been jointed attones,
+      She should have need no more spell;
+    Th' elf was so wanton and so wood,
+    (But now I trow can better good,)
+      She might ne gang on the green.
+    WIL. Let be, as may be, that is past;
+    That is to come, let be forecast:
+      Now tell us what thou hast seen.
+    THO. It was upon a holiday,
+    When shepheards' grooms have leave to play,
+      I cast to go a shooting;
+    Long wand'ring up and down the land,
+    With bow and bolts in either hand,
+      For birds in bushes tooting,
+    At length within the ivy tod,
+    (There shrouded was the little god,)
+      I heard a busy bustling;
+    I bent my bolt against the bush,
+    List'ning if any thing did rush,
+      But then heard no more rustling.
+    Then, peeping close into the thick,
+    Might see the moving of some quick,
+      Whose shape appeared not;
+    But were it faery, fiend, or snake,
+    My courage yearn'd it to awake,
+      And manfully thereat shot:
+    With that sprang forth a naked swain;
+    With spotted wings like peacock's train,
+      And laughing lope to a tree;
+    His gilden quiver at his back,
+    And silver bow, which was but slack,
+      Which lightly he bent at me:
+    That seeing, I levell'd again,
+    And shot at him with might and main,
+      As thick as it had hailed.
+    So long I shot, that all was spent;
+    Then pumie stones I hast'ly hent,
+      And threw; but nought availed:
+    He was so wimble and so wight,
+    From bough to bough he leaped light,
+      And oft the pumies latched:
+    Therewith afraid I ran away;
+    But he, that erst seem'd but to play,
+      A shaft in earnest snatched,
+    And hit me running in the heel:
+    For then I little smart did feel,
+      But soon it sore increased;
+    And now it rankleth more and more,
+    And inwardly it fest'reth sore,
+      Ne wote I how to cease it.
+    WIL. Thomalin, I pity thy plight,
+    Perdie with Love thou didest fight;
+      I know him by a token:
+    For once I heard my father say,
+    How he him caught upon a day,
+      (Whereof he will be wroken,)
+    Entangled in a fowling net,
+    Which he for carrion crows had set
+      That in our pear-tree haunted:
+    Then said, he was a winged lad,
+    But bow and shafts as then none had,
+      Else had he sore been daunted.
+    But see, the welkin thicks apace,
+    And stooping Phœbus steeps his face;
+      It's time to haste us homeward.
+
+    WILLY'S EMBLEME.
+    _To be wise and eke to love,
+    Is granted scarce to gods above._
+
+    THOMALIN'S EMBLEME.
+    _Of honey and of gall in love there is store;
+    The honey is much, but the gall is more._
+
+
+
+
+    [Illustration: APRIL
+    AEGLOGA
+    QUARTA
+
+    EMBLEMES]
+
+
+
+
+APRIL. ÆGLOGA QUARTA. ARGUMENT.
+
+
+This Æglogue is purposely intended to the honour and praise of our most
+gracious sovereign, Queen Elizabeth. The speakers hereof be Hobbinol and
+Thenot, two shepheards: the which Hobbinol, being beforementioned
+greatly to have loved Colin, is here set forth more largely, complaining
+him of that boy's great misadventure in love; whereby his mind was
+alienated and withdrawn not only from him, who most loved him, but also
+from all former delights and studies, as well in pleasant piping, as
+cunning rhyming and singing, and other his laudable exercises. Whereby
+he taketh occasion, for proof of his more excellency and skill in
+poetry, to record a song, which the said Colin sometime made in honour
+of her Majesty, whom abruptly he termeth Elisa.
+
+
+    THENOT. HOBBINOL.
+
+    THENOT.
+    Tell me, good Hobbinol, what gars thee greet?
+      What! hath some wolf thy tender lambs ytorn?
+    Or is thy bagpipe broke, that sounds so sweet?
+      Or art thou of thy loved lass forlorn?
+    Or be thine eyes attemper'd to the year,
+      Quenching the gasping furrows' thirst with rain?
+    Like April shower, so stream the trickling tears
+      Adown thy cheek, to quench thy thirsty pain.
+    HOB. Nor this, nor that, so much doth make me mourn,
+      But for the lad, whom long I lov'd so dear,
+    Now loves a lass that all his love doth scorn:
+      He, plunged in pain, his tressed locks doth tear;
+    Shepheard's delights he doth them all forswear;
+      His pleasant pipe, which made us merriment,
+    He wilfully hath broke, and doth forbear
+      His wonted songs wherein he all outwent.
+    THE. What is he for a lad you so lament?
+      Is love such pinching pain to them that prove?
+    And hath he skill to make so excellent,
+      Yet hath so little skill to bridle love?
+    HOB. Colin thou kenst, the southern shepheard's boy;
+      Him Love hath wounded with a deadly dart:
+    Whilome on him was all my care and joy,
+      Forcing with gifts to win his wanton heart.
+    But now from me his madding mind is start,
+      And wooes the widow's daughter of the glen;
+    So now fair Rosalind hath bred his smart;
+      So now his friend is changed for a frenne.
+    THE. But if his ditties be so trimly dight,
+      I pray thee, Hobbinol, record some one,
+    The whiles our flocks do graze about in sight,
+      And we close shrouded in this shade alone.
+    HOB. Contented I: then will I sing his lay
+      Of fair Elisa, queen of shepheards all,
+    Which once he made as by a spring he lay,
+      And tuned it unto the waters' fall.
+
+    "Ye dainty Nymphs, that in this blessed brook
+      Do bathe your breast,
+    Forsake your watry bowers, and hither look,
+      At my request.
+    And eke you virgins, that on Parnass dwell,
+    Whence floweth Helicon, the learned well,
+      Help me to blaze
+      Her worthy praise,
+    Which in her sex doth all excel.
+
+    "Of fair Elisa be your silver song,
+      That blessed wight,
+    The flower of virgins; may she flourish long
+      In princely plight!
+    For she is Syrinx' daughter without spot,
+    Which Pan, the shepheards' god, of her begot:
+      So sprung her grace
+      Of heavenly race,
+    No mortal blemish may her blot.
+
+    "See, where she sits upon the grassy green,
+      (O seemly sight!)
+    Yclad in scarlet, like a maiden queen,
+      And ermines white:
+    Upon her head a crimson coronet,
+    With damask roses and daffadillies set;
+      Bay leaves between,
+      And primroses green,
+    Embellish the sweet violet.
+
+    "Tell me, have ye seen her angelic face,
+      Like Phœbe fair?
+    Her heavenly haveour, her princely grace,
+      Can you well compare?
+    The red rose medled with the white yfere,
+    In either cheek depeincten lively cheer:
+      Her modest eye,
+      Her majesty,
+    Where have you seen the like but there?
+
+    "I saw Phœbus thrust out his golden head,
+      Upon her to gaze;
+    But, when he saw how broad her beams did spread,
+      It did him amaze.
+    He blush'd to see another sun below,
+    Ne durst again his fiery face out show.
+      Let him, if he dare,
+      His brightness compare
+    With hers, to have the overthrow.
+
+    "Shew thyself, Cynthia, with thy silver rays,
+      And be not abash'd:
+    When she the beams of her beauty displays,
+      O how art thou dash'd!
+    But I will not match her with Latona's seed;
+    Such folly great sorrow to Niobe did breed.
+      And she is a stone,
+      And makes daily moan,
+    Warning all other to take heed.
+
+    "Pan may be proud that ever he begot
+      Such a bellibone;
+    And Syrinx rejoice, that ever was her lot
+      To bear such an one.
+    Soon as my younglings crying for the dam,
+    To her will I offer a milkwhite lamb;
+      She is my goddess plain,
+      And I her shepheard's swain,
+    Albe forswonk and forswat I am.
+
+    "I see Calliope speed her to the place,
+      Where my goddess shines;
+    And after her the other Muses trace,
+      With their violins.
+    Be they not bay-branches which they do bear,
+    All for Elisa in her hand to wear?
+      So sweetly they play,
+      And sing all the way,
+    That it a heaven is to hear.
+
+    "Lo, how finely the Graces can it foot
+      To the instrument:
+    They dancen deftly, and singen soote,
+      In their merriment.
+    Wants not a fourth Grace, to make the dance even?
+    Let that room to my Lady be yeven
+      She shall be a Grace,
+      To fill the fourth place,
+    And reign with the rest in heaven.
+
+    "And whither runs this bevy of ladies bright,
+      Ranged in a row?
+    They be all Ladies of the Lake behight,
+      That unto her go.
+    Chloris, that is the chiefest nymph of all,
+    Of olive branches bears a coronal:
+      Olives be for peace
+      When wars do surcease:
+    Such for a princess be principal.
+
+    "Ye shepheards' daughters, that dwell on the green,
+      Hie you there apace:
+    Let none come there but that virgins bene,
+      To adorn her grace:
+    And, when you come whereas she is in place,
+    See that your rudeness do not you disgrace:
+      Bind your fillets fast,
+      And gird in your waist,
+    For more fineness, with a tawdry lace.
+
+    "Bring hither the pink and purple columbine,
+      With gelliflowers;
+    Bring coronations, and sops-in-wine,
+      Worn of paramours:
+    Strow me the ground with daffadowndillies,
+    And cowslips, and kingcups, and loved lillies:
+      The pretty paunce,
+      And the chevisance,
+    Shall match with the fair flower delice.
+
+    "Now rise up, Elisa, decked as thou art
+      In royal array;
+    And now ye dainty damsels may depart
+      Each one her way.
+    I fear I have troubled your troops too long;
+    Let Dame Elisa thank you for her song:
+      And, if you come hither
+      When damsines I gather,
+    I will part them all you among."
+
+    THE. And was thilk same song of Colin's own making?
+      Ah! foolish boy! that is with love yblent;
+    Great pity is, he be in such taking,
+      For naught caren that be so lewdly bent.
+    HOB. Sicker I hold him for a greater fon,
+      That loves the thing he cannot purchase.
+    But let us homeward, for night draweth on,
+      And twinkling stars the daylight hence chase.
+
+    THENOT'S EMBLEME.[6]
+    _O quam et memorem virgo!_
+
+    HOBBINOL'S EMBLEME.
+    _O Dea certe!_
+
+
+
+
+    [Illustration: MAY
+    AEGLOGA
+    QUINTA
+
+    EMBLEMES]
+
+
+
+
+MAY. ÆGLOGA QUINTA. ARGUMENT.
+
+In this fifth Æglogue, under the person of two shepheards, Piers and
+Palinode, be represented two forms of Pastors or Ministers, or the
+Protestant and the Catholic; whose chief talk standeth in reasoning,
+whether the life of the one must be like the other; with whom having
+shewed, that it is dangerous to maintain any fellowship, or give too
+much credit to their colourable and feigned good-will, he telleth him a
+tale of the Fox, that, by such a counterpoint of craftiness, deceived
+and devoured the credulous Kid.
+
+
+    PALINODE. PIERS.
+
+    PALINODE.
+    Is not thilk the merry month of May,
+    When love-lads masken in fresh array?
+    How falls it, then, we no merrier bene,
+    Alike as others, girt in gaudy green?
+    Our bloncket liveries be all too sad
+    For thilk same season, when all is yclad
+    With pleasance; the ground with grass, the woods
+    With green leaves, the bushes with blooming buds.
+    Youth's folk now flocken in every where,
+    To gather May-buskets and smelling brere;
+    And home they hasten the posts to dight,
+    And all the kirk-pillars ere day-light,
+    With hawthorn buds, and sweet eglantine,
+    And garlands of roses, and sops-in-wine.
+    Such merrimake holy saints doth queme,
+    But we here sitten as drown'd in dream.
+    PIERS. For younkers, Palinode, such follies fit,
+    But we tway be men of elder wit.
+    PAL. Sicker this morrow, no longer ago,
+    I saw a shoal of shepheards outgo
+    With singing, and shouting, and jolly cheer:
+    Before them yode a lusty tabrere,
+    That to the many a horn-pipe play'd,
+    Whereto they dancen each one with his maid.
+    To see those folks make such jovisance,
+    Made my heart after the pipe to dance:
+    Then to the green wood they speeden them all,
+    To fetchen home May with their musical;
+    And home they bringen in a royal throne,
+    Crowned as king; and his queen attone
+    Was Lady Flora, on whom did attend
+    A fair flock of faeries, and a fresh bend
+    Of lovely nymphs. (O that I were there,
+    To helpen the ladies their Maybush bear!)
+    Ah! Piers, be not thy teeth on edge, to think
+    How great sport they gainen with little swink?
+    PIERS. Perdie, so far am I from envy,
+    That their fondness inly I pity:
+    Those faitours little regarden their charge,
+    While they, letting their sheep run at large,
+    Passen their time, that should be sparely spent,
+    In lustihed and wanton merriment.
+    Thilk same be shepheards for the devil's stead,
+    That playen while their flocks be unfed:
+    Well it is seen their sheep be not their own,
+    That letten them run at random alone:
+    But they be hired for little pay
+    Of other, that caren as little as they,
+    What fallen the flock, so they have the fleece,
+    And get all the gain, paying but a piece.
+    I muse, what account both these will make;
+    The one for the hire, which he doth take,
+    And th' other for leaving his Lord's task,
+    When great Pan account of shepheards shall ask.
+    PAL. Sicker, now I see thou speakest of spite,
+    All for thou lackest somdele their delight.
+    I (as I am) had rather be envied,
+    All were it of my foe, than fonly pitied;
+    And yet, if need were, pitied would be,
+    Rather than other should scorn at me;
+    For pitied is mishap that n'as remedy,
+    But scorned be deeds of fond foolery.
+    What shoulden shepheards other things tend,
+    Than, sith their God his good does them send,
+    Reapen the fruit thereof, that is pleasure,
+    The while they here liven at ease and leisure?
+    For, when they be dead, their good is ygoe,
+    They sleepen in rest, well as other moe:
+    Then with them wends what they spent in cost,
+    But what they left behind them is lost.
+    Good is no good, but if it be spend;
+    God giveth good for none other end.
+    PIERS. Ah! Palinode, thou art a world's child:
+    Who touches pitch, must needs be defil'd;
+    But shepheards (as Algrind[7] used to say)
+    Must not live alike as men of the lay.
+    With them it sits to care for their heir,
+    Enaunter their heritage do impair:
+    They must provide for means of maintenance,
+    And to continue their wont countenance:
+    But shepheard must walk another way,
+    Sike worldly sovenance he must for-say.
+    The son of his loins why should he regard
+    To leave enriched with that he hath spar'd?
+    Should not thilk God, that gave him that good,
+    Eke cherish his child, if in his ways he stood?
+    For if he mislive in lewdness and lust,
+    Little boots all the wealth, and the trust,
+    That his father left by inheritance;
+    All will be soon wasted with misgovernance:
+    But through this, and other their miscreance,
+    They maken many a wrong chevisance,
+    Heaping up waves of wealth and woe,
+    The floods whereof shall them overflow.
+    Sike men's folly I cannot compare
+    Better than to the ape's foolish care,
+    That is so enamoured of her young one,
+    (And yet, God wot, such cause had she none,)
+    That with her hard hold, and strait embracing,
+    She stoppeth the breath of her youngling.
+    So oftentimes, whenas good is meant,
+    Evil ensueth of wrong intent.
+      The time was once, and may again retorn,
+    (For ought may happen, that hath been beforn,)
+    When shepheards had none inheritance,
+    Ne of land nor fee in sufferance,
+    But what might arise of the bare sheep,
+    (Were it more or less) which they did keep.
+    Well ywis was it with shepheards then:
+    Nought having, nought feared they to forego;
+    For Pan himself was their inheritance,
+    And little them served for their maintenance.
+    The shepheards' God so well them guided,
+    That of nought they were unprovided;
+    Butter enough, honey, milk, and whey,
+    And their flocks' fleeces them to array:
+    But tract of time, and long prosperity,
+    (That nurse of vice, this of insolency,)
+    Lulled the shepheards in such security,
+    That, not content with loyal obeisance,
+    Some gan to gape for greedy governance,
+    And match them self with mighty potentates,
+    Lovers of lordship, and troublers of states:
+    Then gan shepheards' swains to look aloft,
+    And leave to live hard, and learn to ligg soft:
+    Then, under colour of shepheards, somewhile
+    There crept in wolves, full of fraud and guile,
+    That often devoured their own sheep,
+    And often the shepheards that did them keep:
+    This was the first source of shepheards' sorrow,
+    That now nill be quit with bail nor borrow.
+    PAL. Three things to bear be very burdenous,
+    But the fourth to forbear is outrageous:
+    Women, that of love's longing once lust,
+    Hardly forbearen, but have it they must:
+    So when choler is inflamed with rage,
+    Wanting revenge, is hard to assuage:
+    And who can counsel a thirsty soul,
+    With patience to forbear the offer'd bowl?
+    But of all burdens, that a man can bear,
+    Most is, a fool's talk to bear and to hear.
+    I ween the giant has not such a weight,
+    That bears on his shoulders the heaven's height.
+    Thou findest fault where n'is to be found,
+    And buildest strong work upon a weak ground:
+    Thou railest on right withouten reason,
+    And blamest them much for small encheason.
+    How shoulden shepheards live, if not so?
+    What? should they pinen in pain and woe?
+    Nay, say I thereto, by my dear borrow,
+    If I may rest, I nill live in sorrow.
+      Sorrow ne need be hastened on,
+    For he will come, without calling, anon,
+    While times enduren of tranquillity,
+    Usen we freely our felicity;
+    For, when approachen the stormy stowres,
+    We must with our shoulders bear off the sharp showers;
+    And, sooth to sayn, nought seemeth sike strife,
+    That shepheards so witen each other's life,
+    And layen their faults the worlds beforn,
+    The while their foes do each of them scorn.
+    Let none mislike of that may not be mended;
+    So contest soon by concord might be ended.
+    PIERS. Shepheard, I list no accordance make
+    With shepheard, that does the right way forsake;
+    And of the twain, if choice were to me,
+    Had lever my foe than my friend he be;
+    For what concord have light and dark sam?
+    Or what peace has the lion with the lamb?
+    Such faitours, when their false hearts be hid,
+    Will do as did the Fox by the Kid.[8]
+    PAL. Now, Piers, of fellowship, tell us that saying;
+    For the lad can keep both our flocks from straying.
+    PIERS. Thilk same Kid (as I can well devise)
+    Was too very foolish and unwise;
+    For on a time, in summer season,
+    The Goat her dam, that had good reason,
+    Yode forth abroad unto the green wood,
+    To brouze, or play, or what she thought good:
+    But, for she had a motherly care
+    Of her young son, and wit to beware,
+    She set her youngling before her knee,
+    That was both fresh and lovely to see,
+    And full of favour as kid might be.
+    His velvet head began to shoot out,
+    And his wreathed horns gan newly sprout;
+    The blossoms of lust to bud did begin,
+    And spring forth rankly under his chin.
+    "My son," (quoth she, and with that gan weep;
+    For careful thoughts in her heart did creep;)
+    "God bless thee, poor orphan! as he might me,
+    And send thee joy of thy jollity.
+    Thy father," (that word she spake with pain,
+    For a sigh had nigh rent her heart in twain,)
+    "Thy father, had he lived this day,
+    To see the branch of his body display,
+    How would he have joyed at this sweet sight?
+    But ah! false Fortune such joy did him spite,
+    And cut off his days with untimely woe,
+    Betraying him into the trains of his foe.
+    Now I, a wailful widow behight,
+    Of my old age have this one delight,
+    To see thee succeed in thy father's stead,
+    And flourish in flowers of lustihead;
+    For even so thy father his head upheld,
+    And so his haughty horns did he weld."
+      Then marking him with melting eyes,
+    A thrilling throb from her heart did arise,
+    And interrupted all her other speech
+    With some old sorrow that made a new breach;
+    Seemed she saw in her youngling's face
+    The old lineaments of his father's grace.
+    At last her sullen silence she broke,
+    And gan his new-budded beard to stroke.
+    "Kiddie," (quoth she,) "thou kenst the great care
+    I have of thy health and thy welfare,
+    Which many wild beasts liggen in wait
+    For to entrap in thy tender state:
+    But most the Fox, master of collusion;
+    For he has vowed thy last confusion.
+    Forthy, my Kiddie, be rul'd by me,
+    And never give trust to his treachery;
+    And, if he chance come when I am abroad,
+    Sperr the gate fast, for fear of fraud;
+    Ne for all his worst, nor for his best,
+    Open the door at his request."
+      So schooled the Goat her wanton son,
+    That answer'd his mother, all should be done.
+    Then went the pensive dam out of door,
+    And chanc'd to stumble at the threshold floor;
+    Her stumbling step somewhat her amazed,
+    (For such, as signs of ill luck, be dispraised;)
+    Yet forth she yode, thereat half aghast;
+    And Kiddie the door sperred after her fast.
+    It was not long, after she was gone,
+    But the false Fox came to the door anone;
+    Not as a fox, for then he had be kend,
+    But all as a poor pedlar he did wend,
+    Bearing a truss of trifles at his back,
+    As bells, and babes, and glasses, in his pack:
+    A biggen he had got about his brain,
+    For in his headpiece he felt a sore pain:
+    His hinder heel was wrapt in a clout,
+    For with great cold he had got the gout:
+    There at the door he cast me down his pack,
+    And laid him down, and groaned, "Alack! alack!
+    Ah! dear Lord! and sweet Saint Charity!
+    That some good body would once pity me!"
+      Well heard Kiddie all this sore constraint,
+    And long'd to know the cause of his complaint;
+    Then, creeping close behind the wicket's clink,
+    Privily he peeped out through a chink,
+    Yet not so privily but the Fox him spied;
+    For deceitful meaning is double-eyed.
+      "Ah! good young master," (then gan he cry,)
+    "Jesus bless that sweet face I espy,
+    And keep your corpse from the careful stounds
+    That in my carrion carcase abounds."
+      The Kid, pitying his heaviness,
+    Asked the cause of his great distress,
+    And also who, and whence that he were.
+      Then he, that had well yconn'd his lere,
+    Thus medled his talk with many a tear:
+    "Sick, sick, alas! and little lack of dead,
+    But I be relieved by your beastlyhead.
+    I am a poor sheep, albe my colour dun,
+    For with long travel I am brent in the sun;
+    And if that, my grandsire me said, be true,
+    Sicker, I am very sib to you;
+    So be your goodlihead do not disdain
+    The base kindred of so simple swain.
+    Of mercy and favour then I you pray,
+    With your aid to forestall my near decay."
+      Then out of his pack a glass he took,
+    Wherein while Kiddie unwares did look,
+    He was so enamoured with the newell,
+    That nought he deemed dear for the jewel:
+    Then opened he the door, and in came
+    The false Fox, as he were stark lame:
+    His tail he clapt betwixt his legs twain,
+    Lest he should be descried by his train.
+      Being within, the Kid made him good glee,
+    All for the love of the glass he did see.
+    After his cheer, the pedlar gan chat,
+    And tell many leasings of this and that,
+    And how he could shew many a fine knack;
+    Then shewed his ware and opened his pack,
+    All save a bell, which he left behind
+    In the basket for the Kid to find;
+    Which when the Kid stooped down to catch,
+    He popt him in, and his basket did latch;
+    Ne stayed he once the door to make fast,
+    But ran away with him in all hast.
+      Home when the doubtful dame had her hied,
+    She might see the door stand open wide;
+    All aghast, loudly she gan to call
+    Her Kid; but he nould answer at all:
+    Then on the floor she saw the merchandice
+    Of which her son had set too dear a price.
+    What help! her Kid she knew well was gone:
+    She weeped, and wailed, and made great moan.
+    Such end had the Kid, for he nould warned be
+    Of craft, coloured with simplicity;
+    And such end, perdie, does all them remain,
+    That of such falsers' friendship be fain.
+    PAL. Truly, Piers, thou art beside thy wit,
+    Furthest fro the mark, weening it to hit.
+    Now, I pray thee, let me thy tale borrow
+    For our Sir John,[9] to say to-morrow
+    At the kirk when it is holiday;
+    For well he means, but little can say.
+    But, and if foxes be so crafty as so,
+    Much needeth all shepheards them to know.
+    PIERS. Of their falsehood more could I recount,
+    But now the bright sun ginneth to dismount;
+    And, for the dewy night now doth nigh,
+    I hold it best for us home to hie.
+
+
+    PALINODE'S EMBLEME.
+
+    [Greek: Pas men apistos apistei].
+    (Every one without faith is suspicious.)
+
+
+    PIERS, HIS EMBLEME.
+
+    [Greek: Tis d' ara pistis apistò?
+    (What faith, then, in the faithless?)]
+
+
+
+
+    [Illustration: IUNE
+    AEGLOGA
+    SEXTA
+
+    COLINS
+    EMBLEME]
+
+
+
+
+JUNE. ÆGLOGA SEXTA. ARGUMENT.
+
+This Æglogue is wholly vowed to the complaining of Colin's ill success
+in his love. For being (as is aforesaid) enamoured of a country lass
+Rosalind, and having (as seemeth) found place in her heart, he lamenteth
+to his dear friend Hobbinol, that he is now forsaken unfaithfully, and
+in his stead Menalcas, another shepheard, received disloyally. And this
+is the whole Argument of this Æglogue.
+
+
+    HOBBINOL. COLIN CLOUT.
+
+    HOBBINOL.
+    Lo! Colin, here the place whose pleasant site
+    From other shades hath wean'd my wand'ring mind,
+    Tell me, what wants me here to work delight?
+    The simple air, the gentle warbling wind,
+    So calm, so cool, as nowhere else I find;
+    The grassy ground with dainty daisies dight,
+    The bramble bush, where birds of every kind
+    To the waters' fall their tunes attemper right.
+
+    COL. O happy Hobbinol, I bless thy state,
+    That Paradise hast found which Adam lost:
+    Here wander may thy flock early or late,
+    Withouten dread of wolves to be ytost;
+    Thy lovely lays here mayst thou freely boast:
+    But I, unhappy man! whom cruel Fate
+    And angry gods pursue from coast to coast,
+    Can nowhere find to shroud my luckless pate.
+
+    HOB. Then, if by me thou list advised be,
+    Forsake the soil that so doth thee bewitch;
+    Leave me those hills were harbrough n'is to see,
+    Nor holly-bush, nor briar, nor winding ditch;
+    And to the dales resort, where shepheards rich,
+    And fruitful flocks, be every where to see:
+    Here no night-ravens lodge, more black than pitch,
+    Nor elvish ghosts, nor ghastly owls do flee;
+
+    But friendly Faeries, met with many Graces,
+    And lightfoot Nymphs, can chase the ling'ring Night
+    With heydeguys, and trimly trodden traces,
+    Whilst Sisters Nine, which dwell on Parnass height,
+    Do make them music for their more delight;
+    And Pan himself to kiss their crystal faces
+    Will pipe and dance, when Phœbe shineth bright:
+    Such peerless pleasures have we in these places.
+
+    COL. And I, whilst youth, and course of careless years,
+    Did let me walk withouten links of love,
+    In such delights did joy amongst my peers;
+    But riper age such pleasures doth reprove:
+    My fancy eke from former follies move
+    To stayed steps; for time in passing wears,
+    (As garments do, which waxen old above,)
+    And draweth new delights with hoary hairs.
+
+    Then couth I sing of love, and tune my pipe
+    Unto my plaintive pleas in verses made;
+    Then would I seek for queen-apples unripe;
+    To give my Rosalind, and in summer shade
+    Dight gaudy garlands was my common trade,
+    To crown her golden locks; but years more ripe,
+    And loss of her, whose love as life I weigh'd,
+    Those weary wanton toys away did wipe.
+
+    HOB. Colin, to hear thy rhymes and roundelays,
+    Which thou wert wont on wasteful hills to sing,
+    I more delight than lark in summer days,
+    Whose echo made the neighbour groves to ring,
+    And taught the birds, which in the lower spring
+    Did shroud in shady leaves from sunny rays,
+    Frame to thy song their cheerful chirruping,
+    Or hold their peace, for shame of thy sweet lays.
+
+    I saw Calliope with Muses moe,
+    Soon as thy oaten pipe began to sound,
+    Their ivory lutes and tambourins forgo,
+    And from the fountain, where they sat around,
+    Run after hastily thy silver sound;
+    But, when they came where thou thy skill didst shew,
+    They drew aback, as half with shame confound
+    Shepheard to see, them in their art outgo.
+
+    COL. Of Muses, Hobbinol, I con no skill,
+    For they be daughters of the highest Jove,
+    And holden scorn of homely shepheard's quill;
+    For sith I heard that Pan with Phœbus strove,
+    Which him to much rebuke and danger drove,
+    I never list presume to Parnass hill,
+    But, piping low in shade of lowly grove,
+    I play to please myself, all be it ill.
+
+    Nought weigh I, who my song doth praise or blame,
+    Ne strive to win renown, or pass the rest:
+    With shepheard sits not follow flying Fame,
+    But feed his flock in fields where falls them best.
+    I wot my rhymes be rough, and rudely drest;
+    The fitter they my careful case to frame:
+    Enough is me to paint out my unrest,
+    And pour my piteous plaints out in the same.
+
+    The god of shepheards, Tityrus,[10] is dead,
+    Who taught me homely, as I can, to make:
+    He, whilst he lived, was the sovereign head
+    Of shepheards all that be with love ytake;
+    Well couth he wail his woes, and lightly slake
+    The flames which love within his heart had bred,
+    And tell us merry tales to keep us wake,
+    The while our sheep about us safely fed.
+
+    Now dead he is, and lieth wrapt in lead,
+    (O why should Death on him such outrage shew!)
+    And all his passing skill with him is fled,
+    The fame whereof doth daily greater grow.
+    But, if on me some little drops would flow
+    Of that the spring was in his learned head,
+    I soon would learn these woods to wail my woe,
+    And teach the trees their trickling tears to shed.
+
+    Then should my plaints, caus'd of discourtesy,
+    As messengers of this my painful plight,
+    Fly to my love where ever that she be,
+    And pierce her heart with point of worthy wite,
+    As she deserves, that wrought so deadly spite.
+    And thou, Menalcas! that by treachery
+    Didst underfong my lass to wax so light,
+    Shouldst well be known for such thy villany.
+
+    But since I am not as I wish I were,
+    Ye gentle shepheards! which your flocks do feed,
+    Whether on hills, or dales, or other where,
+    Bear witness all of this so wicked deed;
+    And tell the lass, whose flower is wox a weed,
+    And faultless faith is turn'd to faithless fear,
+    That she the truest shepheard's heart made bleed
+    That lives on earth, and loved her most dear.
+
+    HOB. O! careful Colin, I lament thy case;
+    Thy tears would make the hardest flint to flow!
+    Ah! faithless Rosalind, and void of grace,
+    That art the root of all this ruthful woe!
+    But now is time, I guess, homeward to go:
+    Then rise, ye blessed flocks! and home apace,
+    Lest night with stealing steps do you foreslow,
+    And wet your tender lambs that by you trace.
+
+
+    COLIN'S EMBLEME.
+
+    _Gia speme spenta._
+    (Already hope is lost.)
+
+
+
+
+    [Illustration: JULY
+    AEGLOGA
+    SEPTIMA
+
+    EMBLEMES]
+
+

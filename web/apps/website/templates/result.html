@@ -1,0 +1,72 @@
+{% extends "base.html" %}
+
+{% block stylesheets %}
+    <link href="//cdn.datatables.net/1.10.6/css/jquery.dataTables.min.css" type="text/css" rel="stylesheet">
+    <link href="//cdn.datatables.net/plug-ins/1.10.6/integration/bootstrap/3/dataTables.bootstrap.css" type="text/css" rel="stylesheet">
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+
+{% endblock %}
+
+{% block scripts %}
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="//cdn.datatables.net/1.10.6/js/jquery.dataTables.min.js"></script>
+    <script src="//cdn.datatables.net/plug-ins/1.10.6/integration/bootstrap/3/dataTables.bootstrap.js"></script>
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+{% endblock %}
+
+
+{% block content %}
+    <header style=" padding:20px 20px 20px 120px; left:0; right:0;">
+        <div class="logo" style="float:left; margin:0;">
+            <div style="z-index:106;"></div>
+            <div style="left:12px; z-index:102;"></div>
+            <div style="left:6px; top:12px; z-index:104;"></div> 
+            <span style="margin-left:40px;  font-weight:lighter; ">Berry</span>
+            <span style="font-weight:400;">net</span>
+        </div> 
+        <div class="box" style="float:left; margin:0 0 0 80px;">
+            <form method="GET" action="analyze">
+                <i class="fa fa-file-text-o"></i>
+                <input placeholder="Insert a text" type="text" name="text"></input>
+                <button type="submit"> Go </button>
+            </form>
+        </div>
+        <div style="float:left; margin-left:60px;">
+            <span style="padding:8px 12px; border-radius:2px;  background:#766969; color:#FFF;"> 
+                Thy text is naturelike deem to be {% if elizabethan > romantic %} Elizabethan {% else %} Romantic {% endif %}
+            </span>
+        </div>
+    </header>
+    <div class="display cell-border compact hover row-border stripe" style="padding:80px;">
+        <table class="results table table-striped table-bordered dataTable no-footer" style=" ">
+            <thead>
+                <tr>
+                    <th>Word</th>
+                    <th>Count</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for word, count in top %}
+                <tr>
+                    <td>{{ word }}</td>
+                    <td>{{ count }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+{% endblock %}
+
+{% block extra_scripts %}
+    <script>
+        $(document).ready( function () {
+            $('.results').DataTable();
+        } );
+    </script>
+{% endblock %}

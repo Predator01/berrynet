@@ -1,5 +1,8 @@
 .DS_Store
 *.sqlite
+!tests/db/*.db
+!/berrynet_trim.db
+*.db-journal
 
 #logs
 logs/
@@ -59,6 +62,3 @@ docs/_build/
 
 # PyBuilder
 target/
-
-# texts
-texts/
