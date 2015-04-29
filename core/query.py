@@ -13,6 +13,8 @@ from sqlalchemy import or_, and_
 from core.util import dict_key_slice, list_slices
 
 logger = logging.getLogger(__name__)
+MAX_SLICE_SIZE = 900
+
 
 class Query(object):
 
@@ -70,9 +72,6 @@ class Query(object):
         self.word_rates = word_rates
         return word_rates
 
-
-
-        
     def _word_categories(self, word_rates):
         """
         For every word in the database returns a dictionary of word->category
@@ -82,29 +81,31 @@ class Query(object):
         lowest category for words in the database that did not appear in the
         book.
         """
-
         total_words = reduce(lambda x, y: x + y, word_rates.itervalues())
-        rates = {w: (float(c) / total_words) for w, c in word_rates.iteritems()}
+        rates = {word: (float(count) / total_words)
+                 for word, count in word_rates.iteritems()}
         words_not_in_book = self.manager.session.query(Word.text).all()
         words_not_in_book = set(words_not_in_book) - set(rates.keys())
         words_not_in_book = list(words_not_in_book)
 
-        low = self.manager.session.query(Category).filter(Category.description=='low').one()
-        wc_q = self.manager.session.query(WordCategory)
-        for lst in dict_key_slice(rates, 900):
-            words = self.manager.session.query(Word).filter(Word.text.in_( lst )).all()
-            for word in words:    
+        low = self.manager.session.query(Category).\
+            filter(Category.description == 'low').one()
+        word_count_query = self.manager.session.query(WordCategory)
+        for lst in dict_key_slice(rates, MAX_SLICE_SIZE):
+            words = self.manager.session.query(Word).\
+                filter(Word.text.in_(lst)).all()
+            for word in words:
                 rate = rates.get(word.text)
-                wc = wc_q.filter(WordCategory.id_word==word.id).\
-                        filter(WordCategory.min_range <= rate).\
-                        filter(WordCategory.max_range > rate).one()
-                yield wc
+                word_count = word_count_query.filter(WordCategory.id_word == word.id).\
+                    filter(WordCategory.min_range <= rate).\
+                    filter(WordCategory.max_range > rate).one()
+                yield word_count
 
-        
-        for lst in list_slices(map(lambda i: i[0], words_not_in_book), 900):
-            wc = wc_q.filter(WordCategory.id_word.in_( lst )).filter(WordCategory.id_category == low.id).all()
-            for c in wc:    
-                yield c
+        for lst in list_slices(map(lambda i: i[0], words_not_in_book), MAX_SLICE_SIZE):
+            word_count_data = word_count_query.filter(WordCategory.id_word.in_(lst)).\
+                filter(WordCategory.id_category == low.id).all()
+            for word_count in word_count_data:
+                yield word_count
 
         
     def _word_conditional_probability(self, word_id, category_id, period_id):
